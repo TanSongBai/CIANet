@@ -1,0 +1,60 @@
+all/AttnGAN_normal_000.jpg	0.965602553	0.40889324	statue of a man
+all/AttnGAN_normal_012.jpg	1.337589887	0.936285696	life bar and mana bar
+all/AttnGAN_normal_018.jpg	1.101434458	0.373079324	man hating his printer
+all/AttnGAN_normal_021.jpg	1.448560438	0.444707156	portrait of mecha robot
+all/AttnGAN_normal_038.jpg	1.092275216	0.803090148	christmas at kelly family
+all/AttnGAN_normal_040.jpg	0.980694987	0.946101985	an elaborate robot coding
+all/AttnGAN_normal_041.jpg	1.079102747	0.389300995	a raspberry made of metal
+all/AttnGAN_normal_045.jpg	1.252358797	0.325327435	superman punches the pope
+all/AttnGAN_normal_046.jpg	1.220137663	0.873277939	the drowned and the saved
+all/AttnGAN_normal_050.jpg	2.010516065	0.178657573	logo design of a full moon
+all/AttnGAN_normal_075.jpg	0.495534588	0.597640981	concept art of octopus attack, anime style
+all/AttnGAN_normal_076.jpg	1.098613732	0.845084862	a biomechanical dahlia flower, sci-fi style
+all/AttnGAN_normal_077.jpg	1.119807896	0.257352514	a anthropomorphic cat warrior, realistic style
+all/AttnGAN_normal_079.jpg	1.402772373	1.004566026	the infernal dark gun magicks , baroque style
+all/AttnGAN_normal_081.jpg	0.955535203	0.406335814	large purple lovecraftian void, sci-fi style
+all/AttnGAN_normal_088.jpg	1.22513052	1.02748653	a space shuttle flying in space, abstract style
+all/AttnGAN_normal_090.jpg	1.209411183	0.344259439	little girl with a mushroom hat, anime style
+all/AttnGAN_normal_091.jpg	0.863588083	0.702583315	ufo ignoring the laws of phyics, sci-fi style
+all/AttnGAN_normal_092.jpg	0.845580156	0.54868215	steampunk walter white portrait , realistic style
+all/AttnGAN_normal_093.jpg	1.478164096	0.696883506	photo of tony danza eating chili, abstract style
+all/AttnGAN_normal_097.jpg	0.895799678	0.170445589	donald trump playing in the rain, realistic style
+all/AttnGAN_normal_107.jpg	1.014269206	0.856484966	spritesheet game asset vector art, realistic style
+all/AttnGAN_normal_111.jpg	1.178897031	0.534118347	grand canyon full of potato salad, sci-fi style
+all/AttnGAN_normal_116.jpg	1.463287163	0.455996915	portrait of beautiful armored girl, sci-fi style
+all/AttnGAN_normal_117.jpg	1.012573225	0.929074763	portrait of a cloaked female devil, realistic style
+all/AttnGAN_normal_118.jpg	1.112367509	0.547283561	foxes judging a cheese competition, abstract style
+all/AttnGAN_normal_123.jpg	1.041064722	0.850598208	anthropomorphic pine marten animal, elevation view
+all/AttnGAN_normal_124.jpg	1.23918794	0.46888142	action shot of woman pole vaulting, close-up
+all/AttnGAN_normal_127.jpg	0.663293231	0.283979284	robots building robots in a factory, hyper detail
+all/AttnGAN_normal_130.jpg	0.195283431	0.364583826	photography of a happy blonde girl , warm color
+all/AttnGAN_normal_131.jpg	0.971526322	0.471247526	cute fluffy baby panda lion hybrid , cold color
+all/AttnGAN_normal_137.jpg	0.943982102	0.537282046	white fur furry mothman movie scene , hyper detail
+all/AttnGAN_normal_147.jpg	1.230273953	0.577911226	bill gates and jason statham fight m , hyper detail
+all/AttnGAN_normal_151.jpg	1.147337281	0.786886493	photo of a white fashion jewelry store, cold color
+all/AttnGAN_normal_154.jpg	1.038703499	0.742358137	cute fluffy baby poodle giraffe hybrid, close-up
+all/AttnGAN_normal_160.jpg	0.754308478	0.683466599	cute soul ghost in infinity mirror room, warm color
+all/AttnGAN_normal_166.jpg	1.284080589	0.74154824	a cybertronic metallic green tree frog , blurred detail
+all/AttnGAN_normal_167.jpg	1.337589887	0.491681629	two women working in a recording studio, hyper detail
+all/AttnGAN_normal_168.jpg	1.012573225	0.876413908	the celestial realm of the elven deities, soft lighting
+all/AttnGAN_normal_170.jpg	1.04513849	0.927777366	portrait of butterflies swarming flowers, warm color
+all/AttnGAN_normal_178.jpg	0.358179955	0.282183064	a car crawling with human hands and feet, soft lighting
+all/AttnGAN_normal_187.jpg	0.902526954	0.874199281	softboy aesthetic in ancient greek clothing, hyper detail, realistic style
+all/AttnGAN_normal_192.jpg	1.144024742	0.957159937	beautiful ancient temple in a formal garden, top view, realistic style
+all/AttnGAN_normal_195.jpg	1.16308973	0.605043529	unique epic pink space elf knight adventurer, long-shot, anime style
+all/AttnGAN_normal_200.jpg	1.101434458	0.934164013	alien planet landscape made out of mushrooms, warm color, anime style
+all/AttnGAN_normal_213.jpg	0.995940844	0.534118347	a biomechanical hibiscus flower made of metal, elevation view, abstract style
+all/AttnGAN_normal_214.jpg	1.403283136	1.459434787	render of rivendell dreamy beautiful landscape, close-up, baroque style
+all/AttnGAN_normal_219.jpg	0.829617037	0.863248694	a brand logo of henry cavill as a catholic nun, HDR lighting, baroque style
+all/AttnGAN_normal_220.jpg	0.920636016	0.775738154	sparkling heart blue mana tree inside a marble, warm color, top view
+all/AttnGAN_normal_238.jpg	0.705005947	0.560082254	many bodies floating in an infinite lake of blood, elevation view, close-up
+all/AttnGAN_normal_239.jpg	0.937026638	0.874199281	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/AttnGAN_normal_242.jpg	0.865931916	0.344259439	a living room with a black and white chevron floor, elevation view, blurred detail
+all/AttnGAN_normal_245.jpg	1.126728573	0.913485487	fullbody portrait of half - fox woman with fox ears, top view, HDR lighting
+all/AttnGAN_normal_253.jpg	1.3374464	1.399151384	a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting
+all/AttnGAN_normal_261.jpg	0.865931916	0.828455166	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/AttnGAN_normal_262.jpg	1.075025374	0.672723404	edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style
+all/AttnGAN_normal_264.jpg	1.267302782	1.301089033	a hyper intricate oil portrait red cathedral interior, warm color, close-up, baroque style
+all/AttnGAN_normal_280.jpg	1.178524426	0.886050804	rats in tuxedos drinking champagne in bubbles in the space, top view, blurred detail, anime style
+all/AttnGAN_normal_283.jpg	0.850777428	0.957159937	steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style
+all/AttnGAN_normal_290.jpg	0.799027902	0.933456892	a portrait of girl chronomancer glass jewelry padlocks fantasy, long-shot, blurred detail, anime style

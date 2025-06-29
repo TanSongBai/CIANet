@@ -1,0 +1,58 @@
+all/DALLE2_normal_004.jpg	2.790423236	3.569908726	red and blue armor
+all/DALLE2_normal_005.jpg	3.430745058	3.202040316	house of the dragon
+all/DALLE2_normal_007.jpg	1.910721781	3.167161119	a cat doing karaoke
+all/DALLE2_normal_011.jpg	3.430745058	0.983010198	the prince of the sun
+all/DALLE2_normal_014.jpg	2.954193289	3.752111454	a small leopard gecko
+all/DALLE2_normal_017.jpg	2.939794687	2.055944631	tragedy of the commons
+all/DALLE2_normal_037.jpg	3.645914271	3.658965437	demon queen with red eyes
+all/DALLE2_normal_040.jpg	2.80733647	3.311510172	an elaborate robot coding
+all/DALLE2_normal_045.jpg	2.209149982	3.809111975	superman punches the pope
+all/DALLE2_normal_046.jpg	2.917313663	2.080332784	the drowned and the saved
+all/DALLE2_normal_050.jpg	2.825502717	3.10133505	logo design of a full moon
+all/DALLE2_normal_052.jpg	2.92075847	3.078582412	concept art of giant ogres
+all/DALLE2_normal_053.jpg	2.405953874	2.919903841	castle from howl's sticker
+all/DALLE2_normal_061.jpg	1.815542197	2.486699878	a yellow rendition of venom, sci-fi style
+all/DALLE2_normal_064.jpg	2.545997226	3.169153524	monsters playing board games, baroque style
+all/DALLE2_normal_069.jpg	3.259652507	3.465014103	synthwave astronaut tabby cat, baroque style
+all/DALLE2_normal_078.jpg	2.247254325	3.124625168	tree of life embroidered scene, abstract style
+all/DALLE2_normal_083.jpg	1.368272689	3.291909811	eiffel tower drenched in blood, abstract style
+all/DALLE2_normal_086.jpg	3.773548415	2.982848125	a very drunk person named aaron, sci-fi style
+all/DALLE2_normal_089.jpg	3.244560073	2.880053469	a crocodile in a new york sewer, baroque style
+all/DALLE2_normal_092.jpg	2.974361596	2.433914506	steampunk walter white portrait , realistic style
+all/DALLE2_normal_104.jpg	2.686140018	3.154626828	a biomechanical cybertronic frog, baroque style
+all/DALLE2_normal_107.jpg	2.713760366	2.971918712	spritesheet game asset vector art, realistic style
+all/DALLE2_normal_109.jpg	3.058757207	3.090433934	photograph of beautiful landscape, baroque style
+all/DALLE2_normal_115.jpg	1.696019687	2.094906068	ocean of canvas that catches fire, anime style
+all/DALLE2_normal_119.jpg	3.041507365	2.995621756	female demon in a medieval dungeon, baroque style
+all/DALLE2_normal_122.jpg	1.961760789	2.092525257	chinese demon god character design, top view
+all/DALLE2_normal_132.jpg	3.402221092	3.64096935	a girl with rainbow in white shirt , top view
+all/DALLE2_normal_140.jpg	3.319686232	2.86290332	cute great old ones sitting in a bar, warm color
+all/DALLE2_normal_143.jpg	1.463652872	1.805635978	portrait of squids swarming the ocean, elevation view
+all/DALLE2_normal_144.jpg	3.334754679	3.884485921	pendant of a silver starfish necklace, close-up
+all/DALLE2_normal_148.jpg	2.869848764	3.592509994	a portrait painting of a buck in suit, soft lighting
+all/DALLE2_normal_150.jpg	2.846003747	3.092308057	portrait of ciri as a samurai assassin, warm color
+all/DALLE2_normal_151.jpg	3.041723666	2.917022056	photo of a white fashion jewelry store, cold color
+all/DALLE2_normal_167.jpg	2.321609349	2.78310259	two women working in a recording studio, hyper detail
+all/DALLE2_normal_184.jpg	2.248459435	3.094936968	professional studio logo for robot artists, close-up, baroque style
+all/DALLE2_normal_190.jpg	2.67293154	3.485324022	delicious peanut butter donut with glazing , warm color, anime style
+all/DALLE2_normal_191.jpg	2.420011295	2.62350113	cute fluffy golden teddy bear eating bagels, cold color, sci-fi style
+all/DALLE2_normal_195.jpg	2.4902984	2.988304467	unique epic pink space elf knight adventurer, long-shot, anime style
+all/DALLE2_normal_196.jpg	1.956105243	1.498880017	the essence of the chemical element hydrogen, blurred detail, sci-fi style
+all/DALLE2_normal_198.jpg	2.478101113	2.935379657	robots creating new robots in a factory line, soft lighting, abstract style
+all/DALLE2_normal_212.jpg	3.169097903	3.130750884	a glass vase of pink and white dahlia flowers, top view, realistic style
+all/DALLE2_normal_215.jpg	2.344386154	2.54176312	portrait with no signature of aggressive alien, long-shot, anime style
+all/DALLE2_normal_226.jpg	2.825502717	3.153995905	an anatomically correct cybertronic human heart, cold color, close-up
+all/DALLE2_normal_227.jpg	1.851568074	3.299094897	a sketch drawing of a hamster in a fruit basket, cold color, long-shot
+all/DALLE2_normal_233.jpg	2.196265106	3.031176323	a penguin slipping on a banana in the antarctic , warm color, HDR lighting
+all/DALLE2_normal_239.jpg	3.43455948	2.045152119	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/DALLE2_normal_243.jpg	2.446668218	2.958190852	mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail
+all/DALLE2_normal_251.jpg	2.74826005	3.161543067	a brain with eyeballs peaking out between the folds, long-shot, hyper detail
+all/DALLE2_normal_253.jpg	0	0.253699602	a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting
+all/DALLE2_normal_255.jpg	2.260001775	2.706378634	magician god holding a divine staff character design, long-shot, HDR lighting
+all/DALLE2_normal_260.jpg	2.671047584	3.142688856	mickey mouse head automaton held by a mechanical claw, warm color, top view, anime style
+all/DALLE2_normal_261.jpg	2.803217798	3.092308057	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/DALLE2_normal_269.jpg	3.365299544	3.274006549	poignant portrait of an older man remembering his youth, warm color, hyper detail, baroque style
+all/DALLE2_normal_274.jpg	3.419625599	2.951467196	angled photograph of an abandoned train cart during dusk, cold color, soft lighting, baroque style
+all/DALLE2_normal_281.jpg	3.576252467	3.078582412	portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style
+all/DALLE2_normal_284.jpg	3.593502309	3.149691545	portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style
+all/DALLE2_normal_289.jpg	3.075586915	3.491984103	portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style

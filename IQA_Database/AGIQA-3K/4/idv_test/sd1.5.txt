@@ -1,0 +1,240 @@
+all/sd1.5_highcorr_003.jpg	2.760431848	3.336157521	a cosmic universe
+all/sd1.5_highcorr_010.jpg	0.887752418	1.460690493	face shot of a woman
+all/sd1.5_highcorr_011.jpg	2.742340814	3.430465396	the prince of the sun
+all/sd1.5_highcorr_012.jpg	3.093256891	2.059351502	life bar and mana bar
+all/sd1.5_highcorr_019.jpg	2.640862716	2.354782696	big boss eating dinner
+all/sd1.5_highcorr_020.jpg	3.630412823	3.787279028	a overgrown old house
+all/sd1.5_highcorr_026.jpg	2.127719964	2.068271365	a painting of a eclipse
+all/sd1.5_highcorr_031.jpg	2.92075847	3.031176323	black mickey mouse skull
+all/sd1.5_highcorr_038.jpg	2.65898745	2.452499565	christmas at kelly family
+all/sd1.5_highcorr_042.jpg	2.927618961	3.787339351	a man jumping off a cliff
+all/sd1.5_highcorr_043.jpg	3.455805152	3.703493793	a frog wearing police cap
+all/sd1.5_highcorr_044.jpg	2.355888108	3.269342324	male warrior silver armor
+all/sd1.5_highcorr_046.jpg	2.491680335	2.568020722	the drowned and the saved
+all/sd1.5_highcorr_054.jpg	3.27751397	3.82051208	beautiful white fluffy cat
+all/sd1.5_highcorr_058.jpg	3.136939761	3.58110989	hairy man in eagle costume
+all/sd1.5_highcorr_065.jpg	2.994111578	3.158021435	an environmental concept art, anime style
+all/sd1.5_highcorr_073.jpg	3.048428469	2.47896401	otter making a disgusted face, abstract style
+all/sd1.5_highcorr_079.jpg	2.418144251	1.946215579	the infernal dark gun magicks , baroque style
+all/sd1.5_highcorr_080.jpg	2.61389334	3.202549791	painted portrait of goblin man, anime style
+all/sd1.5_highcorr_087.jpg	0.621134369	1.702366115	a tonalism portrait of a ghost , realistic style
+all/sd1.5_highcorr_099.jpg	3.316649193	2.994768272	brain floating out of a portrait, baroque style
+all/sd1.5_highcorr_102.jpg	3.305628811	3.18210624	a grand stag in a fantasy forest, realistic style
+all/sd1.5_highcorr_113.jpg	0.64666085	1.705822381	epic colourful scene from a dream, abstract style
+all/sd1.5_highcorr_114.jpg	3.893534731	3.118812912	donut glazed with white chocolate, baroque style
+all/sd1.5_highcorr_118.jpg	2.111462098	2.679341611	foxes judging a cheese competition, abstract style
+all/sd1.5_highcorr_120.jpg	2.135311817	3.510154573	die cut sticker of a pair of lips , warm color
+all/sd1.5_highcorr_121.jpg	3.744508689	2.275412354	cute green tabby cat made of leaves, cold color
+all/sd1.5_highcorr_123.jpg	1.928001564	2.213097376	anthropomorphic pine marten animal, elevation view
+all/sd1.5_highcorr_131.jpg	3.208047473	2.890691628	cute fluffy baby panda lion hybrid , cold color
+all/sd1.5_highcorr_134.jpg	2.96825071	2.78310259	a biomechanical orchid heart fusion, close-up
+all/sd1.5_highcorr_139.jpg	1.678769845	2.462303257	digital painting of a lake at sunset, HDR lighting
+all/sd1.5_highcorr_142.jpg	2.592649388	2.258761363	a biomechanical passion fruit flower, top view
+all/sd1.5_highcorr_148.jpg	3.510122043	2.100472987	a portrait painting of a buck in suit, soft lighting
+all/sd1.5_highcorr_149.jpg	2.644930029	2.828703007	a plasticine model of a goblin raider, HDR lighting
+all/sd1.5_highcorr_155.jpg	2.442957962	2.75903949	an auto rickshaw driving through paris, long-shot
+all/sd1.5_highcorr_160.jpg	2.110015896	2.509709346	cute soul ghost in infinity mirror room, warm color
+all/sd1.5_highcorr_161.jpg	3.438253731	3.090433934	cute fluffy baby lop eared bunny rabbit, cold color
+all/sd1.5_highcorr_183.jpg	2.746509754	2.330906752	radioactive alien mushrooms in the forest , elevation view, abstract style
+all/sd1.5_highcorr_186.jpg	2.5465021	3.055730638	a portrait of girl alchemist in blue dress, blurred detail, sci-fi style
+all/sd1.5_highcorr_187.jpg	3.590592228	2.232430935	softboy aesthetic in ancient greek clothing, hyper detail, realistic style
+all/sd1.5_highcorr_192.jpg	3.116981428	3.543429565	beautiful ancient temple in a formal garden, top view, realistic style
+all/sd1.5_highcorr_197.jpg	2.475192184	2.311989774	storm troopers cosplaying the power rangers , hyper detail, realistic style
+all/sd1.5_highcorr_199.jpg	2.000906886	2.628670045	full body portrait of cute girl wearing gown, HDR lighting, baroque style
+all/sd1.5_highcorr_203.jpg	2.988623579	2.226642462	a beautiful brutalist concrete forest temple, elevation view, abstract style
+all/sd1.5_highcorr_211.jpg	2.58928805	2.787496228	a woman in a trench coat looking out a window, cold color, sci-fi style
+all/sd1.5_highcorr_215.jpg	2.260001775	2.311422218	portrait with no signature of aggressive alien, long-shot, anime style
+all/sd1.5_highcorr_220.jpg	2.503716151	2.10471773	sparkling heart blue mana tree inside a marble, warm color, top view
+all/sd1.5_highcorr_227.jpg	2.654631009	2.345378943	a sketch drawing of a hamster in a fruit basket, cold color, long-shot
+all/sd1.5_highcorr_234.jpg	2.526119865	2.456239571	a mechanical human arm sticking out of the earth, cold color, soft lighting
+all/sd1.5_highcorr_236.jpg	3.196755943	2.557115434	short - haired short butch tomboy blonde engineer, top view, close-up
+all/sd1.5_highcorr_243.jpg	3.045671512	3.299580101	mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail
+all/sd1.5_highcorr_246.jpg	2.83450926	2.059351502	alphonse eric from full metal alchemist brotherhood, elevation view, soft lighting
+all/sd1.5_highcorr_256.jpg	2.307551928	3.02250478	full length portrait of a beautiful woman with horns, blurred detail, soft lighting
+all/sd1.5_highcorr_260.jpg	3.174782711	2.811700345	mickey mouse head automaton held by a mechanical claw, warm color, top view, anime style
+all/sd1.5_highcorr_261.jpg	2.746169865	2.677763969	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/sd1.5_highcorr_265.jpg	2.89203224	3.048674194	a blue anatomically correct human brain made of metal, warm color, long-shot, anime style
+all/sd1.5_highcorr_267.jpg	3.129903806	3.291606502	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/sd1.5_highcorr_271.jpg	2.776844014	2.545756544	the gold skull coming out from open cracked marble head, cold color, hyper detail, sci-fi style
+all/sd1.5_highcorr_275.jpg	3.494295005	3.299094897	a vibrant emotional key shot of cute australian shepherd, cold color, HDR lighting, anime style
+all/sd1.5_highcorr_291.jpg	2.883906185	2.86290332	oil painting portrait of anthropomorphic female green fox animal, long-shot, hyper detail, sci-fi style
+all/sd1.5_lowcorr_003.jpg	3.906607461	3.720100101	a cosmic universe
+all/sd1.5_lowcorr_010.jpg	2.897434093	3.763463406	face shot of a woman
+all/sd1.5_lowcorr_011.jpg	3.116324583	2.979908012	the prince of the sun
+all/sd1.5_lowcorr_012.jpg	2.627511156	1.454923869	life bar and mana bar
+all/sd1.5_lowcorr_019.jpg	2.010516065	2.838030773	big boss eating dinner
+all/sd1.5_lowcorr_020.jpg	3.686651939	3.915003482	a overgrown old house
+all/sd1.5_lowcorr_026.jpg	1.6723615	2.082397944	a painting of a eclipse
+all/sd1.5_lowcorr_031.jpg	2.426325581	1.916465803	black mickey mouse skull
+all/sd1.5_lowcorr_038.jpg	3.727351438	3.695110932	christmas at kelly family
+all/sd1.5_lowcorr_042.jpg	3.335114676	2.330906752	a man jumping off a cliff
+all/sd1.5_lowcorr_043.jpg	1.76550155	3.238192633	a frog wearing police cap
+all/sd1.5_lowcorr_044.jpg	3.257944615	3.325143686	male warrior silver armor
+all/sd1.5_lowcorr_046.jpg	2.550308113	3.238192633	the drowned and the saved
+all/sd1.5_lowcorr_054.jpg	2.65898745	3.444308638	beautiful white fluffy cat
+all/sd1.5_lowcorr_058.jpg	2.888789697	3.275195155	hairy man in eagle costume
+all/sd1.5_lowcorr_065.jpg	2.203182133	2.856177525	an environmental concept art, anime style
+all/sd1.5_lowcorr_073.jpg	3.374823956	2.305872894	otter making a disgusted face, abstract style
+all/sd1.5_lowcorr_079.jpg	2.233367001	2.187651086	the infernal dark gun magicks , baroque style
+all/sd1.5_lowcorr_080.jpg	2.808870337	3.61477839	painted portrait of goblin man, anime style
+all/sd1.5_lowcorr_087.jpg	2.010516065	2.377248288	a tonalism portrait of a ghost , realistic style
+all/sd1.5_lowcorr_099.jpg	3.576252467	3.256355245	brain floating out of a portrait, baroque style
+all/sd1.5_lowcorr_102.jpg	2.761602188	2.509976334	a grand stag in a fantasy forest, realistic style
+all/sd1.5_lowcorr_113.jpg	3.150815738	3.820536448	epic colourful scene from a dream, abstract style
+all/sd1.5_lowcorr_114.jpg	3.091080213	2.703161695	donut glazed with white chocolate, baroque style
+all/sd1.5_lowcorr_118.jpg	2.687102292	2.737502173	foxes judging a cheese competition, abstract style
+all/sd1.5_lowcorr_120.jpg	2.659178911	2.75903949	die cut sticker of a pair of lips , warm color
+all/sd1.5_lowcorr_121.jpg	3.091620808	2.271926577	cute green tabby cat made of leaves, cold color
+all/sd1.5_lowcorr_123.jpg	2.673044871	2.06489602	anthropomorphic pine marten animal, elevation view
+all/sd1.5_lowcorr_131.jpg	2.980532355	2.723869967	cute fluffy baby panda lion hybrid , cold color
+all/sd1.5_lowcorr_134.jpg	3.00308113	2.71292186	a biomechanical orchid heart fusion, close-up
+all/sd1.5_lowcorr_139.jpg	2.874527714	3.189847843	digital painting of a lake at sunset, HDR lighting
+all/sd1.5_lowcorr_142.jpg	2.559384627	2.798535131	a biomechanical passion fruit flower, top view
+all/sd1.5_lowcorr_148.jpg	3.093635734	3.417262215	a portrait painting of a buck in suit, soft lighting
+all/sd1.5_lowcorr_149.jpg	2.152199766	2.913115479	a plasticine model of a goblin raider, HDR lighting
+all/sd1.5_lowcorr_155.jpg	2.248014632	2.687482179	an auto rickshaw driving through paris, long-shot
+all/sd1.5_lowcorr_160.jpg	1.720224248	1.244551289	cute soul ghost in infinity mirror room, warm color
+all/sd1.5_lowcorr_161.jpg	2.776694622	3.130750884	cute fluffy baby lop eared bunny rabbit, cold color
+all/sd1.5_lowcorr_183.jpg	1.633735176	1.763328481	radioactive alien mushrooms in the forest , elevation view, abstract style
+all/sd1.5_lowcorr_186.jpg	1.154843415	2.14469675	a portrait of girl alchemist in blue dress, blurred detail, sci-fi style
+all/sd1.5_lowcorr_187.jpg	2.375358302	2.592416657	softboy aesthetic in ancient greek clothing, hyper detail, realistic style
+all/sd1.5_lowcorr_192.jpg	2.689121932	3.299580101	beautiful ancient temple in a formal garden, top view, realistic style
+all/sd1.5_lowcorr_197.jpg	2.882341659	2.617418083	storm troopers cosplaying the power rangers , hyper detail, realistic style
+all/sd1.5_lowcorr_199.jpg	2.732667064	2.939051921	full body portrait of cute girl wearing gown, HDR lighting, baroque style
+all/sd1.5_lowcorr_203.jpg	2.46452189	2.189529698	a beautiful brutalist concrete forest temple, elevation view, abstract style
+all/sd1.5_lowcorr_211.jpg	2.782759734	2.841551967	a woman in a trench coat looking out a window, cold color, sci-fi style
+all/sd1.5_lowcorr_215.jpg	1.927354161	2.192935294	portrait with no signature of aggressive alien, long-shot, anime style
+all/sd1.5_lowcorr_220.jpg	2.565400547	3.1665648	sparkling heart blue mana tree inside a marble, warm color, top view
+all/sd1.5_lowcorr_227.jpg	2.939794687	3.068964724	a sketch drawing of a hamster in a fruit basket, cold color, long-shot
+all/sd1.5_lowcorr_234.jpg	2.81361908	3.079505301	a mechanical human arm sticking out of the earth, cold color, soft lighting
+all/sd1.5_lowcorr_236.jpg	3.25960126	2.994768272	short - haired short butch tomboy blonde engineer, top view, close-up
+all/sd1.5_lowcorr_243.jpg	3.136939761	3.170706135	mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail
+all/sd1.5_lowcorr_246.jpg	2.251322245	2.748902277	alphonse eric from full metal alchemist brotherhood, elevation view, soft lighting
+all/sd1.5_lowcorr_256.jpg	1.676926969	1.644057341	full length portrait of a beautiful woman with horns, blurred detail, soft lighting
+all/sd1.5_lowcorr_260.jpg	2.000906886	1.598202218	mickey mouse head automaton held by a mechanical claw, warm color, top view, anime style
+all/sd1.5_lowcorr_261.jpg	3.048428469	2.857455034	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/sd1.5_lowcorr_265.jpg	3.380391978	2.295092835	a blue anatomically correct human brain made of metal, warm color, long-shot, anime style
+all/sd1.5_lowcorr_267.jpg	2.871898573	2.467831921	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/sd1.5_lowcorr_271.jpg	2.882005876	2.554178395	the gold skull coming out from open cracked marble head, cold color, hyper detail, sci-fi style
+all/sd1.5_lowcorr_275.jpg	3.374823956	2.951467196	a vibrant emotional key shot of cute australian shepherd, cold color, HDR lighting, anime style
+all/sd1.5_lowcorr_291.jpg	3.045671512	3.189847843	oil painting portrait of anthropomorphic female green fox animal, long-shot, hyper detail, sci-fi style
+all/sd1.5_lowstep_003.jpg	2.004546739	3.287387628	a cosmic universe
+all/sd1.5_lowstep_010.jpg	3.659493494	3.915003482	face shot of a woman
+all/sd1.5_lowstep_011.jpg	1.977251303	2.11394401	the prince of the sun
+all/sd1.5_lowstep_012.jpg	2.093677968	1.758483236	life bar and mana bar
+all/sd1.5_lowstep_019.jpg	0.298444431	2.355533995	big boss eating dinner
+all/sd1.5_lowstep_020.jpg	3.380391978	3.870905155	a overgrown old house
+all/sd1.5_lowstep_026.jpg	2.33566677	2.429699357	a painting of a eclipse
+all/sd1.5_lowstep_031.jpg	0.620661421	2.315698314	black mickey mouse skull
+all/sd1.5_lowstep_038.jpg	3.524162768	3.386001822	christmas at kelly family
+all/sd1.5_lowstep_042.jpg	3.231077294	3.787279028	a man jumping off a cliff
+all/sd1.5_lowstep_043.jpg	2.73141732	1.698194229	a frog wearing police cap
+all/sd1.5_lowstep_044.jpg	3.214375205	3.799277323	male warrior silver armor
+all/sd1.5_lowstep_046.jpg	2.532240117	1.653596222	the drowned and the saved
+all/sd1.5_lowstep_054.jpg	3.628699936	3.969519749	beautiful white fluffy cat
+all/sd1.5_lowstep_058.jpg	0.580131327	0.757926983	hairy man in eagle costume
+all/sd1.5_lowstep_065.jpg	3.059933495	3.421504833	an environmental concept art, anime style
+all/sd1.5_lowstep_073.jpg	2.715217134	2.70330186	otter making a disgusted face, abstract style
+all/sd1.5_lowstep_079.jpg	2.817259418	2.071203024	the infernal dark gun magicks , baroque style
+all/sd1.5_lowstep_080.jpg	2.746169865	3.250810209	painted portrait of goblin man, anime style
+all/sd1.5_lowstep_087.jpg	2.195092561	2.327098418	a tonalism portrait of a ghost , realistic style
+all/sd1.5_lowstep_099.jpg	3.386504205	2.604521523	brain floating out of a portrait, baroque style
+all/sd1.5_lowstep_102.jpg	3.361858495	3.353107804	a grand stag in a fantasy forest, realistic style
+all/sd1.5_lowstep_113.jpg	1.079441167	3.046700546	epic colourful scene from a dream, abstract style
+all/sd1.5_lowstep_114.jpg	3.421003889	3.683010044	donut glazed with white chocolate, baroque style
+all/sd1.5_lowstep_118.jpg	2.632073999	2.982575799	foxes judging a cheese competition, abstract style
+all/sd1.5_lowstep_120.jpg	1.834018423	2.651927612	die cut sticker of a pair of lips , warm color
+all/sd1.5_lowstep_121.jpg	3.685179175	2.281498001	cute green tabby cat made of leaves, cold color
+all/sd1.5_lowstep_123.jpg	1.827559877	2.377248288	anthropomorphic pine marten animal, elevation view
+all/sd1.5_lowstep_131.jpg	3.252116811	3.10236099	cute fluffy baby panda lion hybrid , cold color
+all/sd1.5_lowstep_134.jpg	2.917313663	2.653379023	a biomechanical orchid heart fusion, close-up
+all/sd1.5_lowstep_139.jpg	2.377839033	2.908503737	digital painting of a lake at sunset, HDR lighting
+all/sd1.5_lowstep_142.jpg	2.391896453	2.851503215	a biomechanical passion fruit flower, top view
+all/sd1.5_lowstep_148.jpg	3.255352906	3.870197548	a portrait painting of a buck in suit, soft lighting
+all/sd1.5_lowstep_149.jpg	2.097882875	2.679341611	a plasticine model of a goblin raider, HDR lighting
+all/sd1.5_lowstep_155.jpg	2.628129896	2.206550694	an auto rickshaw driving through paris, long-shot
+all/sd1.5_lowstep_160.jpg	2.844740127	2.367643121	cute soul ghost in infinity mirror room, warm color
+all/sd1.5_lowstep_161.jpg	2.559576449	2.245190143	cute fluffy baby lop eared bunny rabbit, cold color
+all/sd1.5_lowstep_183.jpg	2.573155672	2.456699832	radioactive alien mushrooms in the forest , elevation view, abstract style
+all/sd1.5_lowstep_186.jpg	2.938008313	2.865255012	a portrait of girl alchemist in blue dress, blurred detail, sci-fi style
+all/sd1.5_lowstep_187.jpg	0.739960598	1.009528271	softboy aesthetic in ancient greek clothing, hyper detail, realistic style
+all/sd1.5_lowstep_192.jpg	2.883906185	3.296107282	beautiful ancient temple in a formal garden, top view, realistic style
+all/sd1.5_lowstep_197.jpg	2.760431848	2.933805906	storm troopers cosplaying the power rangers , hyper detail, realistic style
+all/sd1.5_lowstep_199.jpg	2.817259418	3.031176323	full body portrait of cute girl wearing gown, HDR lighting, baroque style
+all/sd1.5_lowstep_203.jpg	2.293736737	2.462224445	a beautiful brutalist concrete forest temple, elevation view, abstract style
+all/sd1.5_lowstep_211.jpg	2.509487485	2.798535131	a woman in a trench coat looking out a window, cold color, sci-fi style
+all/sd1.5_lowstep_215.jpg	2.455012736	2.154163679	portrait with no signature of aggressive alien, long-shot, anime style
+all/sd1.5_lowstep_220.jpg	2.90305168	3.214232789	sparkling heart blue mana tree inside a marble, warm color, top view
+all/sd1.5_lowstep_227.jpg	2.701232452	2.366720668	a sketch drawing of a hamster in a fruit basket, cold color, long-shot
+all/sd1.5_lowstep_234.jpg	3.419625599	2.343118719	a mechanical human arm sticking out of the earth, cold color, soft lighting
+all/sd1.5_lowstep_236.jpg	2.65898745	2.634901234	short - haired short butch tomboy blonde engineer, top view, close-up
+all/sd1.5_lowstep_243.jpg	3.001476926	2.827314446	mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail
+all/sd1.5_lowstep_246.jpg	2.844740127	2.879719212	alphonse eric from full metal alchemist brotherhood, elevation view, soft lighting
+all/sd1.5_lowstep_256.jpg	0.505780588	1.206041903	full length portrait of a beautiful woman with horns, blurred detail, soft lighting
+all/sd1.5_lowstep_260.jpg	3.157062251	2.846322945	mickey mouse head automaton held by a mechanical claw, warm color, top view, anime style
+all/sd1.5_lowstep_261.jpg	3.066652656	3.02250478	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/sd1.5_lowstep_265.jpg	2.671047584	2.438348501	a blue anatomically correct human brain made of metal, warm color, long-shot, anime style
+all/sd1.5_lowstep_267.jpg	3.195617381	2.678331145	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/sd1.5_lowstep_271.jpg	4.04445907	3.202378717	the gold skull coming out from open cracked marble head, cold color, hyper detail, sci-fi style
+all/sd1.5_lowstep_275.jpg	3.623856989	3.232987189	a vibrant emotional key shot of cute australian shepherd, cold color, HDR lighting, anime style
+all/sd1.5_lowstep_291.jpg	2.687102292	2.817302903	oil painting portrait of anthropomorphic female green fox animal, long-shot, hyper detail, sci-fi style
+all/sd1.5_normal_003.jpg	2.92075847	3.398573511	a cosmic universe
+all/sd1.5_normal_010.jpg	2.83450926	3.576346344	face shot of a woman
+all/sd1.5_normal_011.jpg	2.203182133	2.486100389	the prince of the sun
+all/sd1.5_normal_012.jpg	2.989757839	2.142312157	life bar and mana bar
+all/sd1.5_normal_019.jpg	2.179358212	2.389907299	big boss eating dinner
+all/sd1.5_normal_020.jpg	3.094767498	3.729311245	a overgrown old house
+all/sd1.5_normal_026.jpg	0.963421965	1.043972564	a painting of a eclipse
+all/sd1.5_normal_031.jpg	2.851759102	2.74673979	black mickey mouse skull
+all/sd1.5_normal_038.jpg	2.523592728	3.696383698	christmas at kelly family
+all/sd1.5_normal_042.jpg	2.763264791	3.447455747	a man jumping off a cliff
+all/sd1.5_normal_043.jpg	2.776844014	3.191417702	a frog wearing police cap
+all/sd1.5_normal_044.jpg	2.899057018	3.146889346	male warrior silver armor
+all/sd1.5_normal_046.jpg	2.218274567	1.996643532	the drowned and the saved
+all/sd1.5_normal_054.jpg	3.0785433	3.548579908	beautiful white fluffy cat
+all/sd1.5_normal_058.jpg	3.093256891	3.078582412	hairy man in eagle costume
+all/sd1.5_normal_065.jpg	3.188291344	3.40931236	an environmental concept art, anime style
+all/sd1.5_normal_073.jpg	2.517978134	2.64118655	otter making a disgusted face, abstract style
+all/sd1.5_normal_079.jpg	2.942711395	3.33369641	the infernal dark gun magicks , baroque style
+all/sd1.5_normal_080.jpg	2.210104633	3.232987189	painted portrait of goblin man, anime style
+all/sd1.5_normal_087.jpg	2.831160905	2.991040101	a tonalism portrait of a ghost , realistic style
+all/sd1.5_normal_099.jpg	2.942711395	2.15183717	brain floating out of a portrait, baroque style
+all/sd1.5_normal_102.jpg	3.490003257	3.374870467	a grand stag in a fantasy forest, realistic style
+all/sd1.5_normal_113.jpg	2.66201084	3.1259885	epic colourful scene from a dream, abstract style
+all/sd1.5_normal_114.jpg	3.031344688	3.174942147	donut glazed with white chocolate, baroque style
+all/sd1.5_normal_118.jpg	2.254782866	1.920999368	foxes judging a cheese competition, abstract style
+all/sd1.5_normal_120.jpg	2.314518391	3.609476773	die cut sticker of a pair of lips , warm color
+all/sd1.5_normal_121.jpg	3.685179175	2.247297688	cute green tabby cat made of leaves, cold color
+all/sd1.5_normal_123.jpg	2.74826005	1.857875624	anthropomorphic pine marten animal, elevation view
+all/sd1.5_normal_131.jpg	3.718303223	1.933414643	cute fluffy baby panda lion hybrid , cold color
+all/sd1.5_normal_134.jpg	3.150815738	2.61625477	a biomechanical orchid heart fusion, close-up
+all/sd1.5_normal_139.jpg	3.897509797	3.435662922	digital painting of a lake at sunset, HDR lighting
+all/sd1.5_normal_142.jpg	3.129903806	3.00217219	a biomechanical passion fruit flower, top view
+all/sd1.5_normal_148.jpg	3.523701266	1.833302852	a portrait painting of a buck in suit, soft lighting
+all/sd1.5_normal_149.jpg	2.67293154	3.013543571	a plasticine model of a goblin raider, HDR lighting
+all/sd1.5_normal_155.jpg	3.062007692	3.068964724	an auto rickshaw driving through paris, long-shot
+all/sd1.5_normal_160.jpg	2.409693201	1.876970161	cute soul ghost in infinity mirror room, warm color
+all/sd1.5_normal_161.jpg	3.136939761	3.239106761	cute fluffy baby lop eared bunny rabbit, cold color
+all/sd1.5_normal_183.jpg	2.717645898	3.14107795	radioactive alien mushrooms in the forest , elevation view, abstract style
+all/sd1.5_normal_186.jpg	1.916425889	1.901139755	a portrait of girl alchemist in blue dress, blurred detail, sci-fi style
+all/sd1.5_normal_187.jpg	3.131243411	2.531454291	softboy aesthetic in ancient greek clothing, hyper detail, realistic style
+all/sd1.5_normal_192.jpg	3.127756575	3.517088733	beautiful ancient temple in a formal garden, top view, realistic style
+all/sd1.5_normal_197.jpg	3.066652656	3.318907491	storm troopers cosplaying the power rangers , hyper detail, realistic style
+all/sd1.5_normal_199.jpg	2.520123245	2.700983887	full body portrait of cute girl wearing gown, HDR lighting, baroque style
+all/sd1.5_normal_203.jpg	1.777662735	1.903300589	a beautiful brutalist concrete forest temple, elevation view, abstract style
+all/sd1.5_normal_211.jpg	2.586734895	3.080096813	a woman in a trench coat looking out a window, cold color, sci-fi style
+all/sd1.5_normal_215.jpg	1.827559877	2.851195987	portrait with no signature of aggressive alien, long-shot, anime style
+all/sd1.5_normal_220.jpg	2.363781612	2.395499044	sparkling heart blue mana tree inside a marble, warm color, top view
+all/sd1.5_normal_227.jpg	2.269716748	2.66591587	a sketch drawing of a hamster in a fruit basket, cold color, long-shot
+all/sd1.5_normal_234.jpg	3.193169444	2.885703528	a mechanical human arm sticking out of the earth, cold color, soft lighting
+all/sd1.5_normal_236.jpg	2.757389397	2.555100504	short - haired short butch tomboy blonde engineer, top view, close-up
+all/sd1.5_normal_243.jpg	3.231255627	3.5526433	mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail
+all/sd1.5_normal_246.jpg	2.646335983	2.616801603	alphonse eric from full metal alchemist brotherhood, elevation view, soft lighting
+all/sd1.5_normal_256.jpg	1.825871285	2.736797804	full length portrait of a beautiful woman with horns, blurred detail, soft lighting
+all/sd1.5_normal_260.jpg	3.507430325	2.469404785	mickey mouse head automaton held by a mechanical claw, warm color, top view, anime style
+all/sd1.5_normal_261.jpg	2.941929382	2.917022056	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/sd1.5_normal_265.jpg	2.897963605	3.033904884	a blue anatomically correct human brain made of metal, warm color, long-shot, anime style
+all/sd1.5_normal_267.jpg	2.888789697	1.824290847	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/sd1.5_normal_271.jpg	3.292854479	2.746134145	the gold skull coming out from open cracked marble head, cold color, hyper detail, sci-fi style
+all/sd1.5_normal_275.jpg	3.306433702	3.146889346	a vibrant emotional key shot of cute australian shepherd, cold color, HDR lighting, anime style
+all/sd1.5_normal_291.jpg	2.957803829	3.011371163	oil painting portrait of anthropomorphic female green fox animal, long-shot, hyper detail, sci-fi style

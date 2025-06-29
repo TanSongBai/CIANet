@@ -1,0 +1,57 @@
+all/DALLE2_normal_000.jpg	3.058757207	3.481534167	statue of a man
+all/DALLE2_normal_012.jpg	2.792237956	2.69321342	life bar and mana bar
+all/DALLE2_normal_018.jpg	2.476222723	2.903856842	man hating his printer
+all/DALLE2_normal_021.jpg	2.147166571	3.080115584	portrait of mecha robot
+all/DALLE2_normal_038.jpg	2.520123245	2.927805358	christmas at kelly family
+all/DALLE2_normal_040.jpg	2.80733647	3.311510172	an elaborate robot coding
+all/DALLE2_normal_041.jpg	2.532418004	3.491984103	a raspberry made of metal
+all/DALLE2_normal_045.jpg	2.209149982	3.809111975	superman punches the pope
+all/DALLE2_normal_046.jpg	2.917313663	2.080332784	the drowned and the saved
+all/DALLE2_normal_050.jpg	2.825502717	3.10133505	logo design of a full moon
+all/DALLE2_normal_075.jpg	2.239848985	3.609476773	concept art of octopus attack, anime style
+all/DALLE2_normal_076.jpg	2.743331976	3.136505822	a biomechanical dahlia flower, sci-fi style
+all/DALLE2_normal_077.jpg	2.765509892	3.2326522	a anthropomorphic cat warrior, realistic style
+all/DALLE2_normal_079.jpg	2.491680335	2.90198339	the infernal dark gun magicks , baroque style
+all/DALLE2_normal_081.jpg	1.523022688	2.951467196	large purple lovecraftian void, sci-fi style
+all/DALLE2_normal_088.jpg	3.334754679	3.517088733	a space shuttle flying in space, abstract style
+all/DALLE2_normal_090.jpg	2.254782866	2.740407521	little girl with a mushroom hat, anime style
+all/DALLE2_normal_091.jpg	3.369254363	2.723036745	ufo ignoring the laws of phyics, sci-fi style
+all/DALLE2_normal_092.jpg	2.974361596	2.433914506	steampunk walter white portrait , realistic style
+all/DALLE2_normal_093.jpg	2.476240979	3.227706657	photo of tony danza eating chili, abstract style
+all/DALLE2_normal_107.jpg	2.713760366	2.971918712	spritesheet game asset vector art, realistic style
+all/DALLE2_normal_111.jpg	2.580492981	1.316179121	grand canyon full of potato salad, sci-fi style
+all/DALLE2_normal_116.jpg	3.131243411	1.824290847	portrait of beautiful armored girl, sci-fi style
+all/DALLE2_normal_117.jpg	2.176839871	2.443074357	portrait of a cloaked female devil, realistic style
+all/DALLE2_normal_118.jpg	1.747030906	3.274264347	foxes judging a cheese competition, abstract style
+all/DALLE2_normal_123.jpg	2.060413207	1.692657167	anthropomorphic pine marten animal, elevation view
+all/DALLE2_normal_124.jpg	2.541261946	2.877106534	action shot of woman pole vaulting, close-up
+all/DALLE2_normal_127.jpg	3.091620808	3.259317616	robots building robots in a factory, hyper detail
+all/DALLE2_normal_130.jpg	2.472262578	3.1259885	photography of a happy blonde girl , warm color
+all/DALLE2_normal_131.jpg	3.387959109	3.153270423	cute fluffy baby panda lion hybrid , cold color
+all/DALLE2_normal_137.jpg	1.131619326	2.008581504	white fur furry mothman movie scene , hyper detail
+all/DALLE2_normal_151.jpg	3.041723666	2.917022056	photo of a white fashion jewelry store, cold color
+all/DALLE2_normal_154.jpg	3.576252467	3.090433934	cute fluffy baby poodle giraffe hybrid, close-up
+all/DALLE2_normal_160.jpg	2.391896453	3.227706657	cute soul ghost in infinity mirror room, warm color
+all/DALLE2_normal_166.jpg	1.903017791	3.137840023	a cybertronic metallic green tree frog , blurred detail
+all/DALLE2_normal_167.jpg	2.321609349	2.78310259	two women working in a recording studio, hyper detail
+all/DALLE2_normal_168.jpg	2.016407538	2.311982676	the celestial realm of the elven deities, soft lighting
+all/DALLE2_normal_170.jpg	3.442225929	3.057832635	portrait of butterflies swarming flowers, warm color
+all/DALLE2_normal_178.jpg	2.410204999	2.211793876	a car crawling with human hands and feet, soft lighting
+all/DALLE2_normal_187.jpg	2.657997659	1.672693868	softboy aesthetic in ancient greek clothing, hyper detail, realistic style
+all/DALLE2_normal_192.jpg	3.108728168	3.644083685	beautiful ancient temple in a formal garden, top view, realistic style
+all/DALLE2_normal_195.jpg	2.4902984	2.988304467	unique epic pink space elf knight adventurer, long-shot, anime style
+all/DALLE2_normal_200.jpg	2.478791084	3.559815673	alien planet landscape made out of mushrooms, warm color, anime style
+all/DALLE2_normal_213.jpg	2.523592728	2.51693257	a biomechanical hibiscus flower made of metal, elevation view, abstract style
+all/DALLE2_normal_214.jpg	3.088457462	3.17765537	render of rivendell dreamy beautiful landscape, close-up, baroque style
+all/DALLE2_normal_219.jpg	2.299764158	2.983770234	a brand logo of henry cavill as a catholic nun, HDR lighting, baroque style
+all/DALLE2_normal_220.jpg	2.505259558	2.946511745	sparkling heart blue mana tree inside a marble, warm color, top view
+all/DALLE2_normal_239.jpg	3.43455948	2.045152119	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/DALLE2_normal_242.jpg	0.820802133	1.470709125	a living room with a black and white chevron floor, elevation view, blurred detail
+all/DALLE2_normal_245.jpg	3.024257523	3.351167422	fullbody portrait of half - fox woman with fox ears, top view, HDR lighting
+all/DALLE2_normal_253.jpg	0	0.253699602	a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting
+all/DALLE2_normal_261.jpg	2.803217798	3.092308057	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/DALLE2_normal_262.jpg	3.380391978	3.118812912	edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style
+all/DALLE2_normal_264.jpg	2.592649388	3.167161119	a hyper intricate oil portrait red cathedral interior, warm color, close-up, baroque style
+all/DALLE2_normal_280.jpg	2.532470662	2.919903841	rats in tuxedos drinking champagne in bubbles in the space, top view, blurred detail, anime style
+all/DALLE2_normal_283.jpg	2.625770283	3.035247107	steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style
+all/DALLE2_normal_290.jpg	3.193169444	2.874303424	a portrait of girl chronomancer glass jewelry padlocks fantasy, long-shot, blurred detail, anime style

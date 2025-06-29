@@ -1,0 +1,116 @@
+all/midjourney_lowstep_004.jpg	2.293494507	3.353107804	red and blue armor
+all/midjourney_lowstep_005.jpg	2.731010208	2.971918712	house of the dragon
+all/midjourney_lowstep_007.jpg	2.821971923	3.679897602	a cat doing karaoke
+all/midjourney_lowstep_011.jpg	2.315150439	3.080096813	the prince of the sun
+all/midjourney_lowstep_014.jpg	2.871898573	3.558776637	a small leopard gecko
+all/midjourney_lowstep_017.jpg	1.910721781	1.653161525	tragedy of the commons
+all/midjourney_lowstep_037.jpg	2.972896262	3.238192633	demon queen with red eyes
+all/midjourney_lowstep_040.jpg	1.358005834	1.340055066	an elaborate robot coding
+all/midjourney_lowstep_046.jpg	2.084303652	1.33235885	the drowned and the saved
+all/midjourney_lowstep_050.jpg	1.901333455	2.068271365	logo design of a full moon
+all/midjourney_lowstep_052.jpg	1.527555519	2.890851301	concept art of giant ogres
+all/midjourney_lowstep_053.jpg	1.696019687	2.841551967	castle from howl's sticker
+all/midjourney_lowstep_059.jpg	3.407636041	3.627943604	barak obama as master chief
+all/midjourney_lowstep_061.jpg	3.165054602	3.706511037	a yellow rendition of venom, sci-fi style
+all/midjourney_lowstep_064.jpg	1.972017159	3.066730889	monsters playing board games, baroque style
+all/midjourney_lowstep_069.jpg	3.093635734	3.417262215	synthwave astronaut tabby cat, baroque style
+all/midjourney_lowstep_078.jpg	1.771981528	2.37877521	tree of life embroidered scene, abstract style
+all/midjourney_lowstep_086.jpg	2.955258155	2.841551967	a very drunk person named aaron, sci-fi style
+all/midjourney_lowstep_089.jpg	2.023766685	2.936364145	a crocodile in a new york sewer, baroque style
+all/midjourney_lowstep_092.jpg	3.007007681	3.481534167	steampunk walter white portrait , realistic style
+all/midjourney_lowstep_104.jpg	2.505030811	3.178502772	a biomechanical cybertronic frog, baroque style
+all/midjourney_lowstep_107.jpg	2.48951242	2.699333701	spritesheet game asset vector art, realistic style
+all/midjourney_lowstep_109.jpg	3.001476926	3.174942147	photograph of beautiful landscape, baroque style
+all/midjourney_lowstep_115.jpg	1.644270161	1.952687802	ocean of canvas that catches fire, anime style
+all/midjourney_lowstep_119.jpg	2.503716151	3.14107795	female demon in a medieval dungeon, baroque style
+all/midjourney_lowstep_122.jpg	3.007007681	3.374870467	chinese demon god character design, top view
+all/midjourney_lowstep_132.jpg	2.442957962	2.838030773	a girl with rainbow in white shirt , top view
+all/midjourney_lowstep_140.jpg	1.540771109	2.817848923	cute great old ones sitting in a bar, warm color
+all/midjourney_lowstep_143.jpg	1.731197672	1.688692578	portrait of squids swarming the ocean, elevation view
+all/midjourney_lowstep_144.jpg	2.988623579	3.701931716	pendant of a silver starfish necklace, close-up
+all/midjourney_lowstep_147.jpg	2.757389397	2.258697793	bill gates and jason statham fight m , hyper detail
+all/midjourney_lowstep_148.jpg	3.430745058	3.836048921	a portrait painting of a buck in suit, soft lighting
+all/midjourney_lowstep_150.jpg	2.971609163	2.914221371	portrait of ciri as a samurai assassin, warm color
+all/midjourney_lowstep_151.jpg	2.355888108	2.946511745	photo of a white fashion jewelry store, cold color
+all/midjourney_lowstep_167.jpg	2.463857203	2.926636646	two women working in a recording studio, hyper detail
+all/midjourney_lowstep_184.jpg	2.83450926	3.303761333	professional studio logo for robot artists, close-up, baroque style
+all/midjourney_lowstep_190.jpg	2.48951242	3.457831122	delicious peanut butter donut with glazing , warm color, anime style
+all/midjourney_lowstep_191.jpg	2.476240979	2.965504258	cute fluffy golden teddy bear eating bagels, cold color, sci-fi style
+all/midjourney_lowstep_195.jpg	2.472262578	3.149691545	unique epic pink space elf knight adventurer, long-shot, anime style
+all/midjourney_lowstep_196.jpg	2.213514948	2.497857823	the essence of the chemical element hydrogen, blurred detail, sci-fi style
+all/midjourney_lowstep_198.jpg	1.299273321	2.74673979	robots creating new robots in a factory line, soft lighting, abstract style
+all/midjourney_lowstep_212.jpg	2.532470662	2.395499044	a glass vase of pink and white dahlia flowers, top view, realistic style
+all/midjourney_lowstep_215.jpg	2.994111578	2.824058767	portrait with no signature of aggressive alien, long-shot, anime style
+all/midjourney_lowstep_226.jpg	1.674946946	3.154626828	an anatomically correct cybertronic human heart, cold color, close-up
+all/midjourney_lowstep_227.jpg	2.437762894	2.782294356	a sketch drawing of a hamster in a fruit basket, cold color, long-shot
+all/midjourney_lowstep_233.jpg	3.088457462	2.677763969	a penguin slipping on a banana in the antarctic , warm color, HDR lighting
+all/midjourney_lowstep_239.jpg	0.940601322	1.945829918	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/midjourney_lowstep_243.jpg	1.337589887	1.90529456	mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail
+all/midjourney_lowstep_251.jpg	2.209981223	2.169304869	a brain with eyeballs peaking out between the folds, long-shot, hyper detail
+all/midjourney_lowstep_253.jpg	1.920267633	2.604521523	a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting
+all/midjourney_lowstep_255.jpg	2.908664621	3.153995905	magician god holding a divine staff character design, long-shot, HDR lighting
+all/midjourney_lowstep_260.jpg	2.888789697	2.750918808	mickey mouse head automaton held by a mechanical claw, warm color, top view, anime style
+all/midjourney_lowstep_261.jpg	1.776898668	2.727992245	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/midjourney_lowstep_269.jpg	2.987988696	3.1665648	poignant portrait of an older man remembering his youth, warm color, hyper detail, baroque style
+all/midjourney_lowstep_274.jpg	2.03716536	3.202378717	angled photograph of an abandoned train cart during dusk, cold color, soft lighting, baroque style
+all/midjourney_lowstep_281.jpg	2.869008944	2.877106534	portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style
+all/midjourney_lowstep_284.jpg	3.257944615	2.798535131	portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style
+all/midjourney_lowstep_289.jpg	2.260001775	2.745874276	portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style
+all/midjourney_normal_004.jpg	3.763104867	3.634307323	red and blue armor
+all/midjourney_normal_005.jpg	3.773032655	3.433697306	house of the dragon
+all/midjourney_normal_007.jpg	3.658567698	3.410832372	a cat doing karaoke
+all/midjourney_normal_011.jpg	3.825753384	3.113705614	the prince of the sun
+all/midjourney_normal_014.jpg	3.248505469	3.683010044	a small leopard gecko
+all/midjourney_normal_017.jpg	3.252116811	3.280474413	tragedy of the commons
+all/midjourney_normal_037.jpg	4.305784597	4.128221731	demon queen with red eyes
+all/midjourney_normal_040.jpg	3.352004521	3.303761333	an elaborate robot coding
+all/midjourney_normal_046.jpg	4.104828805	2.31896878	the drowned and the saved
+all/midjourney_normal_050.jpg	3.058356047	2.548396068	logo design of a full moon
+all/midjourney_normal_052.jpg	3.524162768	2.790068621	concept art of giant ogres
+all/midjourney_normal_053.jpg	3.307841757	4.115056517	castle from howl's sticker
+all/midjourney_normal_059.jpg	3.208047473	2.890691628	barak obama as master chief
+all/midjourney_normal_061.jpg	2.994111578	3.62556917	a yellow rendition of venom, sci-fi style
+all/midjourney_normal_064.jpg	3.938212751	3.729311245	monsters playing board games, baroque style
+all/midjourney_normal_069.jpg	3.856710319	3.733265315	synthwave astronaut tabby cat, baroque style
+all/midjourney_normal_078.jpg	3.344956193	3.410832372	tree of life embroidered scene, abstract style
+all/midjourney_normal_086.jpg	3.9689969	3.715711518	a very drunk person named aaron, sci-fi style
+all/midjourney_normal_089.jpg	3.657064334	3.375908012	a crocodile in a new york sewer, baroque style
+all/midjourney_normal_092.jpg	3.593502309	3.754119177	steampunk walter white portrait , realistic style
+all/midjourney_normal_104.jpg	3.662501677	3.635603955	a biomechanical cybertronic frog, baroque style
+all/midjourney_normal_107.jpg	2.931575646	3.17765537	spritesheet game asset vector art, realistic style
+all/midjourney_normal_109.jpg	3.561501185	3.536641936	photograph of beautiful landscape, baroque style
+all/midjourney_normal_115.jpg	4.472108404	3.167161119	ocean of canvas that catches fire, anime style
+all/midjourney_normal_119.jpg	3.632335048	3.83707886	female demon in a medieval dungeon, baroque style
+all/midjourney_normal_122.jpg	3.387909038	3.291606502	chinese demon god character design, top view
+all/midjourney_normal_132.jpg	3.896040489	3.900312809	a girl with rainbow in white shirt , top view
+all/midjourney_normal_140.jpg	3.917498726	3.792550504	cute great old ones sitting in a bar, warm color
+all/midjourney_normal_143.jpg	2.903508628	3.4459796	portrait of squids swarming the ocean, elevation view
+all/midjourney_normal_144.jpg	3.559002625	3.943743533	pendant of a silver starfish necklace, close-up
+all/midjourney_normal_147.jpg	3.939872222	2.508900426	bill gates and jason statham fight m , hyper detail
+all/midjourney_normal_148.jpg	3.587626873	3.799471502	a portrait painting of a buck in suit, soft lighting
+all/midjourney_normal_150.jpg	4.029366636	3.978346905	portrait of ciri as a samurai assassin, warm color
+all/midjourney_normal_151.jpg	2.233675103	2.868587123	photo of a white fashion jewelry store, cold color
+all/midjourney_normal_167.jpg	3.550859712	3.658965437	two women working in a recording studio, hyper detail
+all/midjourney_normal_184.jpg	4.016980847	3.683968423	professional studio logo for robot artists, close-up, baroque style
+all/midjourney_normal_190.jpg	3.249399128	3.079505301	delicious peanut butter donut with glazing , warm color, anime style
+all/midjourney_normal_191.jpg	3.840077938	3.496291466	cute fluffy golden teddy bear eating bagels, cold color, sci-fi style
+all/midjourney_normal_195.jpg	3.576593619	3.488890048	unique epic pink space elf knight adventurer, long-shot, anime style
+all/midjourney_normal_196.jpg	3.038537814	2.931303945	the essence of the chemical element hydrogen, blurred detail, sci-fi style
+all/midjourney_normal_198.jpg	3.707018893	3.404134969	robots creating new robots in a factory line, soft lighting, abstract style
+all/midjourney_normal_212.jpg	3.143483028	3.158021435	a glass vase of pink and white dahlia flowers, top view, realistic style
+all/midjourney_normal_215.jpg	3.83602339	2.924247568	portrait with no signature of aggressive alien, long-shot, anime style
+all/midjourney_normal_226.jpg	3.657064334	3.717911141	an anatomically correct cybertronic human heart, cold color, close-up
+all/midjourney_normal_227.jpg	3.365299544	2.641294027	a sketch drawing of a hamster in a fruit basket, cold color, long-shot
+all/midjourney_normal_233.jpg	3.509228886	2.529347845	a penguin slipping on a banana in the antarctic , warm color, HDR lighting
+all/midjourney_normal_239.jpg	3.062007692	2.824058767	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/midjourney_normal_243.jpg	3.523701266	3.091228902	mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail
+all/midjourney_normal_251.jpg	3.673754131	3.10133505	a brain with eyeballs peaking out between the folds, long-shot, hyper detail
+all/midjourney_normal_253.jpg	3.558662387	3.318907491	a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting
+all/midjourney_normal_255.jpg	3.881983068	3.478508951	magician god holding a divine staff character design, long-shot, HDR lighting
+all/midjourney_normal_260.jpg	3.374823956	2.51693257	mickey mouse head automaton held by a mechanical claw, warm color, top view, anime style
+all/midjourney_normal_261.jpg	3.757702826	3.297882494	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/midjourney_normal_269.jpg	4.145497254	1.573439091	poignant portrait of an older man remembering his youth, warm color, hyper detail, baroque style
+all/midjourney_normal_274.jpg	3.494295005	2.839729721	angled photograph of an abandoned train cart during dusk, cold color, soft lighting, baroque style
+all/midjourney_normal_281.jpg	3.815818605	3.494659672	portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style
+all/midjourney_normal_284.jpg	4.074643938	3.047185079	portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style
+all/midjourney_normal_289.jpg	3.659493494	3.514248281	portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style

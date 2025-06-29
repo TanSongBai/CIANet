@@ -1,0 +1,60 @@
+all/AttnGAN_normal_004.jpg	1.391763291	0.564244714	red and blue armor
+all/AttnGAN_normal_007.jpg	0.80654015	0.397771485	a cat doing karaoke
+all/AttnGAN_normal_012.jpg	1.337589887	0.936285696	life bar and mana bar
+all/AttnGAN_normal_020.jpg	0.965602553	0.277575547	a overgrown old house
+all/AttnGAN_normal_029.jpg	0.747278376	0.530505137	legendary river of slugs
+all/AttnGAN_normal_036.jpg	1.116526892	0.468583101	gnome warfare at walmart
+all/AttnGAN_normal_041.jpg	1.079102747	0.389300995	a raspberry made of metal
+all/AttnGAN_normal_042.jpg	1.253245361	1.004686321	a man jumping off a cliff
+all/AttnGAN_normal_045.jpg	1.252358797	0.325327435	superman punches the pope
+all/AttnGAN_normal_051.jpg	1.062470367	0.981735619	hanging gardens of babylon
+all/AttnGAN_normal_060.jpg	0.919776796	0.850496237	artwork with only triangles, anime style
+all/AttnGAN_normal_090.jpg	1.209411183	0.344259439	little girl with a mushroom hat, anime style
+all/AttnGAN_normal_091.jpg	0.863588083	0.702583315	ufo ignoring the laws of phyics, sci-fi style
+all/AttnGAN_normal_092.jpg	0.845580156	0.54868215	steampunk walter white portrait , realistic style
+all/AttnGAN_normal_110.jpg	0.779719895	0.231318429	painted portrait of intense woman, anime style
+all/AttnGAN_normal_117.jpg	1.012573225	0.929074763	portrait of a cloaked female devil, realistic style
+all/AttnGAN_normal_118.jpg	1.112367509	0.547283561	foxes judging a cheese competition, abstract style
+all/AttnGAN_normal_120.jpg	0.940601322	0.69188714	die cut sticker of a pair of lips , warm color
+all/AttnGAN_normal_121.jpg	0.8493261	0.470926324	cute green tabby cat made of leaves, cold color
+all/AttnGAN_normal_123.jpg	1.041064722	0.850598208	anthropomorphic pine marten animal, elevation view
+all/AttnGAN_normal_138.jpg	0.880865797	2.380364545	render of dreamy beautiful landscape, soft lighting
+all/AttnGAN_normal_142.jpg	0.807856712	0.842546938	a biomechanical passion fruit flower, top view
+all/AttnGAN_normal_152.jpg	0.735230234	0.678198368	grumpy the elder gods sitting in a bar, top view
+all/AttnGAN_normal_153.jpg	0.862173603	0.575376803	grumpy king in yellow sitting in a bar, elevation view
+all/AttnGAN_normal_154.jpg	1.038703499	0.742358137	cute fluffy baby poodle giraffe hybrid, close-up
+all/AttnGAN_normal_157.jpg	1.075006252	0.369089989	spaceship flying over a strange planet, hyper detail
+all/AttnGAN_normal_158.jpg	0.912778941	0.968570405	photograph of a stone cairn in scotland, soft lighting
+all/AttnGAN_normal_160.jpg	0.754308478	0.683466599	cute soul ghost in infinity mirror room, warm color
+all/AttnGAN_normal_164.jpg	0.812984657	0.362970567	a pig sitting in a chair smoking a pipe, close-up
+all/AttnGAN_normal_166.jpg	1.284080589	0.74154824	a cybertronic metallic green tree frog , blurred detail
+all/AttnGAN_normal_172.jpg	0.940601322	1.101591216	art of a mimic from dungeons and dragons, top view
+all/AttnGAN_normal_173.jpg	1.197015678	0.970486009	ancient japanese fantasy garden at night, elevation view
+all/AttnGAN_normal_176.jpg	0.806196391	0.977438466	a painting of pink panther as a vampire , blurred detail
+all/AttnGAN_normal_182.jpg	1.010879855	0.373079324	a female warrior in charming phenix armor, top view, realistic style
+all/AttnGAN_normal_187.jpg	0.902526954	0.874199281	softboy aesthetic in ancient greek clothing, hyper detail, realistic style
+all/AttnGAN_normal_194.jpg	0.775293051	0.86788507	a cyborg jellyfish swimming in a vast ocean, close-up, baroque style
+all/AttnGAN_normal_196.jpg	0.8493261	0.629428475	the essence of the chemical element hydrogen, blurred detail, sci-fi style
+all/AttnGAN_normal_204.jpg	0.821435934	0.853679026	2 friends partying and are facing the camera, close-up, baroque style
+all/AttnGAN_normal_207.jpg	1.195774268	1.075675159	painting of a man farmer at work in the field, hyper detail, realistic style
+all/AttnGAN_normal_211.jpg	0.807856712	0.60877307	a woman in a trench coat looking out a window, cold color, sci-fi style
+all/AttnGAN_normal_214.jpg	1.403283136	1.459434787	render of rivendell dreamy beautiful landscape, close-up, baroque style
+all/AttnGAN_normal_233.jpg	0.269225899	0.38908069	a penguin slipping on a banana in the antarctic , warm color, HDR lighting
+all/AttnGAN_normal_239.jpg	0.937026638	0.874199281	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/AttnGAN_normal_240.jpg	0.902526954	0.720129493	photoreal portrait of a futuristic intricate robot, top view, blurred detail
+all/AttnGAN_normal_244.jpg	0.549851479	0.39726338	man at a royal banquet wearing an asymmetrical gown, top view, soft lighting
+all/AttnGAN_normal_252.jpg	0.749492217	0.909855359	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/AttnGAN_normal_259.jpg	0.592546579	0.594282567	a parade of disconnected images : a tragic supernova, hyper detail, HDR lighting
+all/AttnGAN_normal_261.jpg	0.865931916	0.828455166	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/AttnGAN_normal_263.jpg	0.729822753	0.652605272	cute animal character sleeping in the space station, cold color, elevation view, abstract style
+all/AttnGAN_normal_266.jpg	1.056441469	0.822284653	scottish stone cairn inside a glass jar buried in sand, cold color, close-up, sci-fi style
+all/AttnGAN_normal_268.jpg	1.04513849	1.424388367	spaceport on a vast desert planet with ships taking off, warm color, blurred detail, abstract style
+all/AttnGAN_normal_271.jpg	0.712778692	1.123081248	the gold skull coming out from open cracked marble head, cold color, hyper detail, sci-fi style
+all/AttnGAN_normal_274.jpg	0.965602553	0.922226041	angled photograph of an abandoned train cart during dusk, cold color, soft lighting, baroque style
+all/AttnGAN_normal_278.jpg	1.213024111	1.146784292	dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style
+all/AttnGAN_normal_281.jpg	0.971526322	0.696426448	portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style
+all/AttnGAN_normal_282.jpg	1.128999889	1.008066046	strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style
+all/AttnGAN_normal_289.jpg	0	0.058708113	portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style
+all/AttnGAN_normal_292.jpg	1.006026006	1.158635814	a translucent bioluminescent ctenophore floating deep in the sea, close-up, soft lighting, realistic style
+all/AttnGAN_normal_294.jpg	1.284080589	0.940192641	anthropomorphic thresher shark in knight armor dropping his sword, long-shot, soft lighting, baroque style
+all/AttnGAN_normal_297.jpg	1.023275848	0.743832537	cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style

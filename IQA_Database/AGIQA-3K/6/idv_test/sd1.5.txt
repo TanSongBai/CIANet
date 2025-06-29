@@ -1,0 +1,240 @@
+all/sd1.5_highcorr_004.jpg	3.541752783	3.0193248	red and blue armor
+all/sd1.5_highcorr_007.jpg	3.12288234	2.258697793	a cat doing karaoke
+all/sd1.5_highcorr_012.jpg	3.093256891	2.059351502	life bar and mana bar
+all/sd1.5_highcorr_020.jpg	3.630412823	3.787279028	a overgrown old house
+all/sd1.5_highcorr_029.jpg	3.307841757	2.956517697	legendary river of slugs
+all/sd1.5_highcorr_036.jpg	2.701232452	1.996643532	gnome warfare at walmart
+all/sd1.5_highcorr_041.jpg	2.489938377	2.199589058	a raspberry made of metal
+all/sd1.5_highcorr_042.jpg	2.927618961	3.787339351	a man jumping off a cliff
+all/sd1.5_highcorr_045.jpg	3.235341707	2.509500087	superman punches the pope
+all/sd1.5_highcorr_051.jpg	3.645914271	3.514248281	hanging gardens of babylon
+all/sd1.5_highcorr_060.jpg	2.120377936	1.709939693	artwork with only triangles, anime style
+all/sd1.5_highcorr_090.jpg	3.906607461	3.720100101	little girl with a mushroom hat, anime style
+all/sd1.5_highcorr_091.jpg	3.43455948	3.609476773	ufo ignoring the laws of phyics, sci-fi style
+all/sd1.5_highcorr_092.jpg	3.460260441	3.18210624	steampunk walter white portrait , realistic style
+all/sd1.5_highcorr_110.jpg	2.442957962	2.785369917	painted portrait of intense woman, anime style
+all/sd1.5_highcorr_117.jpg	3.438253731	3.054879367	portrait of a cloaked female devil, realistic style
+all/sd1.5_highcorr_118.jpg	2.111462098	2.679341611	foxes judging a cheese competition, abstract style
+all/sd1.5_highcorr_120.jpg	2.135311817	3.510154573	die cut sticker of a pair of lips , warm color
+all/sd1.5_highcorr_121.jpg	3.744508689	2.275412354	cute green tabby cat made of leaves, cold color
+all/sd1.5_highcorr_123.jpg	1.928001564	2.213097376	anthropomorphic pine marten animal, elevation view
+all/sd1.5_highcorr_138.jpg	3.265755311	3.256355245	render of dreamy beautiful landscape, soft lighting
+all/sd1.5_highcorr_142.jpg	2.592649388	2.258761363	a biomechanical passion fruit flower, top view
+all/sd1.5_highcorr_152.jpg	3.386504205	1.549736047	grumpy the elder gods sitting in a bar, top view
+all/sd1.5_highcorr_153.jpg	3.300254995	1.300854081	grumpy king in yellow sitting in a bar, elevation view
+all/sd1.5_highcorr_154.jpg	3.673754131	3.562117535	cute fluffy baby poodle giraffe hybrid, close-up
+all/sd1.5_highcorr_157.jpg	2.926078447	2.965504258	spaceship flying over a strange planet, hyper detail
+all/sd1.5_highcorr_158.jpg	3.211379142	3.180285613	photograph of a stone cairn in scotland, soft lighting
+all/sd1.5_highcorr_160.jpg	2.110015896	2.509709346	cute soul ghost in infinity mirror room, warm color
+all/sd1.5_highcorr_164.jpg	2.248459435	2.521914306	a pig sitting in a chair smoking a pipe, close-up
+all/sd1.5_highcorr_166.jpg	2.925297001	2.996013339	a cybertronic metallic green tree frog , blurred detail
+all/sd1.5_highcorr_172.jpg	1.92623748	1.995491019	art of a mimic from dungeons and dragons, top view
+all/sd1.5_highcorr_173.jpg	3.143483028	3.180285613	ancient japanese fantasy garden at night, elevation view
+all/sd1.5_highcorr_176.jpg	2.278644303	2.127961226	a painting of pink panther as a vampire , blurred detail
+all/sd1.5_highcorr_182.jpg	3.214005785	2.486006301	a female warrior in charming phenix armor, top view, realistic style
+all/sd1.5_highcorr_187.jpg	3.590592228	2.232430935	softboy aesthetic in ancient greek clothing, hyper detail, realistic style
+all/sd1.5_highcorr_194.jpg	3.150815738	3.075619946	a cyborg jellyfish swimming in a vast ocean, close-up, baroque style
+all/sd1.5_highcorr_196.jpg	2.147166571	2.33637472	the essence of the chemical element hydrogen, blurred detail, sci-fi style
+all/sd1.5_highcorr_204.jpg	2.326531297	1.955961444	2 friends partying and are facing the camera, close-up, baroque style
+all/sd1.5_highcorr_207.jpg	3.395484412	3.679897602	painting of a man farmer at work in the field, hyper detail, realistic style
+all/sd1.5_highcorr_211.jpg	2.58928805	2.787496228	a woman in a trench coat looking out a window, cold color, sci-fi style
+all/sd1.5_highcorr_214.jpg	3.92415533	3.752111454	render of rivendell dreamy beautiful landscape, close-up, baroque style
+all/sd1.5_highcorr_233.jpg	2.980532355	1.989152097	a penguin slipping on a banana in the antarctic , warm color, HDR lighting
+all/sd1.5_highcorr_239.jpg	3.289837374	2.77261172	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/sd1.5_highcorr_240.jpg	2.309898917	2.0086223	photoreal portrait of a futuristic intricate robot, top view, blurred detail
+all/sd1.5_highcorr_244.jpg	2.858767479	1.574170242	man at a royal banquet wearing an asymmetrical gown, top view, soft lighting
+all/sd1.5_highcorr_252.jpg	2.782759734	3.315612856	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/sd1.5_highcorr_259.jpg	1.228794173	2.324587432	a parade of disconnected images : a tragic supernova, hyper detail, HDR lighting
+all/sd1.5_highcorr_261.jpg	2.746169865	2.677763969	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/sd1.5_highcorr_263.jpg	3.170641474	3.158021435	cute animal character sleeping in the space station, cold color, elevation view, abstract style
+all/sd1.5_highcorr_266.jpg	3.002885562	3.116693004	scottish stone cairn inside a glass jar buried in sand, cold color, close-up, sci-fi style
+all/sd1.5_highcorr_268.jpg	2.575026067	3.17765537	spaceport on a vast desert planet with ships taking off, warm color, blurred detail, abstract style
+all/sd1.5_highcorr_271.jpg	2.776844014	2.545756544	the gold skull coming out from open cracked marble head, cold color, hyper detail, sci-fi style
+all/sd1.5_highcorr_274.jpg	3.590592228	3.483126252	angled photograph of an abandoned train cart during dusk, cold color, soft lighting, baroque style
+all/sd1.5_highcorr_278.jpg	0.402281536	1.289002558	dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style
+all/sd1.5_highcorr_281.jpg	2.821971923	2.868115497	portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style
+all/sd1.5_highcorr_282.jpg	1.750409116	2.784549692	strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style
+all/sd1.5_highcorr_289.jpg	2.518838781	3.336134858	portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style
+all/sd1.5_highcorr_292.jpg	2.110748036	2.657701443	a translucent bioluminescent ctenophore floating deep in the sea, close-up, soft lighting, realistic style
+all/sd1.5_highcorr_294.jpg	0.421466604	0.726968261	anthropomorphic thresher shark in knight armor dropping his sword, long-shot, soft lighting, baroque style
+all/sd1.5_highcorr_297.jpg	2.210104633	2.508900426	cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style
+all/sd1.5_lowcorr_004.jpg	2.309898917	3.153995905	red and blue armor
+all/sd1.5_lowcorr_007.jpg	2.354106472	1.972767588	a cat doing karaoke
+all/sd1.5_lowcorr_012.jpg	2.627511156	1.454923869	life bar and mana bar
+all/sd1.5_lowcorr_020.jpg	3.686651939	3.915003482	a overgrown old house
+all/sd1.5_lowcorr_029.jpg	3.208047473	2.35091786	legendary river of slugs
+all/sd1.5_lowcorr_036.jpg	3.106014094	1.958245193	gnome warfare at walmart
+all/sd1.5_lowcorr_041.jpg	2.874527714	2.177872569	a raspberry made of metal
+all/sd1.5_lowcorr_042.jpg	3.335114676	2.330906752	a man jumping off a cliff
+all/sd1.5_lowcorr_045.jpg	2.520123245	2.31896878	superman punches the pope
+all/sd1.5_lowcorr_051.jpg	3.630412823	3.055730638	hanging gardens of babylon
+all/sd1.5_lowcorr_060.jpg	2.927618961	2.927805358	artwork with only triangles, anime style
+all/sd1.5_lowcorr_090.jpg	3.145006417	3.683010044	little girl with a mushroom hat, anime style
+all/sd1.5_lowcorr_091.jpg	1.946610757	2.760673748	ufo ignoring the laws of phyics, sci-fi style
+all/sd1.5_lowcorr_092.jpg	3.263456549	2.988304467	steampunk walter white portrait , realistic style
+all/sd1.5_lowcorr_110.jpg	2.043565984	2.27858641	painted portrait of intense woman, anime style
+all/sd1.5_lowcorr_117.jpg	3.576593619	3.094936968	portrait of a cloaked female devil, realistic style
+all/sd1.5_lowcorr_118.jpg	2.687102292	2.737502173	foxes judging a cheese competition, abstract style
+all/sd1.5_lowcorr_120.jpg	2.659178911	2.75903949	die cut sticker of a pair of lips , warm color
+all/sd1.5_lowcorr_121.jpg	3.091620808	2.271926577	cute green tabby cat made of leaves, cold color
+all/sd1.5_lowcorr_123.jpg	2.673044871	2.06489602	anthropomorphic pine marten animal, elevation view
+all/sd1.5_lowcorr_138.jpg	3.757702826	3.906719072	render of dreamy beautiful landscape, soft lighting
+all/sd1.5_lowcorr_142.jpg	2.559384627	2.798535131	a biomechanical passion fruit flower, top view
+all/sd1.5_lowcorr_152.jpg	2.11262753	2.31896878	grumpy the elder gods sitting in a bar, top view
+all/sd1.5_lowcorr_153.jpg	0.313378312	0.753963515	grumpy king in yellow sitting in a bar, elevation view
+all/sd1.5_lowcorr_154.jpg	3.024257523	2.805997401	cute fluffy baby poodle giraffe hybrid, close-up
+all/sd1.5_lowcorr_157.jpg	3.424268421	3.27248283	spaceship flying over a strange planet, hyper detail
+all/sd1.5_lowcorr_158.jpg	3.048358432	3.190440744	photograph of a stone cairn in scotland, soft lighting
+all/sd1.5_lowcorr_160.jpg	1.720224248	1.244551289	cute soul ghost in infinity mirror room, warm color
+all/sd1.5_lowcorr_164.jpg	2.817259418	3.1259885	a pig sitting in a chair smoking a pipe, close-up
+all/sd1.5_lowcorr_166.jpg	3.010422973	2.885703528	a cybertronic metallic green tree frog , blurred detail
+all/sd1.5_lowcorr_172.jpg	2.681789454	2.879719212	art of a mimic from dungeons and dragons, top view
+all/sd1.5_lowcorr_173.jpg	3.544604966	2.509500087	ancient japanese fantasy garden at night, elevation view
+all/sd1.5_lowcorr_176.jpg	1.554713964	1.165377517	a painting of pink panther as a vampire , blurred detail
+all/sd1.5_lowcorr_182.jpg	3.074195478	2.202257515	a female warrior in charming phenix armor, top view, realistic style
+all/sd1.5_lowcorr_187.jpg	2.375358302	2.592416657	softboy aesthetic in ancient greek clothing, hyper detail, realistic style
+all/sd1.5_lowcorr_194.jpg	2.746509754	3.142688856	a cyborg jellyfish swimming in a vast ocean, close-up, baroque style
+all/sd1.5_lowcorr_196.jpg	1.597692094	2.032736844	the essence of the chemical element hydrogen, blurred detail, sci-fi style
+all/sd1.5_lowcorr_204.jpg	2.966953132	1.788774497	2 friends partying and are facing the camera, close-up, baroque style
+all/sd1.5_lowcorr_207.jpg	2.524012104	2.900809578	painting of a man farmer at work in the field, hyper detail, realistic style
+all/sd1.5_lowcorr_211.jpg	2.782759734	2.841551967	a woman in a trench coat looking out a window, cold color, sci-fi style
+all/sd1.5_lowcorr_214.jpg	3.544604966	3.398708221	render of rivendell dreamy beautiful landscape, close-up, baroque style
+all/sd1.5_lowcorr_233.jpg	3.700231162	2.256322232	a penguin slipping on a banana in the antarctic , warm color, HDR lighting
+all/sd1.5_lowcorr_239.jpg	3.541752783	2.900809578	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/sd1.5_lowcorr_240.jpg	3.442225929	3.024436368	photoreal portrait of a futuristic intricate robot, top view, blurred detail
+all/sd1.5_lowcorr_244.jpg	1.659854513	0.946101985	man at a royal banquet wearing an asymmetrical gown, top view, soft lighting
+all/sd1.5_lowcorr_252.jpg	2.448126137	2.634901234	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/sd1.5_lowcorr_259.jpg	2.315150439	2.412171477	a parade of disconnected images : a tragic supernova, hyper detail, HDR lighting
+all/sd1.5_lowcorr_261.jpg	3.048428469	2.857455034	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/sd1.5_lowcorr_263.jpg	2.643063777	2.343118719	cute animal character sleeping in the space station, cold color, elevation view, abstract style
+all/sd1.5_lowcorr_266.jpg	2.988623579	2.665571496	scottish stone cairn inside a glass jar buried in sand, cold color, close-up, sci-fi style
+all/sd1.5_lowcorr_268.jpg	3.438253731	2.794145879	spaceport on a vast desert planet with ships taking off, warm color, blurred detail, abstract style
+all/sd1.5_lowcorr_271.jpg	2.882005876	2.554178395	the gold skull coming out from open cracked marble head, cold color, hyper detail, sci-fi style
+all/sd1.5_lowcorr_274.jpg	3.544840924	3.019153218	angled photograph of an abandoned train cart during dusk, cold color, soft lighting, baroque style
+all/sd1.5_lowcorr_278.jpg	1.991888058	2.139899198	dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style
+all/sd1.5_lowcorr_281.jpg	1.676521125	1.934023105	portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style
+all/sd1.5_lowcorr_282.jpg	1.991888058	1.996643532	strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style
+all/sd1.5_lowcorr_289.jpg	1.759312513	2.919903841	portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style
+all/sd1.5_lowcorr_292.jpg	0.943982102	2.349898627	a translucent bioluminescent ctenophore floating deep in the sea, close-up, soft lighting, realistic style
+all/sd1.5_lowcorr_294.jpg	2.939794687	2.857455034	anthropomorphic thresher shark in knight armor dropping his sword, long-shot, soft lighting, baroque style
+all/sd1.5_lowcorr_297.jpg	2.851759102	3.351167422	cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style
+all/sd1.5_lowstep_004.jpg	2.775605575	3.351474113	red and blue armor
+all/sd1.5_lowstep_007.jpg	3.214375205	2.163775142	a cat doing karaoke
+all/sd1.5_lowstep_012.jpg	2.093677968	1.758483236	life bar and mana bar
+all/sd1.5_lowstep_020.jpg	3.380391978	3.870905155	a overgrown old house
+all/sd1.5_lowstep_029.jpg	2.742340814	2.824865559	legendary river of slugs
+all/sd1.5_lowstep_036.jpg	2.703383915	1.982792998	gnome warfare at walmart
+all/sd1.5_lowstep_041.jpg	2.804002459	2.456699832	a raspberry made of metal
+all/sd1.5_lowstep_042.jpg	3.231077294	3.787279028	a man jumping off a cliff
+all/sd1.5_lowstep_045.jpg	2.418144251	2.787496228	superman punches the pope
+all/sd1.5_lowstep_051.jpg	3.34717137	3.581040815	hanging gardens of babylon
+all/sd1.5_lowstep_060.jpg	2.792402589	1.970660469	artwork with only triangles, anime style
+all/sd1.5_lowstep_090.jpg	1.575270793	2.474154779	little girl with a mushroom hat, anime style
+all/sd1.5_lowstep_091.jpg	2.852156791	3.33369641	ufo ignoring the laws of phyics, sci-fi style
+all/sd1.5_lowstep_092.jpg	2.991826524	3.075004622	steampunk walter white portrait , realistic style
+all/sd1.5_lowstep_110.jpg	2.7089479	2.545756544	painted portrait of intense woman, anime style
+all/sd1.5_lowstep_117.jpg	3.438253731	3.398573511	portrait of a cloaked female devil, realistic style
+all/sd1.5_lowstep_118.jpg	2.632073999	2.982575799	foxes judging a cheese competition, abstract style
+all/sd1.5_lowstep_120.jpg	1.834018423	2.651927612	die cut sticker of a pair of lips , warm color
+all/sd1.5_lowstep_121.jpg	3.685179175	2.281498001	cute green tabby cat made of leaves, cold color
+all/sd1.5_lowstep_123.jpg	1.827559877	2.377248288	anthropomorphic pine marten animal, elevation view
+all/sd1.5_lowstep_138.jpg	3.490003257	3.185246111	render of dreamy beautiful landscape, soft lighting
+all/sd1.5_lowstep_142.jpg	2.391896453	2.851503215	a biomechanical passion fruit flower, top view
+all/sd1.5_lowstep_152.jpg	1.765019055	1.952687802	grumpy the elder gods sitting in a bar, top view
+all/sd1.5_lowstep_153.jpg	2.643063777	2.64108532	grumpy king in yellow sitting in a bar, elevation view
+all/sd1.5_lowstep_154.jpg	3.39100366	3.311978472	cute fluffy baby poodle giraffe hybrid, close-up
+all/sd1.5_lowstep_157.jpg	2.560764083	2.702148916	spaceship flying over a strange planet, hyper detail
+all/sd1.5_lowstep_158.jpg	3.727389608	3.73689006	photograph of a stone cairn in scotland, soft lighting
+all/sd1.5_lowstep_160.jpg	2.844740127	2.367643121	cute soul ghost in infinity mirror room, warm color
+all/sd1.5_lowstep_164.jpg	3.031344688	2.281042344	a pig sitting in a chair smoking a pipe, close-up
+all/sd1.5_lowstep_166.jpg	2.610677849	2.689045915	a cybertronic metallic green tree frog , blurred detail
+all/sd1.5_lowstep_172.jpg	3.490003257	3.220800678	art of a mimic from dungeons and dragons, top view
+all/sd1.5_lowstep_173.jpg	3.316649193	3.165462896	ancient japanese fantasy garden at night, elevation view
+all/sd1.5_lowstep_176.jpg	2.03716536	2.77261172	a painting of pink panther as a vampire , blurred detail
+all/sd1.5_lowstep_182.jpg	3.221284286	2.988304467	a female warrior in charming phenix armor, top view, realistic style
+all/sd1.5_lowstep_187.jpg	0.739960598	1.009528271	softboy aesthetic in ancient greek clothing, hyper detail, realistic style
+all/sd1.5_lowstep_194.jpg	3.110506733	3.327464378	a cyborg jellyfish swimming in a vast ocean, close-up, baroque style
+all/sd1.5_lowstep_196.jpg	2.061594671	2.275412354	the essence of the chemical element hydrogen, blurred detail, sci-fi style
+all/sd1.5_lowstep_204.jpg	2.81361908	3.147905927	2 friends partying and are facing the camera, close-up, baroque style
+all/sd1.5_lowstep_207.jpg	3.773548415	3.522621893	painting of a man farmer at work in the field, hyper detail, realistic style
+all/sd1.5_lowstep_211.jpg	2.509487485	2.798535131	a woman in a trench coat looking out a window, cold color, sci-fi style
+all/sd1.5_lowstep_214.jpg	4.04445907	3.417262215	render of rivendell dreamy beautiful landscape, close-up, baroque style
+all/sd1.5_lowstep_233.jpg	3.283005153	2.106757591	a penguin slipping on a banana in the antarctic , warm color, HDR lighting
+all/sd1.5_lowstep_239.jpg	3.741408859	2.646301338	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/sd1.5_lowstep_240.jpg	3.727389608	3.00217219	photoreal portrait of a futuristic intricate robot, top view, blurred detail
+all/sd1.5_lowstep_244.jpg	2.545997226	1.788774497	man at a royal banquet wearing an asymmetrical gown, top view, soft lighting
+all/sd1.5_lowstep_252.jpg	3.673501579	2.504517295	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/sd1.5_lowstep_259.jpg	2.742340814	2.772204703	a parade of disconnected images : a tragic supernova, hyper detail, HDR lighting
+all/sd1.5_lowstep_261.jpg	3.066652656	3.02250478	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/sd1.5_lowstep_263.jpg	1.528177025	1.995457086	cute animal character sleeping in the space station, cold color, elevation view, abstract style
+all/sd1.5_lowstep_266.jpg	2.654631009	2.490096099	scottish stone cairn inside a glass jar buried in sand, cold color, close-up, sci-fi style
+all/sd1.5_lowstep_268.jpg	2.776844014	3.013304279	spaceport on a vast desert planet with ships taking off, warm color, blurred detail, abstract style
+all/sd1.5_lowstep_271.jpg	4.04445907	3.202378717	the gold skull coming out from open cracked marble head, cold color, hyper detail, sci-fi style
+all/sd1.5_lowstep_274.jpg	3.025091285	3.390969755	angled photograph of an abandoned train cart during dusk, cold color, soft lighting, baroque style
+all/sd1.5_lowstep_278.jpg	0.385031694	1.111229725	dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style
+all/sd1.5_lowstep_281.jpg	2.975194143	3.61477839	portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style
+all/sd1.5_lowstep_282.jpg	2.127265738	1.454923869	strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style
+all/sd1.5_lowstep_289.jpg	3.283005153	3.351167422	portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style
+all/sd1.5_lowstep_292.jpg	3.045671512	2.848458594	a translucent bioluminescent ctenophore floating deep in the sea, close-up, soft lighting, realistic style
+all/sd1.5_lowstep_294.jpg	2.94583763	2.592416657	anthropomorphic thresher shark in knight armor dropping his sword, long-shot, soft lighting, baroque style
+all/sd1.5_lowstep_297.jpg	2.65898745	2.874303424	cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style
+all/sd1.5_normal_004.jpg	2.73141732	3.632145713	red and blue armor
+all/sd1.5_normal_007.jpg	3.419625599	3.001128296	a cat doing karaoke
+all/sd1.5_normal_012.jpg	2.989757839	2.142312157	life bar and mana bar
+all/sd1.5_normal_020.jpg	3.094767498	3.729311245	a overgrown old house
+all/sd1.5_normal_029.jpg	2.974361596	1.934023105	legendary river of slugs
+all/sd1.5_normal_036.jpg	2.731010208	2.580818479	gnome warfare at walmart
+all/sd1.5_normal_041.jpg	3.274744941	1.9250157	a raspberry made of metal
+all/sd1.5_normal_042.jpg	2.763264791	3.447455747	a man jumping off a cliff
+all/sd1.5_normal_045.jpg	3.008458905	1.995457086	superman punches the pope
+all/sd1.5_normal_051.jpg	3.279275256	3.592172903	hanging gardens of babylon
+all/sd1.5_normal_060.jpg	3.162256259	2.651927612	artwork with only triangles, anime style
+all/sd1.5_normal_090.jpg	3.162256259	3.268206767	little girl with a mushroom hat, anime style
+all/sd1.5_normal_091.jpg	2.423784221	2.968775923	ufo ignoring the laws of phyics, sci-fi style
+all/sd1.5_normal_092.jpg	3.210551263	3.112865772	steampunk walter white portrait , realistic style
+all/sd1.5_normal_110.jpg	2.423784221	2.890851301	painted portrait of intense woman, anime style
+all/sd1.5_normal_117.jpg	2.391896453	2.78310259	portrait of a cloaked female devil, realistic style
+all/sd1.5_normal_118.jpg	2.254782866	1.920999368	foxes judging a cheese competition, abstract style
+all/sd1.5_normal_120.jpg	2.314518391	3.609476773	die cut sticker of a pair of lips , warm color
+all/sd1.5_normal_121.jpg	3.685179175	2.247297688	cute green tabby cat made of leaves, cold color
+all/sd1.5_normal_123.jpg	2.74826005	1.857875624	anthropomorphic pine marten animal, elevation view
+all/sd1.5_normal_138.jpg	3.673198773	3.726316663	render of dreamy beautiful landscape, soft lighting
+all/sd1.5_normal_142.jpg	3.129903806	3.00217219	a biomechanical passion fruit flower, top view
+all/sd1.5_normal_152.jpg	2.717733183	1.548541117	grumpy the elder gods sitting in a bar, top view
+all/sd1.5_normal_153.jpg	2.46452189	2.389907299	grumpy king in yellow sitting in a bar, elevation view
+all/sd1.5_normal_154.jpg	3.438253731	2.960067189	cute fluffy baby poodle giraffe hybrid, close-up
+all/sd1.5_normal_157.jpg	3.657121751	3.364639327	spaceship flying over a strange planet, hyper detail
+all/sd1.5_normal_158.jpg	3.530547546	3.524109368	photograph of a stone cairn in scotland, soft lighting
+all/sd1.5_normal_160.jpg	2.409693201	1.876970161	cute soul ghost in infinity mirror room, warm color
+all/sd1.5_normal_164.jpg	3.080710077	2.897103633	a pig sitting in a chair smoking a pipe, close-up
+all/sd1.5_normal_166.jpg	3.966327593	3.113705614	a cybertronic metallic green tree frog , blurred detail
+all/sd1.5_normal_172.jpg	1.921352979	2.47896401	art of a mimic from dungeons and dragons, top view
+all/sd1.5_normal_173.jpg	3.255352906	1.846507718	ancient japanese fantasy garden at night, elevation view
+all/sd1.5_normal_176.jpg	1.627971309	2.52206564	a painting of pink panther as a vampire , blurred detail
+all/sd1.5_normal_182.jpg	2.574642925	2.566500608	a female warrior in charming phenix armor, top view, realistic style
+all/sd1.5_normal_187.jpg	3.131243411	2.531454291	softboy aesthetic in ancient greek clothing, hyper detail, realistic style
+all/sd1.5_normal_194.jpg	3.063450866	3.285944521	a cyborg jellyfish swimming in a vast ocean, close-up, baroque style
+all/sd1.5_normal_196.jpg	3.018173564	3.047185079	the essence of the chemical element hydrogen, blurred detail, sci-fi style
+all/sd1.5_normal_204.jpg	3.195617381	2.727992245	2 friends partying and are facing the camera, close-up, baroque style
+all/sd1.5_normal_207.jpg	2.505259558	2.846322945	painting of a man farmer at work in the field, hyper detail, realistic style
+all/sd1.5_normal_211.jpg	2.586734895	3.080096813	a woman in a trench coat looking out a window, cold color, sci-fi style
+all/sd1.5_normal_214.jpg	3.897509797	3.696383698	render of rivendell dreamy beautiful landscape, close-up, baroque style
+all/sd1.5_normal_233.jpg	3.320012924	1.788774497	a penguin slipping on a banana in the antarctic , warm color, HDR lighting
+all/sd1.5_normal_239.jpg	3.162256259	3.054879367	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/sd1.5_normal_240.jpg	3.601888857	3.189847843	photoreal portrait of a futuristic intricate robot, top view, blurred detail
+all/sd1.5_normal_244.jpg	2.359320035	2.094813219	man at a royal banquet wearing an asymmetrical gown, top view, soft lighting
+all/sd1.5_normal_252.jpg	3.129903806	2.634813255	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/sd1.5_normal_259.jpg	1.657427619	3.013543571	a parade of disconnected images : a tragic supernova, hyper detail, HDR lighting
+all/sd1.5_normal_261.jpg	2.941929382	2.917022056	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/sd1.5_normal_263.jpg	2.654631009	2.668209522	cute animal character sleeping in the space station, cold color, elevation view, abstract style
+all/sd1.5_normal_266.jpg	2.821971923	2.581604166	scottish stone cairn inside a glass jar buried in sand, cold color, close-up, sci-fi style
+all/sd1.5_normal_268.jpg	2.65595515	3.011371163	spaceport on a vast desert planet with ships taking off, warm color, blurred detail, abstract style
+all/sd1.5_normal_271.jpg	3.292854479	2.746134145	the gold skull coming out from open cracked marble head, cold color, hyper detail, sci-fi style
+all/sd1.5_normal_274.jpg	3.568964411	3.050789396	angled photograph of an abandoned train cart during dusk, cold color, soft lighting, baroque style
+all/sd1.5_normal_278.jpg	1.195529412	1.271370324	dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style
+all/sd1.5_normal_281.jpg	2.972896262	2.617418083	portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style
+all/sd1.5_normal_282.jpg	2.176839871	1.797978878	strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style
+all/sd1.5_normal_289.jpg	2.541261946	2.734888268	portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style
+all/sd1.5_normal_292.jpg	2.209981223	2.39277982	a translucent bioluminescent ctenophore floating deep in the sea, close-up, soft lighting, realistic style
+all/sd1.5_normal_294.jpg	3.024257523	2.663779134	anthropomorphic thresher shark in knight armor dropping his sword, long-shot, soft lighting, baroque style
+all/sd1.5_normal_297.jpg	2.996365552	3.273307074	cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style

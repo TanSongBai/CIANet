@@ -1,0 +1,100 @@
+Image/allimg/400.png	69.89630104263287	67.46624694704427	66.28803706295957	a corgi
+Image/allimg/406.png	55.39457303172884	58.69870781981875	55.61684818351125	a girl
+Image/allimg/408.png	58.47284901403191	56.797457603920066	62.33274139387206	a boat
+Image/allimg/413.png	60.78714290661434	56.359154526067925	60.724332163935074	a bench
+Image/allimg/418.png	53.64391516638401	58.60344734504571	56.12574578283436	a flower
+Image/allimg/423.png	58.77426686915652	58.27244736724274	61.291842310559446	a green pepper
+Image/allimg/425.png	57.68827526825383	56.66728299543156	56.252788052930995	a book cover
+Image/allimg/429.png	57.107109009582075	55.94803692990693	61.612404809241056	a kitchen
+Image/allimg/433.png	55.18635059709292	55.940485320979235	58.76803672626884	a fall landscape
+Image/allimg/438.png	67.3357913190175	65.83559552633493	64.15483101096245	a photo of san francisco's golden gate bridge
+Image/allimg/441.png	53.166849021974826	53.74106293142387	53.099224010283024	A giraffe walking through a green grass covered field
+Image/allimg/445.png	60.010924390757474	63.335729622155725	60.78479067506826	a woman with long hair
+Image/allimg/448.png	53.51546481493468	52.373840609045956	62.74784197490221	A red bus is driving on the road
+Image/allimg/455.png	54.355897637484404	52.961664390351004	58.58715690279504	a teddy bear on a skateboard
+Image/allimg/457.png	53.2909466048704	44.96250937220547	41.96329978373427	a pumpkin with a candle in it
+Image/allimg/461.png	54.21388744881576	55.93462203108012	54.83312217050807	A bowl of Chicken Pho
+Image/allimg/466.png	57.54034670786937	60.25690240085078	54.26452731468843	A heart made of chocolate
+Image/allimg/470.png	66.24551221135519	68.31375553616161	69.52647117035438	a coffee table with a magazine on it
+Image/allimg/474.png	58.80414970963084	55.57324717919242	59.958946627643115	Sunset over the sea
+Image/allimg/476.png	55.59195671513909	57.31662320647975	55.813573463805525	a boat in the canals of venice
+Image/allimg/481.png	53.0682461894384	40.614381439440805	41.75495710362867	A donkey is playing tug-of-war against an octopus. The donkey holds the rope in its mouth. A cat is jumping over the rope.
+Image/allimg/485.png	64.75579439485152	57.72853145176081	65.43467017019546	a grandmother reading a book to her grandson and granddaughter
+Image/allimg/490.png	52.34303845665535	51.21802376326976	50.065767237933194	a blue semi-truck and its trailer jumping over a row of motorcycles. there are metal ramps on either side of the motorcycles. 
+Image/allimg/495.png	55.75069270453672	52.69713892959222	52.21258013461456	a propaganda poster depicting a cat dressed as french emperor napoleon holding a piece of cheese
+Image/allimg/498.png	60.15992831147152	63.805982610432096	61.28092550510654	a tree reflected in the sunroof of a blue car
+Image/allimg/503.png	59.2720182795739	60.765898361278836	51.89477484737854	a pineapple with one beer to its left and two beers on its right
+Image/allimg/507.png	55.817468211705695	53.88017796650811	52.828729415709475	A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like colorful macarons. All of the macarons are wearing cowboy hats.
+Image/allimg/508.png	51.55895946256504	43.030660317710954	59.093127426026825	A cozy living room with a painting of a corgi on the wall above a couch and a round coffee table in front of a couch and a vase of flowers on a coffee table
+Image/allimg/515.png	59.453994969194376	61.20245987598973	58.016002866613704	Snow mountain and tree reflection in the lake
+Image/allimg/517.png	58.10052871146005	57.47011998926486	63.56706719167744	An anime illustration of Sydney Opera House sitting next to Eiffel tower, under a blue night sky of roiling energy, exploding yellow stars, and radiating swirls of blu
+Image/allimg/522.png	55.93715327030011	48.188864707429914	49.679217368992376	a dolphin in an astronaut suit on saturn
+Image/allimg/524.png	45.991506531881306	38.04454792583008	43.91557347944197	a library filled with kids reading books
+Image/allimg/531.png	49.1246347459594	42.95056893127736	52.76720838254666	a large white yacht in a calm bay on a sunny day
+Image/allimg/534.png	55.89205483099064	53.14714905102543	53.08938507884805	purple lego dollhouse with a pool and a swing
+Image/allimg/536.png	54.2743295118904	53.80900998597069	44.847400697149816	a small garden with an apple tree behind it
+Image/allimg/541.png	65.10185796738602	64.6545671405872	60.899462043234394	a bloody mary cocktail next to a napkin
+Image/allimg/547.png	57.01879611774501	57.263753932781505	52.12052669255469	a kids' book cover with an illustration of white dog driving a red pickup truck
+Image/allimg/551.png	68.3351799673478	67.2994364403049	66.17899390815919	A bare kitchen has wood cabinets and white appliances
+Image/allimg/555.png	62.54294973698781	65.57607743344833	67.58735044398038	a fall landscape with a small cottage next to a lake
+Image/allimg/559.png	53.88976611623002	47.41703703352496	55.13386922112026	a teddy bear on a skateboard in times square
+Image/allimg/563.png	56.6942805768111	62.06081611564009	41.99134750981582	A blue colored dog
+Image/allimg/567.png	63.38261197935294	62.59220343988975	65.24937184882782	A photo of an astronaut riding a horse in the forest.
+Image/allimg/568.png	60.49642069382892	52.40621766376937	60.75203707998819	A bicycle on top of a boat
+Image/allimg/572.png	55.488160968232876	53.48929713760339	50.67595038660002	a sword slicing through a loaf of bread
+Image/allimg/579.png	63.59091821151718	63.60276473097123	64.04163533580537	an orange wearing a cowboy hat
+Image/allimg/581.png	50.77223025171304	48.1516178577969	45.84707465448855	A bowl of soup that looks like a monster with tofu says deep learning
+Image/allimg/586.png	52.35448813351373	44.01550491530771	54.651365174964816	a drawing of a series of musical notes wrapped around the Earth
+Image/allimg/590.png	57.04560766551997	54.31849786945006	57.013919492476056	a small kitchen with a white goat in it
+Image/allimg/593.png	55.95035578120254	53.40461270426404	51.7453899217078	A large city fountain that has milk instead of water. Several cats are leaning into the fountain.
+Image/allimg/596.png	62.90247212154995	60.830969158825134	61.70001729764514	an elephant walking on the Great Wall
+Image/allimg/602.png	48.00894048930087	46.03362839578881	56.05016459382199	A photo of a panda made of water.
+Image/allimg/606.png	53.02996822443363	50.898263652162505	57.21745456089242	a portrait of a man wearing sunglasses and a business suit, painting in pop art style
+Image/allimg/610.png	54.89877450394474	47.10926091574729	52.08444891937897	a cartoon of a train going to the moon
+Image/allimg/612.png	53.443035333277024	54.57542851130074	46.02955330888195	A spaceship made of cardboard.
+Image/allimg/616.png	64.04059516091746	63.22473512044202	54.4776479564386	A photo of a lotus flower made of water. 
+Image/allimg/621.png	46.95353419066488	49.565032277713534	49.70220235239985	a painting of the food of china
+Image/allimg/624.png	52.596995537333285	51.73689005165537	41.98372688527607	an emoji of a baby penguin wearing a blue hat, red gloves, green shirt, and yellow pants
+Image/allimg/630.png	53.37044534898713	56.54337114641468	58.54013885049011	an oil painting of a tree and a building
+Image/allimg/634.png	60.108802473589336	55.83919306974817	59.858411110529836	a painting of a white country home with a wrap-around porch
+Image/allimg/637.png	47.62330353954455	52.149901370751266	53.558397234830615	Downtown Shanghai at sunrise. detailed ink wash.
+Image/allimg/640.png	51.79644314802984	50.934689322713666	47.957352493227326	a cartoon of a dog saying "I see what you did there"
+Image/allimg/646.png	52.62368648238604	48.14712928624754	53.15725066305273	the word 'HELLO' on a girl's face
+Image/allimg/649.png	54.03231290179683	47.49069433846621	51.498729759477214	a hot air balloon with chameleon logo. the sun is shining and puffy white clouds are in the background.
+Image/allimg/652.png	62.80699967209622	60.71011723199855	52.46404225748661	A sign that says Deep Learning
+Image/allimg/656.png	51.77265796212782	54.43211441391039	48.36437950351837	the word 'APPLE' on an apple
+Image/allimg/660.png	53.714138093084344	59.29556733629435	49.69661562462238	Two cups of coffee, one with latte art of the words "LOVE" written in one. The other has latte art of the words "PEACE" written in the other.
+Image/allimg/667.png	52.11198548672939	61.90551372170837	52.031552681663776	the word 'START'
+Image/allimg/668.png	53.09007142720414	51.928680177102045	52.96786295275858	a yellow wall with 'Hello, world.' written on it
+Image/allimg/675.png	54.309903126958446	53.63566126219117	46.614424687143256	a store front with 'Grassy Meadow' written on it
+Image/allimg/679.png	63.58505655883133	62.65962891384847	53.11593132734024	A green sign that says "Very Deep Learning" and is at the edge of the Grand Canyon.
+Image/allimg/683.png	54.96121213095371	52.509896083378706	53.89010435791671	Four cats surrounding a dog
+Image/allimg/684.png	54.487053492701115	52.15827962249258	56.18340972335575	three children on a couch
+Image/allimg/688.png	56.87052296037196	55.26481434536997	55.498151421026385	two motorcycles facing each other
+Image/allimg/692.png	57.720753330901815	56.94075081017807	53.767824452973116	two red balls on a table
+Image/allimg/696.png	64.63950184459895	63.10453877329147	52.65910013115392	ten red apples
+Image/allimg/701.png	63.20870651749287	62.52942574443072	66.6949225063191	three green peppers
+Image/allimg/707.png	58.62307540585071	59.4094642667146	62.77396386881387	three small yellow boxes
+Image/allimg/710.png	51.49842129990576	50.31743392535992	47.30284800860299	two pianos next to each other
+Image/allimg/712.png	58.5732030780282	54.10556072791029	45.83559163489163	a tennis court with three yellow cones on it
+Image/allimg/719.png	56.58241697090473	52.11419703100599	53.24776838085468	Times Square with thousands of dogs running around
+Image/allimg/720.png	60.10318260490923	50.8715100742973	56.097374122439476	view of a giraffe and a zebra in the middle of a field
+Image/allimg/725.png	60.77336587890687	63.237090118253526	61.543270734188226	two people facing each other
+Image/allimg/731.png	56.83225969061967	52.62840451924997	55.799445288170645	an overhead view of a pickup truck with boxes in its flatbed
+Image/allimg/734.png	56.67255984795501	53.58329130914215	58.17479204528158	view of a clock tower from above
+Image/allimg/736.png	59.88205542060342	54.60592230343351	55.50737013241364	a cross-section view of a walnut
+Image/allimg/741.png	51.32163552449722	50.94102563647228	51.35338603902263	a close-up of an old-fashioned cocktail
+Image/allimg/744.png	55.681460659415684	51.30630376330036	53.91999179495281	A robot with a black visor and the number 42 on its chest. It stands proudly in front of an F1 race car. The sun is setting on a cityscape in the background. wide-angle view. comic book illustration.
+Image/allimg/748.png	61.2883768497922	57.63244510274359	54.769902784305415	an aerial view of a dining room
+Image/allimg/752.png	61.2392518013938	59.042491034267684	60.88974260951026	an aerial photo of a sandy island in the ocean
+Image/allimg/756.png	62.04564327687922	57.792300964562536	60.34523861693405	an aerial view of the Great Wall
+Image/allimg/762.png	52.47614456506805	46.23966437783297	42.8805307644953	A bird gives an apple to a squirrel
+Image/allimg/766.png	56.22749499264158	54.478887388596874	56.57017455831592	a classroom without any students
+Image/allimg/770.png	52.879098437391555	54.627917704371214	57.380935023941625	a car with no windows
+Image/allimg/772.png	66.28499405085778	56.02313460633627	61.16032379542421	a closet without clothes
+Image/allimg/777.png	59.00932603380422	58.033465323636975	47.9942897810615	a banana without its peel
+Image/allimg/781.png	56.41283426130872	55.601838846021074	40.54324969166102	a plate that has no bananas on it. there is a glass without orange juice next to it.
+Image/allimg/787.png	59.05459680140406	61.22266401903529	58.21862891406662	We painted the wall with cracks.
+Image/allimg/791.png	60.32284517548121	60.03819923958442	56.195438963585765	a kitchen without a refrigerator
+Image/allimg/795.png	59.20080526198643	58.062578724163245	59.796374569071006	a street without vehicles
+Image/allimg/796.png	64.02564257644839	58.587521709274235	56.42481263727866	An aerial view of Ha Long Bay without any boats

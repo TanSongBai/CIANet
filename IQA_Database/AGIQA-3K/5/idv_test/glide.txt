@@ -1,0 +1,60 @@
+all/glide_normal_002.jpg	0.508202054	0.902085383	man lost in space
+all/glide_normal_012.jpg	1.010879855	0.731218487	life bar and mana bar
+all/glide_normal_016.jpg	1.540771109	1.585290614	very sad rabbit crying
+all/glide_normal_019.jpg	0.763754201	0.739160734	big boss eating dinner
+all/glide_normal_022.jpg	1.527555519	0.909339471	panda chef in a kitchen
+all/glide_normal_028.jpg	1.310287954	1.209905872	maroon to black gradient
+all/glide_normal_039.jpg	0.582188173	0.480827465	beautiful topaz girl dark
+all/glide_normal_044.jpg	1.834018423	0.92160537	male warrior silver armor
+all/glide_normal_051.jpg	1.428382741	1.60050067	hanging gardens of babylon
+all/glide_normal_059.jpg	0.635396352	0.288039227	barak obama as master chief
+all/glide_normal_061.jpg	1.494912264	1.231874682	a yellow rendition of venom, sci-fi style
+all/glide_normal_064.jpg	1.149675658	1.536125842	monsters playing board games, baroque style
+all/glide_normal_067.jpg	1.077517831	0.507503744	a woman in newspaper clothes, realistic style
+all/glide_normal_069.jpg	1.785560751	2.122737165	synthwave astronaut tabby cat, baroque style
+all/glide_normal_074.jpg	1.296708731	0.753490226	legionary of the roman empire, baroque style
+all/glide_normal_077.jpg	1.539115041	2.139899198	a anthropomorphic cat warrior, realistic style
+all/glide_normal_080.jpg	1.012573225	1.745318022	painted portrait of goblin man, anime style
+all/glide_normal_081.jpg	0.972096944	1.152887677	large purple lovecraftian void, sci-fi style
+all/glide_normal_084.jpg	1.575270793	1.644548225	sheep that looks like broccoli, baroque style
+all/glide_normal_086.jpg	1.075025374	0.720129493	a very drunk person named aaron, sci-fi style
+all/glide_normal_088.jpg	1.086342024	2.139899198	a space shuttle flying in space, abstract style
+all/glide_normal_100.jpg	1.358005834	1.411682898	a small garden buzzing with bees, anime style
+all/glide_normal_101.jpg	0	0.190499441	a man playing an invisible cello, sci-fi style
+all/glide_normal_104.jpg	1.632795725	2.178897063	a biomechanical cybertronic frog, baroque style
+all/glide_normal_107.jpg	1.056157156	1.578814508	spritesheet game asset vector art, realistic style
+all/glide_normal_110.jpg	0.229783115	0.388286871	painted portrait of intense woman, anime style
+all/glide_normal_113.jpg	0.298444431	2.41761037	epic colourful scene from a dream, abstract style
+all/glide_normal_114.jpg	1.448560438	2.402534584	donut glazed with white chocolate, baroque style
+all/glide_normal_119.jpg	1.086342024	0.910288069	female demon in a medieval dungeon, baroque style
+all/glide_normal_131.jpg	1.594706548	2.127109224	cute fluffy baby panda lion hybrid , cold color
+all/glide_normal_142.jpg	1.391281461	2.433914506	a biomechanical passion fruit flower, top view
+all/glide_normal_146.jpg	1.866501955	2.740407521	cute fluffy lion cheetah hybrid mixed, blurred detail
+all/glide_normal_149.jpg	1.14671176	1.554938564	a plasticine model of a goblin raider, HDR lighting
+all/glide_normal_156.jpg	0.776328629	1.325066167	an adventure party resting in a tavern, blurred detail
+all/glide_normal_161.jpg	1.609770477	2.035648457	cute fluffy baby lop eared bunny rabbit, cold color
+all/glide_normal_162.jpg	1.309475045	1.255488616	an industrial geometric temple lab room, top view
+all/glide_normal_172.jpg	0.392090064	0.277575547	art of a mimic from dungeons and dragons, top view
+all/glide_normal_177.jpg	0.128895573	0.341602936	a huge wooden carving sculpture of a fox, hyper detail
+all/glide_normal_179.jpg	0.014779217	1.280365205	underwater photography of the rough ocean, HDR lighting
+all/glide_normal_188.jpg	0.946043702	0.692100914	portrait painting of a west hightland white, soft lighting, abstract style
+all/glide_normal_196.jpg	0.392942638	0.483118797	the essence of the chemical element hydrogen, blurred detail, sci-fi style
+all/glide_normal_204.jpg	0.905232817	1.149047512	2 friends partying and are facing the camera, close-up, baroque style
+all/glide_normal_219.jpg	1.22513052	1.791293517	a brand logo of henry cavill as a catholic nun, HDR lighting, baroque style
+all/glide_normal_226.jpg	0.630028469	0.191822787	an anatomically correct cybertronic human heart, cold color, close-up
+all/glide_normal_229.jpg	0.552320411	0.69188714	a heavily bloodied horrified pretty young woman, warm color, hyper detail
+all/glide_normal_230.jpg	0.859637576	0.742483923	a fantast beauty detailed elf with mermaid tail, cold color, blurred detail
+all/glide_normal_235.jpg	0.875047949	1.483310731	steampunk squid inside a glass jar buried in sand, cold color, HDR lighting
+all/glide_normal_237.jpg	0.8493261	0.519696217	portrait of terrified green ball gown young woman, top view, long-shot
+all/glide_normal_245.jpg	1.011545053	0.831414849	fullbody portrait of half - fox woman with fox ears, top view, HDR lighting
+all/glide_normal_246.jpg	1.765019055	1.194190381	alphonse eric from full metal alchemist brotherhood, elevation view, soft lighting
+all/glide_normal_247.jpg	0.358179955	0.59256494	a saint noble high priestess pray for god in church, elevation view, HDR lighting
+all/glide_normal_252.jpg	2.060642411	2.094813219	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/glide_normal_270.jpg	1.528177025	2.153439652	european woodcut of a wooden sailing vessel on a stormy, cold color, blurred detail, anime style
+all/glide_normal_273.jpg	1.063255848	1.812098374	exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style
+all/glide_normal_279.jpg	1.433419401	1.474049467	table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style
+all/glide_normal_281.jpg	0.701659223	0.679471865	portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style
+all/glide_normal_283.jpg	1.075025374	1.312705603	steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style
+all/glide_normal_289.jpg	1.098613732	1.221288303	portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style
+all/glide_normal_290.jpg	1.899886722	1.289688929	a portrait of girl chronomancer glass jewelry padlocks fantasy, long-shot, blurred detail, anime style
+all/glide_normal_294.jpg	0.592546579	0.753884027	anthropomorphic thresher shark in knight armor dropping his sword, long-shot, soft lighting, baroque style

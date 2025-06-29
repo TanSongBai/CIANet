@@ -1,0 +1,60 @@
+all/AttnGAN_normal_000.jpg	0.965602553	0.40889324	statue of a man
+all/AttnGAN_normal_002.jpg	0.195283431	0.506802093	man lost in space
+all/AttnGAN_normal_006.jpg	1.062470367	0.626274844	a river in a forest
+all/AttnGAN_normal_007.jpg	0.80654015	0.397771485	a cat doing karaoke
+all/AttnGAN_normal_012.jpg	1.337589887	0.936285696	life bar and mana bar
+all/AttnGAN_normal_014.jpg	0.919776796	0.613465793	a small leopard gecko
+all/AttnGAN_normal_021.jpg	1.448560438	0.444707156	portrait of mecha robot
+all/AttnGAN_normal_022.jpg	1.428382741	0.784257411	panda chef in a kitchen
+all/AttnGAN_normal_026.jpg	1.023275848	0.613465793	a painting of a eclipse
+all/AttnGAN_normal_032.jpg	1.057775532	0.803090148	an emo portrait painting
+all/AttnGAN_normal_033.jpg	1.179543421	0.182860864	the pope had a rock band
+all/AttnGAN_normal_036.jpg	1.116526892	0.468583101	gnome warfare at walmart
+all/AttnGAN_normal_037.jpg	1.134741777	0.803624615	demon queen with red eyes
+all/AttnGAN_normal_038.jpg	1.092275216	0.803090148	christmas at kelly family
+all/AttnGAN_normal_042.jpg	1.253245361	1.004686321	a man jumping off a cliff
+all/AttnGAN_normal_044.jpg	1.106599613	0.553112625	male warrior silver armor
+all/AttnGAN_normal_053.jpg	1.084556311	0.845084862	castle from howl's sticker
+all/AttnGAN_normal_060.jpg	0.919776796	0.850496237	artwork with only triangles, anime style
+all/AttnGAN_normal_061.jpg	0.678182301	0.409963958	a yellow rendition of venom, sci-fi style
+all/AttnGAN_normal_069.jpg	1.116526892	0.564086878	synthwave astronaut tabby cat, baroque style
+all/AttnGAN_normal_071.jpg	0.578348419	0.629428475	smart sri lanka buddhist monk, sci-fi style
+all/AttnGAN_normal_074.jpg	0.850998035	0.49324274	legionary of the roman empire, baroque style
+all/AttnGAN_normal_078.jpg	0.970469084	0.393920539	tree of life embroidered scene, abstract style
+all/AttnGAN_normal_081.jpg	0.955535203	0.406335814	large purple lovecraftian void, sci-fi style
+all/AttnGAN_normal_088.jpg	1.22513052	1.02748653	a space shuttle flying in space, abstract style
+all/AttnGAN_normal_090.jpg	1.209411183	0.344259439	little girl with a mushroom hat, anime style
+all/AttnGAN_normal_091.jpg	0.863588083	0.702583315	ufo ignoring the laws of phyics, sci-fi style
+all/AttnGAN_normal_093.jpg	1.478164096	0.696883506	photo of tony danza eating chili, abstract style
+all/AttnGAN_normal_106.jpg	1.537956569	1.039514841	vaporware yosemite amusement park, sci-fi style
+all/AttnGAN_normal_111.jpg	1.178897031	0.534118347	grand canyon full of potato salad, sci-fi style
+all/AttnGAN_normal_112.jpg	0.789350472	0.594282567	gorgeous young scandanavian woman, realistic style
+all/AttnGAN_normal_128.jpg	0.557530114	0.54235666	portrait of a tang dynasty empress , soft lighting
+all/AttnGAN_normal_131.jpg	0.971526322	0.471247526	cute fluffy baby panda lion hybrid , cold color
+all/AttnGAN_normal_133.jpg	1.328588457	0.44196185	a blue abyss underwater concept art, elevation view
+all/AttnGAN_normal_136.jpg	0.778016184	0.617236002	man in his late 40 s wearing a suit, blurred detail
+all/AttnGAN_normal_154.jpg	1.038703499	0.742358137	cute fluffy baby poodle giraffe hybrid, close-up
+all/AttnGAN_normal_155.jpg	0.720968251	0.702583315	an auto rickshaw driving through paris, long-shot
+all/AttnGAN_normal_162.jpg	0.747278376	0.767535581	an industrial geometric temple lab room, top view
+all/AttnGAN_normal_165.jpg	1.197015678	0.685483402	a female hand holding a red fresh apple, long-shot
+all/AttnGAN_normal_169.jpg	0.792278167	0.995202671	profile face portrait of a tin toy robot, HDR lighting
+all/AttnGAN_normal_180.jpg	0.885277112	1.194190381	muscular cyborg girl with prosthetic arms, warm color, anime style
+all/AttnGAN_normal_189.jpg	1.029205605	1.087057329	lobster human hybrid in fashion photography, HDR lighting, baroque style
+all/AttnGAN_normal_218.jpg	0.970807385	0.686697692	a masonic illuminati waiting room with a couch, soft lighting, abstract style
+all/AttnGAN_normal_223.jpg	0.779719895	1.389857248	small group of nomads staying at ancient ruins, cold color, elevation view
+all/AttnGAN_normal_226.jpg	1.403283136	1.471372759	an anatomically correct cybertronic human heart, cold color, close-up
+all/AttnGAN_normal_232.jpg	1.144024742	0.897902326	steampunk owl inside a glass jar buried in sand, warm color, soft lighting
+all/AttnGAN_normal_235.jpg	1.391763291	0.964999916	steampunk squid inside a glass jar buried in sand, cold color, HDR lighting
+all/AttnGAN_normal_237.jpg	0.678279008	0.566059704	portrait of terrified green ball gown young woman, top view, long-shot
+all/AttnGAN_normal_240.jpg	0.902526954	0.720129493	photoreal portrait of a futuristic intricate robot, top view, blurred detail
+all/AttnGAN_normal_246.jpg	0.463704663	0.27081407	alphonse eric from full metal alchemist brotherhood, elevation view, soft lighting
+all/AttnGAN_normal_252.jpg	0.749492217	0.909855359	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/AttnGAN_normal_255.jpg	1.361853219	1.152883399	magician god holding a divine staff character design, long-shot, HDR lighting
+all/AttnGAN_normal_266.jpg	1.056441469	0.822284653	scottish stone cairn inside a glass jar buried in sand, cold color, close-up, sci-fi style
+all/AttnGAN_normal_267.jpg	1.112367509	0.902744335	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/AttnGAN_normal_268.jpg	1.04513849	1.424388367	spaceport on a vast desert planet with ships taking off, warm color, blurred detail, abstract style
+all/AttnGAN_normal_272.jpg	0.79958578	0.432769184	frontal portrait of female adult twins in the apocalypse, warm color, soft lighting, realistic style
+all/AttnGAN_normal_278.jpg	1.213024111	1.146784292	dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style
+all/AttnGAN_normal_279.jpg	0.807856712	0.686697692	table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style
+all/AttnGAN_normal_281.jpg	0.971526322	0.696426448	portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style
+all/AttnGAN_normal_297.jpg	1.023275848	0.743832537	cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style

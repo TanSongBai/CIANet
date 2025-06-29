@@ -1,0 +1,60 @@
+all/glide_normal_002.jpg	0.508202054	0.902085383	man lost in space
+all/glide_normal_009.jpg	0.754308478	0.277575547	girl from fight club
+all/glide_normal_011.jpg	1.719307075	1.848675793	the prince of the sun
+all/glide_normal_012.jpg	1.010879855	0.731218487	life bar and mana bar
+all/glide_normal_013.jpg	0.862881799	1.231874682	everything is a dream
+all/glide_normal_019.jpg	0.763754201	0.739160734	big boss eating dinner
+all/glide_normal_022.jpg	1.527555519	0.909339471	panda chef in a kitchen
+all/glide_normal_029.jpg	0.612055936	1.225743967	legendary river of slugs
+all/glide_normal_031.jpg	1.328588457	0.915909549	black mickey mouse skull
+all/glide_normal_033.jpg	1.421934412	1.10728726	the pope had a rock band
+all/glide_normal_039.jpg	0.582188173	0.480827465	beautiful topaz girl dark
+all/glide_normal_041.jpg	1.759312513	1.82549383	a raspberry made of metal
+all/glide_normal_044.jpg	1.834018423	0.92160537	male warrior silver armor
+all/glide_normal_049.jpg	2.02640351	0.571482359	portrait of evil alchemist
+all/glide_normal_053.jpg	1.012573225	0.981735619	castle from howl's sticker
+all/glide_normal_056.jpg	1.385522531	1.952687802	survival in a winter forest
+all/glide_normal_064.jpg	1.149675658	1.536125842	monsters playing board games, baroque style
+all/glide_normal_066.jpg	1.619473192	2.714341389	a pizza with chocolate on it, sci-fi style
+all/glide_normal_078.jpg	1.034731881	1.897445686	tree of life embroidered scene, abstract style
+all/glide_normal_086.jpg	1.075025374	0.720129493	a very drunk person named aaron, sci-fi style
+all/glide_normal_093.jpg	0.986154364	1.050286739	photo of tony danza eating chili, abstract style
+all/glide_normal_105.jpg	1.012573225	1.245039896	a 2 d guitarist character design, anime style
+all/glide_normal_113.jpg	0.298444431	2.41761037	epic colourful scene from a dream, abstract style
+all/glide_normal_116.jpg	1.147337281	0.374999202	portrait of beautiful armored girl, sci-fi style
+all/glide_normal_122.jpg	1.328588457	2.034952727	chinese demon god character design, top view
+all/glide_normal_126.jpg	0.253642787	0.406335814	the shogoth wearing a santa costume, blurred detail
+all/glide_normal_128.jpg	1.492221516	0.571482359	portrait of a tang dynasty empress , soft lighting
+all/glide_normal_129.jpg	1.717140251	0.525881942	portrait of a beautiful young woman, HDR lighting
+all/glide_normal_132.jpg	1.717163144	1.250574517	a girl with rainbow in white shirt , top view
+all/glide_normal_138.jpg	0.701659223	1.585786942	render of dreamy beautiful landscape, soft lighting
+all/glide_normal_142.jpg	1.391281461	2.433914506	a biomechanical passion fruit flower, top view
+all/glide_normal_144.jpg	1.927354161	2.732709062	pendant of a silver starfish necklace, close-up
+all/glide_normal_146.jpg	1.866501955	2.740407521	cute fluffy lion cheetah hybrid mixed, blurred detail
+all/glide_normal_149.jpg	1.14671176	1.554938564	a plasticine model of a goblin raider, HDR lighting
+all/glide_normal_152.jpg	0.887752418	1.26688872	grumpy the elder gods sitting in a bar, top view
+all/glide_normal_154.jpg	1.827559877	2.653717779	cute fluffy baby poodle giraffe hybrid, close-up
+all/glide_normal_156.jpg	0.776328629	1.325066167	an adventure party resting in a tavern, blurred detail
+all/glide_normal_170.jpg	1.492221516	1.540491223	portrait of butterflies swarming flowers, warm color
+all/glide_normal_179.jpg	0.014779217	1.280365205	underwater photography of the rough ocean, HDR lighting
+all/glide_normal_188.jpg	0.946043702	0.692100914	portrait painting of a west hightland white, soft lighting, abstract style
+all/glide_normal_190.jpg	1.704085415	2.490096099	delicious peanut butter donut with glazing , warm color, anime style
+all/glide_normal_191.jpg	1.948511424	1.599528985	cute fluffy golden teddy bear eating bagels, cold color, sci-fi style
+all/glide_normal_198.jpg	0.363910379	0.139161932	robots creating new robots in a factory line, soft lighting, abstract style
+all/glide_normal_209.jpg	1.000336846	0.902946816	an uprising of disneyland costumed characters, HDR lighting, baroque style
+all/glide_normal_217.jpg	2.293266536	0.692100914	a portrait photo of a beautiful female android, hyper detail, realistic style
+all/glide_normal_222.jpg	1.461647503	1.389857248	interior of cosmic highway created by the gods, cold color, top view
+all/glide_normal_232.jpg	0.775293051	0.594282567	steampunk owl inside a glass jar buried in sand, warm color, soft lighting
+all/glide_normal_238.jpg	0.016192323	0.503081733	many bodies floating in an infinite lake of blood, elevation view, close-up
+all/glide_normal_239.jpg	0.803407893	1.289688929	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/glide_normal_241.jpg	1.312728533	2.104085281	breaking moon as seen from the surface of the moon, top view, hyper detail
+all/glide_normal_251.jpg	0.60416837	1.087452894	a brain with eyeballs peaking out between the folds, long-shot, hyper detail
+all/glide_normal_252.jpg	2.060642411	2.094813219	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/glide_normal_258.jpg	0.873694997	0.560082254	black broken armor and helmet laying in wild flowers, hyper detail, soft lighting
+all/glide_normal_259.jpg	1.038703499	1.844434941	a parade of disconnected images : a tragic supernova, hyper detail, HDR lighting
+all/glide_normal_265.jpg	0.648776263	1.232688407	a blue anatomically correct human brain made of metal, warm color, long-shot, anime style
+all/glide_normal_267.jpg	1.269146708	0.654641315	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/glide_normal_276.jpg	0.64666085	0.44196185	portrait photo still of a spooky scarecrow holding a gift, top view, close-up, sci-fi style
+all/glide_normal_285.jpg	1.299273321	1.051972114	portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style
+all/glide_normal_288.jpg	0.058364586	0.537282046	a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style
+all/glide_normal_298.jpg	0.319004692	0.564244714	photoreal portrait very intricate darkwar hunter wearing a black hoody, hyper detail, soft lighting, abstract style

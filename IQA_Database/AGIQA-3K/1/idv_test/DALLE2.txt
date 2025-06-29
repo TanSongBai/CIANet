@@ -1,0 +1,59 @@
+all/DALLE2_normal_002.jpg	2.855791343	2.908503737	man lost in space
+all/DALLE2_normal_009.jpg	3.127756575	3.4459796	girl from fight club
+all/DALLE2_normal_011.jpg	3.430745058	0.983010198	the prince of the sun
+all/DALLE2_normal_012.jpg	2.792237956	2.69321342	life bar and mana bar
+all/DALLE2_normal_013.jpg	3.010422973	1.18708799	everything is a dream
+all/DALLE2_normal_019.jpg	2.729274555	3.489909055	big boss eating dinner
+all/DALLE2_normal_022.jpg	2.568394371	4.118503049	panda chef in a kitchen
+all/DALLE2_normal_029.jpg	3.127756575	1.846024102	legendary river of slugs
+all/DALLE2_normal_031.jpg	1.977251303	2.495735212	black mickey mouse skull
+all/DALLE2_normal_033.jpg	2.742340814	2.574726496	the pope had a rock band
+all/DALLE2_normal_039.jpg	2.674859949	2.568031711	beautiful topaz girl dark
+all/DALLE2_normal_041.jpg	2.532418004	3.491984103	a raspberry made of metal
+all/DALLE2_normal_044.jpg	2.459590343	3.44363061	male warrior silver armor
+all/DALLE2_normal_049.jpg	2.625914149	3.483126252	portrait of evil alchemist
+all/DALLE2_normal_053.jpg	2.405953874	2.919903841	castle from howl's sticker
+all/DALLE2_normal_056.jpg	3.124885569	2.666882993	survival in a winter forest
+all/DALLE2_normal_064.jpg	2.545997226	3.169153524	monsters playing board games, baroque style
+all/DALLE2_normal_066.jpg	2.307551928	2.771702485	a pizza with chocolate on it, sci-fi style
+all/DALLE2_normal_078.jpg	2.247254325	3.124625168	tree of life embroidered scene, abstract style
+all/DALLE2_normal_086.jpg	3.773548415	2.982848125	a very drunk person named aaron, sci-fi style
+all/DALLE2_normal_093.jpg	2.476240979	3.227706657	photo of tony danza eating chili, abstract style
+all/DALLE2_normal_105.jpg	2.172997265	3.465014103	a 2 d guitarist character design, anime style
+all/DALLE2_normal_113.jpg	0.889332048	1.44367974	epic colourful scene from a dream, abstract style
+all/DALLE2_normal_116.jpg	3.131243411	1.824290847	portrait of beautiful armored girl, sci-fi style
+all/DALLE2_normal_122.jpg	1.961760789	2.092525257	chinese demon god character design, top view
+all/DALLE2_normal_126.jpg	2.409693201	2.166604866	the shogoth wearing a santa costume, blurred detail
+all/DALLE2_normal_128.jpg	2.931575646	2.958190852	portrait of a tang dynasty empress , soft lighting
+all/DALLE2_normal_129.jpg	3.61615084	3.506852145	portrait of a beautiful young woman, HDR lighting
+all/DALLE2_normal_132.jpg	3.402221092	3.64096935	a girl with rainbow in white shirt , top view
+all/DALLE2_normal_138.jpg	2.39306082	3.140830692	render of dreamy beautiful landscape, soft lighting
+all/DALLE2_normal_142.jpg	2.14357511	2.443074357	a biomechanical passion fruit flower, top view
+all/DALLE2_normal_144.jpg	3.334754679	3.884485921	pendant of a silver starfish necklace, close-up
+all/DALLE2_normal_146.jpg	3.249399128	3.50130916	cute fluffy lion cheetah hybrid mixed, blurred detail
+all/DALLE2_normal_149.jpg	1.727765593	2.614222137	a plasticine model of a goblin raider, HDR lighting
+all/DALLE2_normal_152.jpg	2.80733647	1.933414643	grumpy the elder gods sitting in a bar, top view
+all/DALLE2_normal_154.jpg	3.576252467	3.090433934	cute fluffy baby poodle giraffe hybrid, close-up
+all/DALLE2_normal_156.jpg	2.127265738	2.000093891	an adventure party resting in a tavern, blurred detail
+all/DALLE2_normal_170.jpg	3.442225929	3.057832635	portrait of butterflies swarming flowers, warm color
+all/DALLE2_normal_179.jpg	1.867036088	2.746134145	underwater photography of the rough ocean, HDR lighting
+all/DALLE2_normal_188.jpg	2.7089479	1.54386854	portrait painting of a west hightland white, soft lighting, abstract style
+all/DALLE2_normal_190.jpg	2.67293154	3.485324022	delicious peanut butter donut with glazing , warm color, anime style
+all/DALLE2_normal_191.jpg	2.420011295	2.62350113	cute fluffy golden teddy bear eating bagels, cold color, sci-fi style
+all/DALLE2_normal_198.jpg	2.478101113	2.935379657	robots creating new robots in a factory line, soft lighting, abstract style
+all/DALLE2_normal_209.jpg	2.703383915	2.750918808	an uprising of disneyland costumed characters, HDR lighting, baroque style
+all/DALLE2_normal_217.jpg	3.537280489	3.358399036	a portrait photo of a beautiful female android, hyper detail, realistic style
+all/DALLE2_normal_222.jpg	1.120303781	1.726751061	interior of cosmic highway created by the gods, cold color, top view
+all/DALLE2_normal_232.jpg	2.687102292	3.410108325	steampunk owl inside a glass jar buried in sand, warm color, soft lighting
+all/DALLE2_normal_239.jpg	3.43455948	2.045152119	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/DALLE2_normal_241.jpg	0.905232817	1.901139755	breaking moon as seen from the surface of the moon, top view, hyper detail
+all/DALLE2_normal_251.jpg	2.74826005	3.161543067	a brain with eyeballs peaking out between the folds, long-shot, hyper detail
+all/DALLE2_normal_252.jpg	2.462183558	2.452499565	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/DALLE2_normal_258.jpg	2.931575646	3.543429565	black broken armor and helmet laying in wild flowers, hyper detail, soft lighting
+all/DALLE2_normal_259.jpg	1.178524426	1.656399747	a parade of disconnected images : a tragic supernova, hyper detail, HDR lighting
+all/DALLE2_normal_265.jpg	2.831741764	2.885036013	a blue anatomically correct human brain made of metal, warm color, long-shot, anime style
+all/DALLE2_normal_267.jpg	2.912636241	3.358399036	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/DALLE2_normal_276.jpg	3.127756575	3.197097634	portrait photo still of a spooky scarecrow holding a gift, top view, close-up, sci-fi style
+all/DALLE2_normal_285.jpg	3.106014094	2.71557697	portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style
+all/DALLE2_normal_288.jpg	2.339014038	2.784549692	a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style
+all/DALLE2_normal_298.jpg	3.428646707	3.603304992	photoreal portrait very intricate darkwar hunter wearing a black hoody, hyper detail, soft lighting, abstract style

@@ -1,0 +1,200 @@
+Generated_image/All/SD_000_11.jpg	2.1125	1.5317	3.4871	corgi, standing on a train track, happy
+Generated_image/All/SD_001_11.jpg	3.8317	3.662	4.18	white dog, running on a dirt path, blue collar
+Generated_image/All/SD_002_01.jpg	3.9322	3.8557	4.485	white samoyed dog, sitting in the grass with leaves on the ground
+Generated_image/All/SD_003_10.jpg	3.6917	3.7029	4.0578	bird, orange feathers, sitting on a fence post
+Generated_image/All/SD_004_10.jpg	3.5467	3.4275	3.4175	bird with its wings spread out in the water
+Generated_image/All/SD_005_00.jpg	2.9617	2.8386	3.9375	bald eagle, flying over a forest with a city in the background
+Generated_image/All/SD_006_11.jpg	2.2317	1.1786	2.4886	snail, sitting on a green stem
+Generated_image/All/SD_007_00.jpg	3.5211	3.365	4.3825	frog, sitting on a leaf, green background
+Generated_image/All/SD_008_00.jpg	3.1825	2.805	4.1437	frog, sitting on a rock in the water
+Generated_image/All/SD_009_10.jpg	3.162	2.692	4.248	turtle, swimming in the ocean
+Generated_image/All/SD_010_11.jpg	3.8867	3.86	4.2657	turtle, sitting on top of a rock
+Generated_image/All/SD_011_01.jpg	2.8467	2.334	4.1438	lizard, sitting on a branch of a plant
+Generated_image/All/SD_012_10.jpg	2.6317	1.984	3.8567	duck, swimming in the water
+Generated_image/All/SD_013_10.jpg	3.514	3.16	3.9833	hedgehog, sitting on a ledge
+Generated_image/All/SD_014_01.jpg	2.732	2.265	4.0817	swan with wings spread out in the water
+Generated_image/All/SD_015_01.jpg	2.1875	1.6117	2.3267	a close up of a millipede on a wooden surface
+Generated_image/All/SD_016_11.jpg	3.22	3.1017	3.792	snake, sitting in the grass
+Generated_image/All/SD_017_00.jpg	3.0371	2.62	3.345	a spider in a web with a flower in the background
+Generated_image/All/SD_018_01.jpg	1.96	1.51	1.988	jellyfishs floating in the water with a black background
+Generated_image/All/SD_019_10.jpg	2.6675	2.4022	3.986	there are many shells that are on a white surface
+Generated_image/All/SD_020_11.jpg	1.9975	1.065	3.815	a crab on a sandy beach with a pink shell
+Generated_image/All/SD_021_00.jpg	2.5925	1.775	3.722	there is a crayfish that is sitting on a rock in the water
+Generated_image/All/SD_022_10.jpg	3.4986	3.23	3.2557	there is a wolf standing in the grass with a wolf behind him
+Generated_image/All/SD_023_00.jpg	2.44	2.07	4.1417	fox, standing in the grass and flowers
+Generated_image/All/SD_024_11.jpg	1.88	1.1657	3.0557	there is a fat grey cat sitting on a wooden deck looking up
+Generated_image/All/SD_025_10.jpg	3.08	2.4267	3.2044	there is a watering can with a hose attached to it
+Generated_image/All/SD_026_10.jpg	2.8933	2.176	3.81	angry, black cat with yellow eyes laying on the ground
+Generated_image/All/SD_027_00.jpg	0.9343	0.521	1.615	the sphinx cat
+Generated_image/All/SD_028_00.jpg	2.865	2.4267	3.8657	there is a black bear sitting on a tree stump in the woods
+Generated_image/All/SD_029_11.jpg	3.61	3.3714	4.13	brown bear, standing on a rock in a river
+Generated_image/All/SD_030_01.jpg	1.95	1.3217	3.868	leopard resting on a tree branch in the wild
+Generated_image/All/SD_031_00.jpg	2.5525	1.52	4.1	snow leopard walking in the snow in a forest with trees
+Generated_image/All/SD_032_11.jpg	2.63	2.48	4.168	face of an lion with its mouth open
+Generated_image/All/SD_033_10.jpg	3.1057	2.478	4.435	a tiger walking in the snow with its mouth open
+Generated_image/All/SD_034_00.jpg	2.5275	1.7175	3.36	there is a grasshopper that is sitting on a branch
+Generated_image/All/SD_035_10.jpg	2.8471	2.1612	4.155	a dragonfly perched on a twig
+Generated_image/All/SD_036_11.jpg	4.42	4.3867	4.7333	a bee flying towards a sunflower with a yellow background
+Generated_image/All/SD_037_00.jpg	3.5314	3.445	4.455	there is a butterfly that is sitting on a flower
+Generated_image/All/SD_038_01.jpg	2.4486	2.218	4.1689	there is a large green mantis that is sitting on a branch
+Generated_image/All/SD_039_01.jpg	3.3775	3.1017	4.1275	rabbit, sitting in the grass
+Generated_image/All/SD_040_11.jpg	3.2967	3.178	4.072	there is a small white and brown hamster sitting in a pile of wood chips
+Generated_image/All/SD_041_11.jpg	3.7733	3.12	4.1744	marmot, eating a carrot in the grass
+Generated_image/All/SD_042_00.jpg	3.3822	3.0525	3.8243	squirrel, walking on a fence
+Generated_image/All/SD_043_11.jpg	2.5988	2.148	3.1337	two small brown and white guineapigs are laying in the grass
+Generated_image/All/SD_044_11.jpg	3.898	3.5067	4.3017	brown horse, running in a field of grass
+Generated_image/All/SD_045_10.jpg	1.215	0.7886	2.9514	zebra standing in a field of grass with trees in the background
+Generated_image/All/SD_046_00.jpg	3.2	2.612	4.2975	two hippos, standing next to each other on the grass
+Generated_image/All/SD_047_01.jpg	3.5086	3.5	4.4567	airplane landing on a runway with smoke coming out of the back
+Generated_image/All/SD_048_11.jpg	3.3467	3.1975	4.36	there is a armadile that is walking in the grass
+Generated_image/All/SD_049_01.jpg	4.618	4.81	4.9844	camel, walking on the road in the desert with a blue sky
+Generated_image/All/SD_050_10.jpg	3.4967	3.4467	4.3	girl in a pink dress and hat sitting on a bench reading a book
+Generated_image/All/SD_051_10.jpg	2.3033	1.394	3.332	cow, standing in a field of tall grass
+Generated_image/All/SD_052_11.jpg	2.8317	1.5433	3.9033	a gorilla with a very strong body, black background
+Generated_image/All/SD_053_00.jpg	2.4943	2.51	3.205	sheep with large horns standing in a grassy field
+Generated_image/All/SD_054_00.jpg	2.4133	1.7833	3.482	a brown antelope with long horns, standing in a field
+Generated_image/All/SD_055_01.jpg	2.7775	2.59	4.0162	a bicycle parked on a dirt road in the forest
+Generated_image/All/SD_056_10.jpg	3.9222	3.8562	4.246	a black camera sitting on top of a table next to a black wall
+Generated_image/All/SD_057_11.jpg	3.8078	4.245	4.4714	there is a red christmas stocking with candy wrapped in it
+Generated_image/All/SD_058_11.jpg	3.5475	3.8633	4.2875	there is a cup of coffee on a saucer on a table
+Generated_image/All/SD_059_11.jpg	2.4217	1.855	2.9367	laptop computer, sitting on top of a white desk
+Generated_image/All/SD_060_00.jpg	2.76	2.2067	2.772	there is a white owl lamp on a table next to a white vase
+Generated_image/All/SD_061_01.jpg	3.0614	2.9175	4.072	piano, sitting on a wooden floor
+Generated_image/All/SD_062_01.jpg	2.6375	2.0667	1.812	Jack o'Lantern, sitting on a floor near a window, scary color
+Generated_image/All/SD_063_00.jpg	1.5933	0.9533	2.098	there are two spoons hanging from a hook on a wall
+Generated_image/All/SD_064_10.jpg	3.3483	2.9233	4.17	there is a mailbox on a brick wall with a green door
+Generated_image/All/SD_065_11.jpg	2.796	2.602	4.04	a red lipstick with a black background
+Generated_image/All/SD_066_11.jpg	3.4575	3.145	4.012	book with a magnifying glass on top of it
+Generated_image/All/SD_067_11.jpg	2.348	1.1667	2.5983	there is a yellow chair sitting in front of a desk
+Generated_image/All/SD_068_11.jpg	2.4417	2.05	3.6343	yellow cabs and taxis are parked in a busy city street
+Generated_image/All/SD_069_00.jpg	3.1625	3.398	4.1633	tent on a grassy hill with a view of the mountains
+Generated_image/All/SD_070_00.jpg	3.3714	3.0114	3.8529	there is a bowl of fruit that is sitting on a table
+Generated_image/All/SD_071_11.jpg	2.7283	2.764	4.13	there is a large book shelf with many books on it
+Generated_image/All/SD_072_01.jpg	3.676	3.8225	3.8614	tower in the distance with a lake in the foreground
+Generated_image/All/SD_073_01.jpg	3.055	2.91	2.95	a necklace with blue and white stones on a mannequin
+Generated_image/All/SD_074_10.jpg	2.915	2.3667	3.6433	a watch on a wooden surface with a sky background
+Generated_image/All/SD_075_00.jpg	2.5	2.2567	3.2857	there is a heron that is standing in the water with a fish in it's mouth
+Generated_image/All/SD_076_00.jpg	2.884	2.782	3.519	small pumpkin, sitting on top of a wooden stump, pumpkin farm background
+Generated_image/All/SD_077_11.jpg	3.0888	2.2183	2.8771	there are many pink succulent in a green pot
+Generated_image/All/SD_078_00.jpg	2.465	1.7457	3.4933	there is a white plane flying in the sky
+Generated_image/All/SD_079_11.jpg	2.9163	2.17	3.102	ambulance driving down a road with a sign on the side of it
+Generated_image/All/SD_080_11.jpg	2.72	2.8125	3.8117	there are many apples in a basket on a wooden table
+Generated_image/All/SD_081_01.jpg	2.7414	1.8025	3.435	a rifle and a backpack on the ground
+Generated_image/All/SD_082_00.jpg	2.5729	2.115	2.2714	there is a large axe stuck in a tree stump
+Generated_image/All/SD_083_00.jpg	3.456	3.662	3.662	there is a basket with a bunch of herbs and flowers on it
+Generated_image/All/SD_084_10.jpg	2.9567	2.8525	3.575	a hot air balloon flying over a field
+Generated_image/All/SD_085_10.jpg	3.102	3.3567	3.4067	there are two glasses of different drinks on a bar, colorful coctail, cold drinks
+Generated_image/All/SD_086_01.jpg	3.34	3.222	4.0183	basket with a blue blanket on top
+Generated_image/All/SD_087_00.jpg	2.782	2.204	3.36	on a pier at sunset with people walking on the pier
+Generated_image/All/SD_088_01.jpg	3.09	3.1367	2.9183	there is a black lamp on the desk next to a white bed
+Generated_image/All/SD_089_00.jpg	3.035	2.1683	4.146	there is a book with a pair of glasses on top of it
+Generated_image/All/SD_090_10.jpg	3.4333	3.2157	3.3533	there is a wooden swing that is in the grass, swing on a tree, swings, beautiful wooden frame
+Generated_image/All/SD_091_00.jpg	2.8333	2.4625	3.206	there are three birdhouses hanging on the wall with a potted plant, better homes and gardens
+Generated_image/All/SD_092_11.jpg	3.6571	2.8087	3.486	two pairs of brown cowboy boots are lined up against a log wall
+Generated_image/All/SD_093_11.jpg	3.37	3.7325	3.6267	a broccoli head in a brown bowl
+Generated_image/All/SD_094_01.jpg	2.9443	2.4014	3.188	a bunch of bullet shells on a table
+Generated_image/All/SD_095_01.jpg	3.0667	3.565	4.0	a lit candle in the dark with a black background, candle volumetric, candle lighting
+Generated_image/All/SD_096_11.jpg	2.045	0.8155	2.4017	two chickens are standing in a field with dirt and grass
+Generated_image/All/SD_097_10.jpg	3.012	2.865	3.382	a church with a large stained glass window, inspiring gothic architecture
+Generated_image/All/SD_098_00.jpg	3.294	2.435	3.725	a theater with a curtain and seats, cinematatic lighting
+Generated_image/All/SD_099_10.jpg	3.475	3.615	4.28	there is a clock that is sitting on a table
+Generated_image/All/SD_100_00.jpg	3.785	3.7214	4.2275	there is a cup of coffee and a cookie on a table
+Generated_image/All/SD_101_00.jpg	3.5	3.43	3.7425	a jar filled with coins and a string, scattered gold coins, piles of gold coins
+Generated_image/All/SD_102_01.jpg	2.6075	2.3817	3.39	yellow fish in an aquarium with coral and anemons
+Generated_image/All/SD_103_10.jpg	3.426	3.0133	3.98	black phalacrocorax carbo, sitting on a post in the water, outstretched wings
+Generated_image/All/SD_104_01.jpg	2.6467	2.7929	2.7038	there are many street lights that are lined up along the street
+Generated_image/All/SD_105_00.jpg	3.87	3.01	3.76	a white chrysanthemum with a yellow center on a stem
+Generated_image/All/SD_106_11.jpg	3.7267	3.5183	3.7271	there is a large yellow bulldozer that is dumping dirt, mining scrap metal
+Generated_image/All/SD_107_10.jpg	3.1633	3.1983	2.9829	there is a glass of a drink with a candy cane on it
+Generated_image/All/SD_108_01.jpg	3.3575	2.486	2.6143	a pile of red peppers with a green leaf
+Generated_image/All/SD_109_01.jpg	3.455	3.4171	3.618	there are many peach blossoms on a branch with a bee
+Generated_image/All/SD_110_00.jpg	3.405	3.31	4.001	there are many oranges and a slice of orange on a table
+Generated_image/All/SD_111_10.jpg	3.1133	2.7	3.502	a bunch of cherries with water droplets
+Generated_image/All/SD_112_11.jpg	3.075	3.1575	2.81	a golf ball and a golf club on a green field
+Generated_image/All/SD_113_11.jpg	2.795	2.38	2.9729	airship flying in the sky with a goodyear message on it
+Generated_image/All/SD_114_11.jpg	4.1171	4.03	4.1644	a bunch of grapes hanging from a vine
+Generated_image/All/SD_115_00.jpg	2.8667	2.576	4.04	a green leaf with water droplets on it
+Generated_image/All/SD_116_00.jpg	3.185	2.98	3.6157	there is a small greenhouse with a lot of plants in it
+Generated_image/All/SD_117_01.jpg	2.6225	1.6275	2.906	there is a acoustic guitar that is laying on a table
+Generated_image/All/SD_118_11.jpg	3.0771	2.4971	3.53	there are many dumbbells in a row in a gym
+Generated_image/All/SD_119_10.jpg	3.235	3.298	3.955	there is a red lighthouse tower on the pier with people walking around
+Generated_image/All/SD_120_10.jpg	3.54	3.0371	3.7875	a white house with a thatched roof and a black chimney
+Generated_image/All/SD_121_01.jpg	2.8667	2.3	3.5575	there are many durians that are on display together
+Generated_image/All/SD_122_00.jpg	3.18	3.28	3.3567	four racing drivers racing go karts on a track with grass in the background, in a race competition
+Generated_image/All/SD_123_10.jpg	2.39	1.928	2.905	there is a knife and a slice of lemon on a cutting board
+Generated_image/All/SD_124_11.jpg	3.2186	3.0612	3.652	a siam fish with a black background, betta fish, long flowing fins, red scales on his back
+Generated_image/All/SD_125_11.jpg	3.3086	2.9967	2.49	there are many envelopes in a bowl on a table
+Generated_image/All/SD_126_00.jpg	3.5475	3.495	4.0462	a volleyball on a court with a wall in the background
+Generated_image/All/SD_127_01.jpg	2.86	2.19	4.109	a waterfall with moss growing on the rocks, peaceful beautiful waterfall
+Generated_image/All/SD_128_00.jpg	3.2175	2.926	3.532	there is a red couch and a table with a lamp on it, thomas kinkade. cute cozy room, warm colored furniture, popular interior design style
+Generated_image/All/SD_129_00.jpg	3.1089	3.06	3.3757	several trains are parked on the tracks in a train yard
+Generated_image/All/SD_130_11.jpg	2.65	2.3633	3.01	bridge over a body of water with a boat in the water
+Generated_image/All/SD_131_11.jpg	2.1375	1.49	3.125	there are many corns in a basket on the table
+Generated_image/All/SD_132_10.jpg	2.3733	1.5343	2.25	there is a microphone with headphones on it and a microphone stand
+Generated_image/All/SD_133_01.jpg	3.442	2.808	3.3467	mortar and pestle with leaves on a white table
+Generated_image/All/SD_134_11.jpg	3.9033	4.0871	4.182	mountain with a snow covered peak in the distance
+Generated_image/All/SD_135_00.jpg	2.96	3.03	3.785	a red mushroom on a mossy ground in the woods
+Generated_image/All/SD_136_01.jpg	1.776	1.264	2.925	a man sitting on a stool playing an accordion
+Generated_image/All/SD_137_01.jpg	2.736	2.668	3.7286	a building with a large painting on the side, buddhist architecture, vietnamese temple scene, thai temple
+Generated_image/All/SD_138_11.jpg	3.1867	2.335	3.75	panda bear sitting on a log in a forest with trees
+Generated_image/All/SD_139_00.jpg	3.2833	3.134	3.7014	a telescope on a pole with a building in the background
+Generated_image/All/SD_140_00.jpg	2.55	1.5667	2.6712	there are some oak acorns hanging from a tree branch with leaves
+Generated_image/All/SD_141_10.jpg	3.7975	3.7	4.2125	a stack of macarons on a table
+Generated_image/All/SD_142_11.jpg	2.99	2.645	3.9356	truck driving down a dirt road
+Generated_image/All/SD_143_10.jpg	2.2686	1.2733	2.195	there is a ping-pong paddle and a ping-pong ball on the table
+Generated_image/All/SD_144_11.jpg	2.835	2.805	3.1871	a bunch of needles on a table
+Generated_image/All/SD_145_11.jpg	2.8475	2.99	3.8367	windmills in a field at sunset with mountains in the background
+Generated_image/All/SD_146_01.jpg	3.29	2.7925	3.3514	a split pomegranate
+Generated_image/All/SD_147_11.jpg	3.3475	3.09	4.0667	a pot with steam rising out of it
+Generated_image/All/SD_148_01.jpg	2.785	2.8533	2.7643	someone is making a vase on a potters wheel with a small piece of clay, handmade pottery, hand built ceramics
+Generated_image/All/SD_149_10.jpg	2.74	2.1	3.104	tennis racket and two tennis balls on a tennis court
+Generated_image/All/SD_150_01.jpg	2.5925	2.734	4.0538	yellow canola flowers in a field with a blue sky in the background
+Generated_image/All/SD_151_01.jpg	3.0983	2.795	3.8333	space shuttle on a platform with a blue sky in the background, big booster rocket engines, nasa space tourism
+Generated_image/All/SD_152_11.jpg	2.9567	2.9675	3.29	there is a white rocking chair and a table on the sidewalk, brushed white and blue paint, made of wrought iron
+Generated_image/All/SD_153_10.jpg	3.1433	2.725	3.358	there are pink carnations
+Generated_image/All/SD_154_00.jpg	3.352	3.0243	3.915	sailboat with a colorful sail on the water with a man sitting on the sail
+Generated_image/All/SD_155_01.jpg	2.412	2.148	2.2275	there are several different colored liquids in glass bottles next to corn
+Generated_image/All/SD_156_00.jpg	2.32	2.0333	2.2438	a couple of nuts and a bolt on a ground
+Generated_image/All/SD_157_10.jpg	3.212	3.072	3.4683	there is a blue vase with a pattern of white flowers on the surface sitting on a table, style of chinese vase
+Generated_image/All/SD_158_01.jpg	3.296	2.9667	3.9467	cargo ship in the water with mountains in the background
+Generated_image/All/SD_159_10.jpg	2.6	2.2943	2.7071	a pencil and ruler on a blueprint
+Generated_image/All/SD_160_11.jpg	2.7933	3.05	4.0063	skier in black jacket riding on snowmobile in open field
+Generated_image/All/SD_161_00.jpg	3.0333	3.058	3.32	a sock on a book with a white background
+Generated_image/All/SD_162_01.jpg	3.6633	3.792	3.8083	a plate with various spices and nuts, folk medicine
+Generated_image/All/SD_163_01.jpg	2.47	2.21	2.6575	starfish are arranged on the ground with shells all around
+Generated_image/All/SD_164_11.jpg	3.9443	4.1011	4.2275	a bunch of strawberries sitting on top of a table
+Generated_image/All/SD_165_10.jpg	2.78	2.7533	2.5283	there is a sundialer sitting on a pedestal in a garden
+Generated_image/All/SD_166_11.jpg	2.6943	3.04	3.745	there is a wooden wagon sitting in the middle of a field with grass
+Generated_image/All/SD_167_01.jpg	3.6683	3.615	4.2478	there is a teddy bear sitting on the ground
+Generated_image/All/SD_168_11.jpg	3.7683	3.784	4.15	tomatoes on the vine with water droplets on them
+Generated_image/All/SD_169_10.jpg	3.456	3.07	3.7717	there is a tractor that is sitting in the middle of a field, farming, farm field background
+Generated_image/All/SD_170_10.jpg	2.96	2.9425	3.3562	steam trains on a bridge with smoke coming out of it
+Generated_image/All/SD_171_00.jpg	2.39	2.146	3.8575	trolley car on a city street with people walking around, the city of lisbon
+Generated_image/All/SD_172_11.jpg	3.0617	2.92	3.38	a branch of a cherry tree with pink flowers
+Generated_image/All/SD_173_11.jpg	2.7483	2.3686	4.0057	a bunch of bananas
+Generated_image/All/SD_174_11.jpg	2.375	1.9617	2.6388	there is a cucumber growing on a vine with a leaf
+Generated_image/All/SD_175_11.jpg	2.5712	1.806	2.8283	scorpion on the sand with a black tail
+Generated_image/All/SD_176_11.jpg	2.8125	3.1633	2.4	someone holding two cones of ice cream in their hands
+Generated_image/All/SD_177_10.jpg	1.995	1.7971	3.604	there are many pineapples that are sitting on the ground
+Generated_image/All/SD_178_01.jpg	3.354	3.1617	3.885	raccoon standing on a rock in a stream of water
+Generated_image/All/SD_179_00.jpg	2.5	1.9825	2.33	there are some sea cucumber and lettuce on a plate on a table
+Generated_image/All/SD_180_11.jpg	2.9575	3.4	4.116	there are many sunflowers that are blooming in the field
+Generated_image/All/SD_181_11.jpg	3.51	3.6883	3.9412	a window in a dark room with a light coming through it, dramatic backlit window
+Generated_image/All/SD_182_10.jpg	3.544	3.145	3.8425	a dimly lit brick tunnel with arched arches in a building, dry archways, archways between stalagtites
+Generated_image/All/SD_183_11.jpg	3.6	3.132	4.13	a violin on a black surface with a reflection
+Generated_image/All/SD_184_00.jpg	2.72	2.7833	3.8543	there is a toilet and a shower in a bathroom with tiled walls
+Generated_image/All/SD_185_00.jpg	2.586	2.83	2.5829	two boxes are stacked on top of each other on a table
+Generated_image/All/SD_186_11.jpg	2.7083	2.795	3.385	there are brooms
+Generated_image/All/SD_187_10.jpg	3.37	3.2686	3.6986	a pile of old cassettes on a table
+Generated_image/All/SD_188_01.jpg	3.04	3.015	2.83	a black motorcycle helmet with the number eight on it
+Generated_image/All/SD_189_01.jpg	2.7967	2.108	3.755	there is a man and woman sitting on a bench under a tree, parks and public space
+Generated_image/All/SD_190_10.jpg	2.302	1.505	3.06	a pair of gloves
+Generated_image/All/SD_191_00.jpg	1.7587	1.82	3.3233	a keyboard and mouse on a pink surface
+Generated_image/All/SD_192_00.jpg	2.736	2.3875	2.8086	a man playing drums on the beach
+Generated_image/All/SD_193_00.jpg	2.84	2.5175	2.926	there is a bottle of perfume with a flower on the side
+Generated_image/All/SD_194_11.jpg	3.1033	3.102	4.0829	yellow phone booth on sidewalk next to sidewalk with grass and trees
+Generated_image/All/SD_195_00.jpg	2.9	3.3	3.7286	a radio sitting on a table with a blurry background
+Generated_image/All/SD_196_01.jpg	2.358	1.95	3.486	there is a clock that is sitting on a table
+Generated_image/All/SD_197_01.jpg	2.2375	2.1043	2.6217	there is a scale with two coins on it and a gold plate
+Generated_image/All/SD_198_01.jpg	3.05	2.7967	3.75	a bathroom with a washer and a dryer in it, premium bathroom design
+Generated_image/All/SD_199_10.jpg	2.0175	1.544	3.2483	a man sitting on a stone pillar playing a saxophone

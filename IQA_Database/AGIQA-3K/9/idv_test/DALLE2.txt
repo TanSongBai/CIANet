@@ -1,0 +1,57 @@
+all/DALLE2_normal_002.jpg	2.855791343	2.908503737	man lost in space
+all/DALLE2_normal_003.jpg	3.274576995	3.641108818	a cosmic universe
+all/DALLE2_normal_005.jpg	3.430745058	3.202040316	house of the dragon
+all/DALLE2_normal_016.jpg	2.790423236	3.569908726	very sad rabbit crying
+all/DALLE2_normal_028.jpg	1.104874015	1.809261893	maroon to black gradient
+all/DALLE2_normal_034.jpg	2.686140018	2.366720668	rat portrait as a warrior
+all/DALLE2_normal_039.jpg	2.674859949	2.568031711	beautiful topaz girl dark
+all/DALLE2_normal_042.jpg	3.231077294	2.958190852	a man jumping off a cliff
+all/DALLE2_normal_051.jpg	2.927618961	2.139899198	hanging gardens of babylon
+all/DALLE2_normal_052.jpg	2.92075847	3.078582412	concept art of giant ogres
+all/DALLE2_normal_055.jpg	3.001476926	2.963882471	a small ocean full of life
+all/DALLE2_normal_060.jpg	2.817259418	1.715657358	artwork with only triangles, anime style
+all/DALLE2_normal_068.jpg	2.293736737	1.793698006	yog sothoth chef in a kitchen, abstract style
+all/DALLE2_normal_072.jpg	3.174029361	2.37295214	painted portrait of snake man, realistic style
+all/DALLE2_normal_077.jpg	2.765509892	3.2326522	a anthropomorphic cat warrior, realistic style
+all/DALLE2_normal_079.jpg	2.491680335	2.90198339	the infernal dark gun magicks , baroque style
+all/DALLE2_normal_084.jpg	2.92075847	3.256355245	sheep that looks like broccoli, baroque style
+all/DALLE2_normal_088.jpg	3.334754679	3.517088733	a space shuttle flying in space, abstract style
+all/DALLE2_normal_093.jpg	2.476240979	3.227706657	photo of tony danza eating chili, abstract style
+all/DALLE2_normal_100.jpg	2.248459435	3.274006549	a small garden buzzing with bees, anime style
+all/DALLE2_normal_103.jpg	3.162256259	3.1259885	a giant rock floating in the air, abstract style
+all/DALLE2_normal_104.jpg	2.686140018	3.154626828	a biomechanical cybertronic frog, baroque style
+all/DALLE2_normal_113.jpg	0.889332048	1.44367974	epic colourful scene from a dream, abstract style
+all/DALLE2_normal_114.jpg	2.837204233	2.790068621	donut glazed with white chocolate, baroque style
+all/DALLE2_normal_115.jpg	1.696019687	2.094906068	ocean of canvas that catches fire, anime style
+all/DALLE2_normal_127.jpg	3.091620808	3.259317616	robots building robots in a factory, hyper detail
+all/DALLE2_normal_132.jpg	3.402221092	3.64096935	a girl with rainbow in white shirt , top view
+all/DALLE2_normal_136.jpg	3.108728168	3.154626828	man in his late 40 s wearing a suit, blurred detail
+all/DALLE2_normal_143.jpg	1.463652872	1.805635978	portrait of squids swarming the ocean, elevation view
+all/DALLE2_normal_149.jpg	1.727765593	2.614222137	a plasticine model of a goblin raider, HDR lighting
+all/DALLE2_normal_151.jpg	3.041723666	2.917022056	photo of a white fashion jewelry store, cold color
+all/DALLE2_normal_152.jpg	2.80733647	1.933414643	grumpy the elder gods sitting in a bar, top view
+all/DALLE2_normal_158.jpg	3.207226865	3.3417077	photograph of a stone cairn in scotland, soft lighting
+all/DALLE2_normal_163.jpg	3.718303223	3.001128296	a portrait of girl boxer in a red dress, elevation view
+all/DALLE2_normal_164.jpg	3.403754047	3.635603955	a pig sitting in a chair smoking a pipe, close-up
+all/DALLE2_normal_165.jpg	2.837204233	2.864560271	a female hand holding a red fresh apple, long-shot
+all/DALLE2_normal_166.jpg	1.903017791	3.137840023	a cybertronic metallic green tree frog , blurred detail
+all/DALLE2_normal_190.jpg	2.67293154	3.485324022	delicious peanut butter donut with glazing , warm color, anime style
+all/DALLE2_normal_203.jpg	1.868518107	1.597142136	a beautiful brutalist concrete forest temple, elevation view, abstract style
+all/DALLE2_normal_204.jpg	3.576593619	3.453076131	2 friends partying and are facing the camera, close-up, baroque style
+all/DALLE2_normal_205.jpg	1.8940894	2.271926577	the fate of all fools and divine intervention, long-shot, anime style
+all/DALLE2_normal_209.jpg	2.703383915	2.750918808	an uprising of disneyland costumed characters, HDR lighting, baroque style
+all/DALLE2_normal_217.jpg	3.537280489	3.358399036	a portrait photo of a beautiful female android, hyper detail, realistic style
+all/DALLE2_normal_224.jpg	2.837204233	2.54176312	lovers being pulled apart across space and time, warm color, close-up
+all/DALLE2_normal_226.jpg	2.825502717	3.153995905	an anatomically correct cybertronic human heart, cold color, close-up
+all/DALLE2_normal_230.jpg	2.299764158	2.960067189	a fantast beauty detailed elf with mermaid tail, cold color, blurred detail
+all/DALLE2_normal_234.jpg	3.197799919	2.456699832	a mechanical human arm sticking out of the earth, cold color, soft lighting
+all/DALLE2_normal_236.jpg	3.715984722	3.897011287	short - haired short butch tomboy blonde engineer, top view, close-up
+all/DALLE2_normal_244.jpg	2.058266369	2.85340349	man at a royal banquet wearing an asymmetrical gown, top view, soft lighting
+all/DALLE2_normal_254.jpg	3.387959109	3.397119887	portrait of beautiful woman with magical nebula hair, long-shot, soft lighting
+all/DALLE2_normal_261.jpg	2.803217798	3.092308057	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/DALLE2_normal_266.jpg	2.630872609	3.056705093	scottish stone cairn inside a glass jar buried in sand, cold color, close-up, sci-fi style
+all/DALLE2_normal_267.jpg	2.912636241	3.358399036	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/DALLE2_normal_273.jpg	2.166977719	2.281498001	exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style
+all/DALLE2_normal_284.jpg	3.593502309	3.149691545	portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style
+all/DALLE2_normal_285.jpg	3.106014094	2.71557697	portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style
+all/DALLE2_normal_296.jpg	3.415067484	3.614437081	bloodborne werewolf howling in yharnam with full moon in background, blurred detail, soft lighting, sci-fi style

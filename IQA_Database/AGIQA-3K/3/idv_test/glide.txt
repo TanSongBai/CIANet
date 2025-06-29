@@ -1,0 +1,60 @@
+all/glide_normal_004.jpg	0.592610402	1.153704822	red and blue armor
+all/glide_normal_005.jpg	1.539115041	1.698194229	house of the dragon
+all/glide_normal_007.jpg	0.821435934	1.388019295	a cat doing karaoke
+all/glide_normal_011.jpg	1.719307075	1.848675793	the prince of the sun
+all/glide_normal_014.jpg	1.943986542	2.851195987	a small leopard gecko
+all/glide_normal_017.jpg	1.391281461	0.666005895	tragedy of the commons
+all/glide_normal_037.jpg	0.991945932	0.422156431	demon queen with red eyes
+all/glide_normal_040.jpg	0.977683949	1.324399447	an elaborate robot coding
+all/glide_normal_045.jpg	0.929924681	0.423281003	superman punches the pope
+all/glide_normal_046.jpg	0.488530746	0.411989915	the drowned and the saved
+all/glide_normal_050.jpg	1.154843415	1.916694664	logo design of a full moon
+all/glide_normal_052.jpg	1.177351713	1.446324178	concept art of giant ogres
+all/glide_normal_053.jpg	1.012573225	0.981735619	castle from howl's sticker
+all/glide_normal_059.jpg	0.635396352	0.288039227	barak obama as master chief
+all/glide_normal_061.jpg	1.494912264	1.231874682	a yellow rendition of venom, sci-fi style
+all/glide_normal_064.jpg	1.149675658	1.536125842	monsters playing board games, baroque style
+all/glide_normal_069.jpg	1.785560751	2.122737165	synthwave astronaut tabby cat, baroque style
+all/glide_normal_078.jpg	1.034731881	1.897445686	tree of life embroidered scene, abstract style
+all/glide_normal_083.jpg	1.388190702	1.435558842	eiffel tower drenched in blood, abstract style
+all/glide_normal_086.jpg	1.075025374	0.720129493	a very drunk person named aaron, sci-fi style
+all/glide_normal_089.jpg	0.794277489	1.922359564	a crocodile in a new york sewer, baroque style
+all/glide_normal_092.jpg	0.91586726	1.118687364	steampunk walter white portrait , realistic style
+all/glide_normal_104.jpg	1.632795725	2.178897063	a biomechanical cybertronic frog, baroque style
+all/glide_normal_107.jpg	1.056157156	1.578814508	spritesheet game asset vector art, realistic style
+all/glide_normal_109.jpg	1.567824332	1.796846618	photograph of beautiful landscape, baroque style
+all/glide_normal_115.jpg	0.720968251	0.653813422	ocean of canvas that catches fire, anime style
+all/glide_normal_119.jpg	1.086342024	0.910288069	female demon in a medieval dungeon, baroque style
+all/glide_normal_122.jpg	1.328588457	2.034952727	chinese demon god character design, top view
+all/glide_normal_132.jpg	1.717163144	1.250574517	a girl with rainbow in white shirt , top view
+all/glide_normal_140.jpg	1.388617757	0.729132965	cute great old ones sitting in a bar, warm color
+all/glide_normal_143.jpg	2.166977719	1.255488616	portrait of squids swarming the ocean, elevation view
+all/glide_normal_144.jpg	1.927354161	2.732709062	pendant of a silver starfish necklace, close-up
+all/glide_normal_147.jpg	1.048993865	0.56846611	bill gates and jason statham fight m , hyper detail
+all/glide_normal_148.jpg	1.373683876	1.486464742	a portrait painting of a buck in suit, soft lighting
+all/glide_normal_150.jpg	2.65595515	1.149047512	portrait of ciri as a samurai assassin, warm color
+all/glide_normal_151.jpg	1.787427355	2.06489602	photo of a white fashion jewelry store, cold color
+all/glide_normal_167.jpg	0.747178209	0.78808434	two women working in a recording studio, hyper detail
+all/glide_normal_184.jpg	1.373098268	1.495248703	professional studio logo for robot artists, close-up, baroque style
+all/glide_normal_190.jpg	1.704085415	2.490096099	delicious peanut butter donut with glazing , warm color, anime style
+all/glide_normal_191.jpg	1.948511424	1.599528985	cute fluffy golden teddy bear eating bagels, cold color, sci-fi style
+all/glide_normal_195.jpg	0.447072282	0.086501076	unique epic pink space elf knight adventurer, long-shot, anime style
+all/glide_normal_196.jpg	0.392942638	0.483118797	the essence of the chemical element hydrogen, blurred detail, sci-fi style
+all/glide_normal_198.jpg	0.363910379	0.139161932	robots creating new robots in a factory line, soft lighting, abstract style
+all/glide_normal_212.jpg	1.537956569	2.852144996	a glass vase of pink and white dahlia flowers, top view, realistic style
+all/glide_normal_215.jpg	0.739216044	0.456645128	portrait with no signature of aggressive alien, long-shot, anime style
+all/glide_normal_226.jpg	0.630028469	0.191822787	an anatomically correct cybertronic human heart, cold color, close-up
+all/glide_normal_227.jpg	1.661236071	2.258761363	a sketch drawing of a hamster in a fruit basket, cold color, long-shot
+all/glide_normal_233.jpg	1.558020951	1.502329958	a penguin slipping on a banana in the antarctic , warm color, HDR lighting
+all/glide_normal_239.jpg	0.803407893	1.289688929	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/glide_normal_243.jpg	1.782268897	2.474154779	mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail
+all/glide_normal_251.jpg	0.60416837	1.087452894	a brain with eyeballs peaking out between the folds, long-shot, hyper detail
+all/glide_normal_253.jpg	0.60416837	0.642169337	a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting
+all/glide_normal_255.jpg	1.020469898	1.03178009	magician god holding a divine staff character design, long-shot, HDR lighting
+all/glide_normal_260.jpg	1.255971063	1.399151384	mickey mouse head automaton held by a mechanical claw, warm color, top view, anime style
+all/glide_normal_261.jpg	0.929411321	1.113387757	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/glide_normal_269.jpg	0.929924681	0.617082776	poignant portrait of an older man remembering his youth, warm color, hyper detail, baroque style
+all/glide_normal_274.jpg	0.402281536	0.92160537	angled photograph of an abandoned train cart during dusk, cold color, soft lighting, baroque style
+all/glide_normal_281.jpg	0.701659223	0.679471865	portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style
+all/glide_normal_284.jpg	1.674967988	1.073086947	portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style
+all/glide_normal_289.jpg	1.098613732	1.221288303	portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style

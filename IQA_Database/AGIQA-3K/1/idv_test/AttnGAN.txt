@@ -1,0 +1,60 @@
+all/AttnGAN_normal_002.jpg	0.195283431	0.506802093	man lost in space
+all/AttnGAN_normal_009.jpg	1.222173929	0.420831212	girl from fight club
+all/AttnGAN_normal_011.jpg	1.373098268	0.647652682	the prince of the sun
+all/AttnGAN_normal_012.jpg	1.337589887	0.936285696	life bar and mana bar
+all/AttnGAN_normal_013.jpg	1.230273953	1.146784292	everything is a dream
+all/AttnGAN_normal_019.jpg	0.821435934	1.02066036	big boss eating dinner
+all/AttnGAN_normal_022.jpg	1.428382741	0.784257411	panda chef in a kitchen
+all/AttnGAN_normal_029.jpg	0.747278376	0.530505137	legendary river of slugs
+all/AttnGAN_normal_031.jpg	0.821435934	0.742358137	black mickey mouse skull
+all/AttnGAN_normal_033.jpg	1.179543421	0.182860864	the pope had a rock band
+all/AttnGAN_normal_039.jpg	1.247523795	0.945308415	beautiful topaz girl dark
+all/AttnGAN_normal_041.jpg	1.079102747	0.389300995	a raspberry made of metal
+all/AttnGAN_normal_044.jpg	1.106599613	0.553112625	male warrior silver armor
+all/AttnGAN_normal_049.jpg	0.649658335	0.288039227	portrait of evil alchemist
+all/AttnGAN_normal_053.jpg	1.084556311	0.845084862	castle from howl's sticker
+all/AttnGAN_normal_056.jpg	1.391281461	0.922047832	survival in a winter forest
+all/AttnGAN_normal_064.jpg	0.935417685	1.184861428	monsters playing board games, baroque style
+all/AttnGAN_normal_066.jpg	0.761394747	0.604980215	a pizza with chocolate on it, sci-fi style
+all/AttnGAN_normal_078.jpg	0.970469084	0.393920539	tree of life embroidered scene, abstract style
+all/AttnGAN_normal_086.jpg	1.161274584	0.767535581	a very drunk person named aaron, sci-fi style
+all/AttnGAN_normal_093.jpg	1.478164096	0.696883506	photo of tony danza eating chili, abstract style
+all/AttnGAN_normal_105.jpg	1.045837986	0.85008348	a 2 d guitarist character design, anime style
+all/AttnGAN_normal_113.jpg	0.879514179	0.731596555	epic colourful scene from a dream, abstract style
+all/AttnGAN_normal_116.jpg	1.463287163	0.455996915	portrait of beautiful armored girl, sci-fi style
+all/AttnGAN_normal_122.jpg	1.1267749	0.672723404	chinese demon god character design, top view
+all/AttnGAN_normal_126.jpg	1.567824332	0.778794065	the shogoth wearing a santa costume, blurred detail
+all/AttnGAN_normal_128.jpg	0.557530114	0.54235666	portrait of a tang dynasty empress , soft lighting
+all/AttnGAN_normal_129.jpg	0.466029791	0.38908069	portrait of a beautiful young woman, HDR lighting
+all/AttnGAN_normal_132.jpg	1.29901447	0.158030314	a girl with rainbow in white shirt , top view
+all/AttnGAN_normal_138.jpg	0.880865797	2.380364545	render of dreamy beautiful landscape, soft lighting
+all/AttnGAN_normal_142.jpg	0.807856712	0.842546938	a biomechanical passion fruit flower, top view
+all/AttnGAN_normal_144.jpg	1.16308973	0.739160734	pendant of a silver starfish necklace, close-up
+all/AttnGAN_normal_146.jpg	0.79126251	0.431166364	cute fluffy lion cheetah hybrid mixed, blurred detail
+all/AttnGAN_normal_149.jpg	0.792278167	1.56824891	a plasticine model of a goblin raider, HDR lighting
+all/AttnGAN_normal_152.jpg	0.735230234	0.678198368	grumpy the elder gods sitting in a bar, top view
+all/AttnGAN_normal_154.jpg	1.038703499	0.742358137	cute fluffy baby poodle giraffe hybrid, close-up
+all/AttnGAN_normal_156.jpg	1.977251303	1.310865965	an adventure party resting in a tavern, blurred detail
+all/AttnGAN_normal_170.jpg	1.04513849	0.927777366	portrait of butterflies swarming flowers, warm color
+all/AttnGAN_normal_179.jpg	1.063255848	0.641620949	underwater photography of the rough ocean, HDR lighting
+all/AttnGAN_normal_188.jpg	1.252358797	1.137109539	portrait painting of a west hightland white, soft lighting, abstract style
+all/AttnGAN_normal_190.jpg	0.875752826	0.831414849	delicious peanut butter donut with glazing , warm color, anime style
+all/AttnGAN_normal_191.jpg	0.776328629	0.828455166	cute fluffy golden teddy bear eating bagels, cold color, sci-fi style
+all/AttnGAN_normal_198.jpg	0.84859438	0.976132005	robots creating new robots in a factory line, soft lighting, abstract style
+all/AttnGAN_normal_209.jpg	0.995787421	0.552148905	an uprising of disneyland costumed characters, HDR lighting, baroque style
+all/AttnGAN_normal_217.jpg	1.191989061	0.552148905	a portrait photo of a beautiful female android, hyper detail, realistic style
+all/AttnGAN_normal_222.jpg	0.970807385	0.653301426	interior of cosmic highway created by the gods, cold color, top view
+all/AttnGAN_normal_232.jpg	1.144024742	0.897902326	steampunk owl inside a glass jar buried in sand, warm color, soft lighting
+all/AttnGAN_normal_238.jpg	0.705005947	0.560082254	many bodies floating in an infinite lake of blood, elevation view, close-up
+all/AttnGAN_normal_239.jpg	0.937026638	0.874199281	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/AttnGAN_normal_241.jpg	1.023275848	0.577911226	breaking moon as seen from the surface of the moon, top view, hyper detail
+all/AttnGAN_normal_251.jpg	1.252358797	0.719280515	a brain with eyeballs peaking out between the folds, long-shot, hyper detail
+all/AttnGAN_normal_252.jpg	0.749492217	0.909855359	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/AttnGAN_normal_258.jpg	0.60416837	0.642169337	black broken armor and helmet laying in wild flowers, hyper detail, soft lighting
+all/AttnGAN_normal_259.jpg	0.592546579	0.594282567	a parade of disconnected images : a tragic supernova, hyper detail, HDR lighting
+all/AttnGAN_normal_265.jpg	1.69003938	0.57602485	a blue anatomically correct human brain made of metal, warm color, long-shot, anime style
+all/AttnGAN_normal_267.jpg	1.112367509	0.902744335	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/AttnGAN_normal_276.jpg	0.333282167	0.530505137	portrait photo still of a spooky scarecrow holding a gift, top view, close-up, sci-fi style
+all/AttnGAN_normal_285.jpg	0.701659223	0.282183064	portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style
+all/AttnGAN_normal_288.jpg	0.835015157	0.931603649	a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style
+all/AttnGAN_normal_298.jpg	0.929411321	0.942239977	photoreal portrait very intricate darkwar hunter wearing a black hoody, hyper detail, soft lighting, abstract style

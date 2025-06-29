@@ -1,0 +1,60 @@
+all/glide_normal_002.jpg	0.508202054	0.902085383	man lost in space
+all/glide_normal_003.jpg	0.72412361	1.662380313	a cosmic universe
+all/glide_normal_005.jpg	1.539115041	1.698194229	house of the dragon
+all/glide_normal_016.jpg	1.540771109	1.585290614	very sad rabbit crying
+all/glide_normal_028.jpg	1.310287954	1.209905872	maroon to black gradient
+all/glide_normal_034.jpg	0.513601805	0.297144498	rat portrait as a warrior
+all/glide_normal_039.jpg	0.582188173	0.480827465	beautiful topaz girl dark
+all/glide_normal_042.jpg	0.536272256	0.742358137	a man jumping off a cliff
+all/glide_normal_051.jpg	1.428382741	1.60050067	hanging gardens of babylon
+all/glide_normal_052.jpg	1.177351713	1.446324178	concept art of giant ogres
+all/glide_normal_055.jpg	1.614577211	3.082998995	a small ocean full of life
+all/glide_normal_059.jpg	0.635396352	0.288039227	barak obama as master chief
+all/glide_normal_060.jpg	1.063255848	1.507286544	artwork with only triangles, anime style
+all/glide_normal_067.jpg	1.077517831	0.507503744	a woman in newspaper clothes, realistic style
+all/glide_normal_068.jpg	1.432500959	0.497452181	yog sothoth chef in a kitchen, abstract style
+all/glide_normal_072.jpg	0.693938742	1.316179121	painted portrait of snake man, realistic style
+all/glide_normal_077.jpg	1.539115041	2.139899198	a anthropomorphic cat warrior, realistic style
+all/glide_normal_079.jpg	0.247032957	0.43569296	the infernal dark gun magicks , baroque style
+all/glide_normal_084.jpg	1.575270793	1.644548225	sheep that looks like broccoli, baroque style
+all/glide_normal_088.jpg	1.086342024	2.139899198	a space shuttle flying in space, abstract style
+all/glide_normal_093.jpg	0.986154364	1.050286739	photo of tony danza eating chili, abstract style
+all/glide_normal_100.jpg	1.358005834	1.411682898	a small garden buzzing with bees, anime style
+all/glide_normal_103.jpg	0.45479692	1.721981963	a giant rock floating in the air, abstract style
+all/glide_normal_104.jpg	1.632795725	2.178897063	a biomechanical cybertronic frog, baroque style
+all/glide_normal_113.jpg	0.298444431	2.41761037	epic colourful scene from a dream, abstract style
+all/glide_normal_114.jpg	1.448560438	2.402534584	donut glazed with white chocolate, baroque style
+all/glide_normal_115.jpg	0.720968251	0.653813422	ocean of canvas that catches fire, anime style
+all/glide_normal_127.jpg	1.065861944	1.410283473	robots building robots in a factory, hyper detail
+all/glide_normal_132.jpg	1.717163144	1.250574517	a girl with rainbow in white shirt , top view
+all/glide_normal_136.jpg	0.283510549	0.182860864	man in his late 40 s wearing a suit, blurred detail
+all/glide_normal_143.jpg	2.166977719	1.255488616	portrait of squids swarming the ocean, elevation view
+all/glide_normal_149.jpg	1.14671176	1.554938564	a plasticine model of a goblin raider, HDR lighting
+all/glide_normal_151.jpg	1.787427355	2.06489602	photo of a white fashion jewelry store, cold color
+all/glide_normal_152.jpg	0.887752418	1.26688872	grumpy the elder gods sitting in a bar, top view
+all/glide_normal_158.jpg	1.373098268	2.486100389	photograph of a stone cairn in scotland, soft lighting
+all/glide_normal_163.jpg	1.761964787	0.59256494	a portrait of girl boxer in a red dress, elevation view
+all/glide_normal_164.jpg	0.821435934	1.221037961	a pig sitting in a chair smoking a pipe, close-up
+all/glide_normal_165.jpg	1.311956077	0.376135781	a female hand holding a red fresh apple, long-shot
+all/glide_normal_166.jpg	2.403882268	2.811881174	a cybertronic metallic green tree frog , blurred detail
+all/glide_normal_190.jpg	1.704085415	2.490096099	delicious peanut butter donut with glazing , warm color, anime style
+all/glide_normal_203.jpg	0.313378312	0.307013614	a beautiful brutalist concrete forest temple, elevation view, abstract style
+all/glide_normal_204.jpg	0.905232817	1.149047512	2 friends partying and are facing the camera, close-up, baroque style
+all/glide_normal_205.jpg	0.363910379	0.204988001	the fate of all fools and divine intervention, long-shot, anime style
+all/glide_normal_209.jpg	1.000336846	0.902946816	an uprising of disneyland costumed characters, HDR lighting, baroque style
+all/glide_normal_217.jpg	2.293266536	0.692100914	a portrait photo of a beautiful female android, hyper detail, realistic style
+all/glide_normal_224.jpg	0.712778692	0.791238626	lovers being pulled apart across space and time, warm color, close-up
+all/glide_normal_226.jpg	0.630028469	0.191822787	an anatomically correct cybertronic human heart, cold color, close-up
+all/glide_normal_230.jpg	0.859637576	0.742483923	a fantast beauty detailed elf with mermaid tail, cold color, blurred detail
+all/glide_normal_234.jpg	0	0.205947714	a mechanical human arm sticking out of the earth, cold color, soft lighting
+all/glide_normal_236.jpg	0.226073291	0.337265407	short - haired short butch tomboy blonde engineer, top view, close-up
+all/glide_normal_238.jpg	0.016192323	0.503081733	many bodies floating in an infinite lake of blood, elevation view, close-up
+all/glide_normal_244.jpg	1.262923612	0.580658583	man at a royal banquet wearing an asymmetrical gown, top view, soft lighting
+all/glide_normal_254.jpg	1.733569058	0.556273636	portrait of beautiful woman with magical nebula hair, long-shot, soft lighting
+all/glide_normal_261.jpg	0.929411321	1.113387757	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/glide_normal_266.jpg	0.778016184	1.617018803	scottish stone cairn inside a glass jar buried in sand, cold color, close-up, sci-fi style
+all/glide_normal_267.jpg	1.269146708	0.654641315	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/glide_normal_273.jpg	1.063255848	1.812098374	exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style
+all/glide_normal_284.jpg	1.674967988	1.073086947	portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style
+all/glide_normal_285.jpg	1.299273321	1.051972114	portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style
+all/glide_normal_296.jpg	0.979308463	0.428796637	bloodborne werewolf howling in yharnam with full moon in background, blurred detail, soft lighting, sci-fi style

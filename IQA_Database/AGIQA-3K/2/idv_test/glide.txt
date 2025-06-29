@@ -1,0 +1,60 @@
+all/glide_normal_000.jpg	1.478221045	1.511295292	statue of a man
+all/glide_normal_002.jpg	0.508202054	0.902085383	man lost in space
+all/glide_normal_006.jpg	1.343816114	3.112865772	a river in a forest
+all/glide_normal_007.jpg	0.821435934	1.388019295	a cat doing karaoke
+all/glide_normal_012.jpg	1.010879855	0.731218487	life bar and mana bar
+all/glide_normal_014.jpg	1.943986542	2.851195987	a small leopard gecko
+all/glide_normal_021.jpg	1.960618923	2.877526414	portrait of mecha robot
+all/glide_normal_022.jpg	1.527555519	0.909339471	panda chef in a kitchen
+all/glide_normal_026.jpg	0.746460866	2.579008945	a painting of a eclipse
+all/glide_normal_032.jpg	1.55289045	1.585786942	an emo portrait painting
+all/glide_normal_033.jpg	1.421934412	1.10728726	the pope had a rock band
+all/glide_normal_036.jpg	1.558020951	0.554208182	gnome warfare at walmart
+all/glide_normal_037.jpg	0.991945932	0.422156431	demon queen with red eyes
+all/glide_normal_038.jpg	1.291447579	1.909638159	christmas at kelly family
+all/glide_normal_042.jpg	0.536272256	0.742358137	a man jumping off a cliff
+all/glide_normal_044.jpg	1.834018423	0.92160537	male warrior silver armor
+all/glide_normal_053.jpg	1.012573225	0.981735619	castle from howl's sticker
+all/glide_normal_060.jpg	1.063255848	1.507286544	artwork with only triangles, anime style
+all/glide_normal_061.jpg	1.494912264	1.231874682	a yellow rendition of venom, sci-fi style
+all/glide_normal_069.jpg	1.785560751	2.122737165	synthwave astronaut tabby cat, baroque style
+all/glide_normal_071.jpg	1.299273321	0.81494167	smart sri lanka buddhist monk, sci-fi style
+all/glide_normal_074.jpg	1.296708731	0.753490226	legionary of the roman empire, baroque style
+all/glide_normal_078.jpg	1.034731881	1.897445686	tree of life embroidered scene, abstract style
+all/glide_normal_081.jpg	0.972096944	1.152887677	large purple lovecraftian void, sci-fi style
+all/glide_normal_088.jpg	1.086342024	2.139899198	a space shuttle flying in space, abstract style
+all/glide_normal_090.jpg	1.296708731	1.143113339	little girl with a mushroom hat, anime style
+all/glide_normal_091.jpg	0.574779956	1.751211925	ufo ignoring the laws of phyics, sci-fi style
+all/glide_normal_093.jpg	0.986154364	1.050286739	photo of tony danza eating chili, abstract style
+all/glide_normal_106.jpg	1.24239184	1.009528271	vaporware yosemite amusement park, sci-fi style
+all/glide_normal_111.jpg	1.419805428	1.202474715	grand canyon full of potato salad, sci-fi style
+all/glide_normal_112.jpg	1.006207915	0.519696217	gorgeous young scandanavian woman, realistic style
+all/glide_normal_128.jpg	1.492221516	0.571482359	portrait of a tang dynasty empress , soft lighting
+all/glide_normal_131.jpg	1.594706548	2.127109224	cute fluffy baby panda lion hybrid , cold color
+all/glide_normal_133.jpg	1.056157156	1.184861428	a blue abyss underwater concept art, elevation view
+all/glide_normal_136.jpg	0.283510549	0.182860864	man in his late 40 s wearing a suit, blurred detail
+all/glide_normal_154.jpg	1.827559877	2.653717779	cute fluffy baby poodle giraffe hybrid, close-up
+all/glide_normal_155.jpg	1.239278945	0.66705659	an auto rickshaw driving through paris, long-shot
+all/glide_normal_162.jpg	1.309475045	1.255488616	an industrial geometric temple lab room, top view
+all/glide_normal_165.jpg	1.311956077	0.376135781	a female hand holding a red fresh apple, long-shot
+all/glide_normal_169.jpg	1.337589887	1.118687364	profile face portrait of a tin toy robot, HDR lighting
+all/glide_normal_180.jpg	0.676891105	0.537282046	muscular cyborg girl with prosthetic arms, warm color, anime style
+all/glide_normal_189.jpg	0.885277112	1.13493277	lobster human hybrid in fashion photography, HDR lighting, baroque style
+all/glide_normal_218.jpg	0.943648939	0.742358137	a masonic illuminati waiting room with a couch, soft lighting, abstract style
+all/glide_normal_223.jpg	1.853456865	2.011416275	small group of nomads staying at ancient ruins, cold color, elevation view
+all/glide_normal_226.jpg	0.630028469	0.191822787	an anatomically correct cybertronic human heart, cold color, close-up
+all/glide_normal_232.jpg	0.775293051	0.594282567	steampunk owl inside a glass jar buried in sand, warm color, soft lighting
+all/glide_normal_235.jpg	0.875047949	1.483310731	steampunk squid inside a glass jar buried in sand, cold color, HDR lighting
+all/glide_normal_237.jpg	0.8493261	0.519696217	portrait of terrified green ball gown young woman, top view, long-shot
+all/glide_normal_240.jpg	0.920325251	0.993853874	photoreal portrait of a futuristic intricate robot, top view, blurred detail
+all/glide_normal_246.jpg	1.765019055	1.194190381	alphonse eric from full metal alchemist brotherhood, elevation view, soft lighting
+all/glide_normal_252.jpg	2.060642411	2.094813219	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/glide_normal_255.jpg	1.020469898	1.03178009	magician god holding a divine staff character design, long-shot, HDR lighting
+all/glide_normal_266.jpg	0.778016184	1.617018803	scottish stone cairn inside a glass jar buried in sand, cold color, close-up, sci-fi style
+all/glide_normal_267.jpg	1.269146708	0.654641315	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/glide_normal_268.jpg	1.506271425	0.81494167	spaceport on a vast desert planet with ships taking off, warm color, blurred detail, abstract style
+all/glide_normal_272.jpg	1.575270793	1.016417548	frontal portrait of female adult twins in the apocalypse, warm color, soft lighting, realistic style
+all/glide_normal_278.jpg	0.962676083	1.363526821	dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style
+all/glide_normal_279.jpg	1.433419401	1.474049467	table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style
+all/glide_normal_281.jpg	0.701659223	0.679471865	portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style
+all/glide_normal_297.jpg	1.780593984	2.760673748	cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style

@@ -1,0 +1,240 @@
+all/sd1.5_highcorr_004.jpg	3.541752783	3.0193248	red and blue armor
+all/sd1.5_highcorr_005.jpg	3.43455948	2.653500595	house of the dragon
+all/sd1.5_highcorr_007.jpg	3.12288234	2.258697793	a cat doing karaoke
+all/sd1.5_highcorr_011.jpg	2.742340814	3.430465396	the prince of the sun
+all/sd1.5_highcorr_014.jpg	2.550308113	3.691835574	a small leopard gecko
+all/sd1.5_highcorr_017.jpg	2.396625776	1.510472273	tragedy of the commons
+all/sd1.5_highcorr_037.jpg	0.550374317	0.970486009	demon queen with red eyes
+all/sd1.5_highcorr_040.jpg	2.671047584	3.357572354	an elaborate robot coding
+all/sd1.5_highcorr_045.jpg	3.235341707	2.509500087	superman punches the pope
+all/sd1.5_highcorr_046.jpg	2.491680335	2.568020722	the drowned and the saved
+all/sd1.5_highcorr_050.jpg	2.632073999	1.775520954	logo design of a full moon
+all/sd1.5_highcorr_052.jpg	3.063450866	3.369510326	concept art of giant ogres
+all/sd1.5_highcorr_053.jpg	2.803217798	3.470274726	castle from howl's sticker
+all/sd1.5_highcorr_059.jpg	3.837774272	3.895028099	barak obama as master chief
+all/sd1.5_highcorr_061.jpg	2.774693831	2.836266121	a yellow rendition of venom, sci-fi style
+all/sd1.5_highcorr_064.jpg	2.657997659	2.479686745	monsters playing board games, baroque style
+all/sd1.5_highcorr_069.jpg	2.869848764	3.239106761	synthwave astronaut tabby cat, baroque style
+all/sd1.5_highcorr_078.jpg	3.093635734	3.047185079	tree of life embroidered scene, abstract style
+all/sd1.5_highcorr_083.jpg	2.195092561	3.387308117	eiffel tower drenched in blood, abstract style
+all/sd1.5_highcorr_086.jpg	1.544809406	2.206100508	a very drunk person named aaron, sci-fi style
+all/sd1.5_highcorr_089.jpg	3.197799919	3.146889346	a crocodile in a new york sewer, baroque style
+all/sd1.5_highcorr_092.jpg	3.460260441	3.18210624	steampunk walter white portrait , realistic style
+all/sd1.5_highcorr_104.jpg	2.852156791	3.214316689	a biomechanical cybertronic frog, baroque style
+all/sd1.5_highcorr_107.jpg	2.701232452	2.54579025	spritesheet game asset vector art, realistic style
+all/sd1.5_highcorr_109.jpg	3.359435142	3.665354297	photograph of beautiful landscape, baroque style
+all/sd1.5_highcorr_115.jpg	2.210104633	2.298257005	ocean of canvas that catches fire, anime style
+all/sd1.5_highcorr_119.jpg	2.746169865	3.397119887	female demon in a medieval dungeon, baroque style
+all/sd1.5_highcorr_122.jpg	0.331720329	1.089357651	chinese demon god character design, top view
+all/sd1.5_highcorr_132.jpg	2.822270352	1.784431343	a girl with rainbow in white shirt , top view
+all/sd1.5_highcorr_140.jpg	3.265696033	1.510472273	cute great old ones sitting in a bar, warm color
+all/sd1.5_highcorr_143.jpg	1.956105243	1.883753543	portrait of squids swarming the ocean, elevation view
+all/sd1.5_highcorr_144.jpg	3.123820601	3.703773546	pendant of a silver starfish necklace, close-up
+all/sd1.5_highcorr_147.jpg	2.771446817	3.079505301	bill gates and jason statham fight m , hyper detail
+all/sd1.5_highcorr_148.jpg	3.510122043	2.100472987	a portrait painting of a buck in suit, soft lighting
+all/sd1.5_highcorr_150.jpg	3.241312234	3.061839408	portrait of ciri as a samurai assassin, warm color
+all/sd1.5_highcorr_151.jpg	3.018173564	3.703773546	photo of a white fashion jewelry store, cold color
+all/sd1.5_highcorr_167.jpg	2.782759734	3.291909811	two women working in a recording studio, hyper detail
+all/sd1.5_highcorr_184.jpg	3.62187092	3.775401378	professional studio logo for robot artists, close-up, baroque style
+all/sd1.5_highcorr_190.jpg	3.074988427	3.232987189	delicious peanut butter donut with glazing , warm color, anime style
+all/sd1.5_highcorr_191.jpg	3.008458905	2.772204703	cute fluffy golden teddy bear eating bagels, cold color, sci-fi style
+all/sd1.5_highcorr_195.jpg	2.632073999	2.87284354	unique epic pink space elf knight adventurer, long-shot, anime style
+all/sd1.5_highcorr_196.jpg	2.147166571	2.33637472	the essence of the chemical element hydrogen, blurred detail, sci-fi style
+all/sd1.5_highcorr_198.jpg	3.387909038	3.124625168	robots creating new robots in a factory line, soft lighting, abstract style
+all/sd1.5_highcorr_212.jpg	3.274744941	2.880053469	a glass vase of pink and white dahlia flowers, top view, realistic style
+all/sd1.5_highcorr_215.jpg	2.260001775	2.311422218	portrait with no signature of aggressive alien, long-shot, anime style
+all/sd1.5_highcorr_226.jpg	2.209149982	2.555100504	an anatomically correct cybertronic human heart, cold color, close-up
+all/sd1.5_highcorr_227.jpg	2.654631009	2.345378943	a sketch drawing of a hamster in a fruit basket, cold color, long-shot
+all/sd1.5_highcorr_233.jpg	2.980532355	1.989152097	a penguin slipping on a banana in the antarctic , warm color, HDR lighting
+all/sd1.5_highcorr_239.jpg	3.289837374	2.77261172	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/sd1.5_highcorr_243.jpg	3.045671512	3.299580101	mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail
+all/sd1.5_highcorr_251.jpg	2.420513052	2.367491079	a brain with eyeballs peaking out between the folds, long-shot, hyper detail
+all/sd1.5_highcorr_253.jpg	3.44620302	3.239106761	a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting
+all/sd1.5_highcorr_255.jpg	3.591686053	3.118812912	magician god holding a divine staff character design, long-shot, HDR lighting
+all/sd1.5_highcorr_260.jpg	3.174782711	2.811700345	mickey mouse head automaton held by a mechanical claw, warm color, top view, anime style
+all/sd1.5_highcorr_261.jpg	2.746169865	2.677763969	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/sd1.5_highcorr_269.jpg	3.662501677	3.528940255	poignant portrait of an older man remembering his youth, warm color, hyper detail, baroque style
+all/sd1.5_highcorr_274.jpg	3.590592228	3.483126252	angled photograph of an abandoned train cart during dusk, cold color, soft lighting, baroque style
+all/sd1.5_highcorr_281.jpg	2.821971923	2.868115497	portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style
+all/sd1.5_highcorr_284.jpg	3.041723666	3.311978472	portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style
+all/sd1.5_highcorr_289.jpg	2.518838781	3.336134858	portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style
+all/sd1.5_lowcorr_004.jpg	2.309898917	3.153995905	red and blue armor
+all/sd1.5_lowcorr_005.jpg	2.64254653	2.982848125	house of the dragon
+all/sd1.5_lowcorr_007.jpg	2.354106472	1.972767588	a cat doing karaoke
+all/sd1.5_lowcorr_011.jpg	3.116324583	2.979908012	the prince of the sun
+all/sd1.5_lowcorr_014.jpg	3.048358432	3.572455852	a small leopard gecko
+all/sd1.5_lowcorr_017.jpg	2.80733647	3.112865772	tragedy of the commons
+all/sd1.5_lowcorr_037.jpg	0.578489159	1.289688929	demon queen with red eyes
+all/sd1.5_lowcorr_040.jpg	3.69733309	3.847029211	an elaborate robot coding
+all/sd1.5_lowcorr_045.jpg	2.520123245	2.31896878	superman punches the pope
+all/sd1.5_lowcorr_046.jpg	2.550308113	3.238192633	the drowned and the saved
+all/sd1.5_lowcorr_050.jpg	3.482963598	4.004060194	logo design of a full moon
+all/sd1.5_lowcorr_052.jpg	3.229467639	3.72764949	concept art of giant ogres
+all/sd1.5_lowcorr_053.jpg	3.307841757	3.50945668	castle from howl's sticker
+all/sd1.5_lowcorr_059.jpg	3.27751397	3.626710307	barak obama as master chief
+all/sd1.5_lowcorr_061.jpg	2.576017007	2.732709062	a yellow rendition of venom, sci-fi style
+all/sd1.5_lowcorr_064.jpg	2.426325581	2.508900426	monsters playing board games, baroque style
+all/sd1.5_lowcorr_069.jpg	3.270286787	3.311510172	synthwave astronaut tabby cat, baroque style
+all/sd1.5_lowcorr_078.jpg	2.817479781	3.445889779	tree of life embroidered scene, abstract style
+all/sd1.5_lowcorr_083.jpg	2.293266536	2.508900426	eiffel tower drenched in blood, abstract style
+all/sd1.5_lowcorr_086.jpg	2.874527714	2.116910203	a very drunk person named aaron, sci-fi style
+all/sd1.5_lowcorr_089.jpg	2.974361596	3.445889779	a crocodile in a new york sewer, baroque style
+all/sd1.5_lowcorr_092.jpg	3.263456549	2.988304467	steampunk walter white portrait , realistic style
+all/sd1.5_lowcorr_104.jpg	3.430745058	3.433697306	a biomechanical cybertronic frog, baroque style
+all/sd1.5_lowcorr_107.jpg	2.377839033	2.885703528	spritesheet game asset vector art, realistic style
+all/sd1.5_lowcorr_109.jpg	3.756916035	3.720100101	photograph of beautiful landscape, baroque style
+all/sd1.5_lowcorr_115.jpg	2.104380621	1.848675793	ocean of canvas that catches fire, anime style
+all/sd1.5_lowcorr_119.jpg	0.278846772	0.349001592	female demon in a medieval dungeon, baroque style
+all/sd1.5_lowcorr_122.jpg	3.041723666	3.351474113	chinese demon god character design, top view
+all/sd1.5_lowcorr_132.jpg	0.713190373	1.416187676	a girl with rainbow in white shirt , top view
+all/sd1.5_lowcorr_140.jpg	2.39306082	3.180326333	cute great old ones sitting in a bar, warm color
+all/sd1.5_lowcorr_143.jpg	2.600314118	2.968775923	portrait of squids swarming the ocean, elevation view
+all/sd1.5_lowcorr_144.jpg	3.357738899	3.548952321	pendant of a silver starfish necklace, close-up
+all/sd1.5_lowcorr_147.jpg	2.478791084	1.548541117	bill gates and jason statham fight m , hyper detail
+all/sd1.5_lowcorr_148.jpg	3.093635734	3.417262215	a portrait painting of a buck in suit, soft lighting
+all/sd1.5_lowcorr_150.jpg	2.588700346	2.600700921	portrait of ciri as a samurai assassin, warm color
+all/sd1.5_lowcorr_151.jpg	2.911873639	3.510154573	photo of a white fashion jewelry store, cold color
+all/sd1.5_lowcorr_167.jpg	1.866501955	2.926636646	two women working in a recording studio, hyper detail
+all/sd1.5_lowcorr_184.jpg	2.821971923	3.274006549	professional studio logo for robot artists, close-up, baroque style
+all/sd1.5_lowcorr_190.jpg	2.92680752	2.653500595	delicious peanut butter donut with glazing , warm color, anime style
+all/sd1.5_lowcorr_191.jpg	2.389187797	2.603839495	cute fluffy golden teddy bear eating bagels, cold color, sci-fi style
+all/sd1.5_lowcorr_195.jpg	3.347801074	3.113705614	unique epic pink space elf knight adventurer, long-shot, anime style
+all/sd1.5_lowcorr_196.jpg	1.597692094	2.032736844	the essence of the chemical element hydrogen, blurred detail, sci-fi style
+all/sd1.5_lowcorr_198.jpg	3.058356047	3.140830692	robots creating new robots in a factory line, soft lighting, abstract style
+all/sd1.5_lowcorr_212.jpg	2.671047584	2.641294027	a glass vase of pink and white dahlia flowers, top view, realistic style
+all/sd1.5_lowcorr_215.jpg	1.927354161	2.192935294	portrait with no signature of aggressive alien, long-shot, anime style
+all/sd1.5_lowcorr_226.jpg	3.373697126	2.60460913	an anatomically correct cybertronic human heart, cold color, close-up
+all/sd1.5_lowcorr_227.jpg	2.939794687	3.068964724	a sketch drawing of a hamster in a fruit basket, cold color, long-shot
+all/sd1.5_lowcorr_233.jpg	3.700231162	2.256322232	a penguin slipping on a banana in the antarctic , warm color, HDR lighting
+all/sd1.5_lowcorr_239.jpg	3.541752783	2.900809578	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/sd1.5_lowcorr_243.jpg	3.136939761	3.170706135	mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail
+all/sd1.5_lowcorr_251.jpg	2.523592728	1.585786942	a brain with eyeballs peaking out between the folds, long-shot, hyper detail
+all/sd1.5_lowcorr_253.jpg	3.12288234	2.805902798	a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting
+all/sd1.5_lowcorr_255.jpg	2.260833548	2.089340898	magician god holding a divine staff character design, long-shot, HDR lighting
+all/sd1.5_lowcorr_260.jpg	2.000906886	1.598202218	mickey mouse head automaton held by a mechanical claw, warm color, top view, anime style
+all/sd1.5_lowcorr_261.jpg	3.048428469	2.857455034	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/sd1.5_lowcorr_269.jpg	3.558662387	3.079505301	poignant portrait of an older man remembering his youth, warm color, hyper detail, baroque style
+all/sd1.5_lowcorr_274.jpg	3.544840924	3.019153218	angled photograph of an abandoned train cart during dusk, cold color, soft lighting, baroque style
+all/sd1.5_lowcorr_281.jpg	1.676521125	1.934023105	portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style
+all/sd1.5_lowcorr_284.jpg	2.882005876	2.69074642	portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style
+all/sd1.5_lowcorr_289.jpg	1.759312513	2.919903841	portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style
+all/sd1.5_lowstep_004.jpg	2.775605575	3.351474113	red and blue armor
+all/sd1.5_lowstep_005.jpg	3.421003889	2.960067189	house of the dragon
+all/sd1.5_lowstep_007.jpg	3.214375205	2.163775142	a cat doing karaoke
+all/sd1.5_lowstep_011.jpg	1.977251303	2.11394401	the prince of the sun
+all/sd1.5_lowstep_014.jpg	3.288125226	3.580006984	a small leopard gecko
+all/sd1.5_lowstep_017.jpg	2.166977719	1.700092683	tragedy of the commons
+all/sd1.5_lowstep_037.jpg	3.024257523	3.102285456	demon queen with red eyes
+all/sd1.5_lowstep_040.jpg	3.636963354	3.345634382	an elaborate robot coding
+all/sd1.5_lowstep_045.jpg	2.418144251	2.787496228	superman punches the pope
+all/sd1.5_lowstep_046.jpg	2.532240117	1.653596222	the drowned and the saved
+all/sd1.5_lowstep_050.jpg	2.580492981	2.963619274	logo design of a full moon
+all/sd1.5_lowstep_052.jpg	2.867071995	3.808121173	concept art of giant ogres
+all/sd1.5_lowstep_053.jpg	3.973136983	3.943908737	castle from howl's sticker
+all/sd1.5_lowstep_059.jpg	2.782759734	3.173394589	barak obama as master chief
+all/sd1.5_lowstep_061.jpg	2.871898573	3.135757257	a yellow rendition of venom, sci-fi style
+all/sd1.5_lowstep_064.jpg	2.760431848	3.531237092	monsters playing board games, baroque style
+all/sd1.5_lowstep_069.jpg	2.92680752	3.237018522	synthwave astronaut tabby cat, baroque style
+all/sd1.5_lowstep_078.jpg	3.074195478	3.214232789	tree of life embroidered scene, abstract style
+all/sd1.5_lowstep_083.jpg	3.197799919	2.746134145	eiffel tower drenched in blood, abstract style
+all/sd1.5_lowstep_086.jpg	2.223207403	1.734292996	a very drunk person named aaron, sci-fi style
+all/sd1.5_lowstep_089.jpg	2.630872609	3.033904884	a crocodile in a new york sewer, baroque style
+all/sd1.5_lowstep_092.jpg	2.991826524	3.075004622	steampunk walter white portrait , realistic style
+all/sd1.5_lowstep_104.jpg	3.524162768	3.410832372	a biomechanical cybertronic frog, baroque style
+all/sd1.5_lowstep_107.jpg	2.957803829	2.891991441	spritesheet game asset vector art, realistic style
+all/sd1.5_lowstep_109.jpg	3.744508689	3.653161823	photograph of beautiful landscape, baroque style
+all/sd1.5_lowstep_115.jpg	2.560764083	2.677763969	ocean of canvas that catches fire, anime style
+all/sd1.5_lowstep_119.jpg	0.45479692	1.109717072	female demon in a medieval dungeon, baroque style
+all/sd1.5_lowstep_122.jpg	2.842135098	3.404134969	chinese demon god character design, top view
+all/sd1.5_lowstep_132.jpg	2.610261314	2.367491079	a girl with rainbow in white shirt , top view
+all/sd1.5_lowstep_140.jpg	3.507430325	1.679491953	cute great old ones sitting in a bar, warm color
+all/sd1.5_lowstep_143.jpg	2.851759102	2.166015202	portrait of squids swarming the ocean, elevation view
+all/sd1.5_lowstep_144.jpg	3.486039015	4.038036765	pendant of a silver starfish necklace, close-up
+all/sd1.5_lowstep_147.jpg	2.478101113	1.432547651	bill gates and jason statham fight m , hyper detail
+all/sd1.5_lowstep_148.jpg	3.255352906	3.870197548	a portrait painting of a buck in suit, soft lighting
+all/sd1.5_lowstep_150.jpg	3.490003257	3.0193248	portrait of ciri as a samurai assassin, warm color
+all/sd1.5_lowstep_151.jpg	3.369254363	3.386721989	photo of a white fashion jewelry store, cold color
+all/sd1.5_lowstep_167.jpg	2.532418004	2.568020722	two women working in a recording studio, hyper detail
+all/sd1.5_lowstep_184.jpg	3.058757207	2.888958056	professional studio logo for robot artists, close-up, baroque style
+all/sd1.5_lowstep_190.jpg	2.885477796	3.402927392	delicious peanut butter donut with glazing , warm color, anime style
+all/sd1.5_lowstep_191.jpg	2.58928805	2.543646764	cute fluffy golden teddy bear eating bagels, cold color, sci-fi style
+all/sd1.5_lowstep_195.jpg	2.03716536	2.903929414	unique epic pink space elf knight adventurer, long-shot, anime style
+all/sd1.5_lowstep_196.jpg	2.061594671	2.275412354	the essence of the chemical element hydrogen, blurred detail, sci-fi style
+all/sd1.5_lowstep_198.jpg	3.108728168	2.784549692	robots creating new robots in a factory line, soft lighting, abstract style
+all/sd1.5_lowstep_212.jpg	3.636963354	3.369510326	a glass vase of pink and white dahlia flowers, top view, realistic style
+all/sd1.5_lowstep_215.jpg	2.455012736	2.154163679	portrait with no signature of aggressive alien, long-shot, anime style
+all/sd1.5_lowstep_226.jpg	3.024480393	3.353107804	an anatomically correct cybertronic human heart, cold color, close-up
+all/sd1.5_lowstep_227.jpg	2.701232452	2.366720668	a sketch drawing of a hamster in a fruit basket, cold color, long-shot
+all/sd1.5_lowstep_233.jpg	3.283005153	2.106757591	a penguin slipping on a banana in the antarctic , warm color, HDR lighting
+all/sd1.5_lowstep_239.jpg	3.741408859	2.646301338	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/sd1.5_lowstep_243.jpg	3.001476926	2.827314446	mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail
+all/sd1.5_lowstep_251.jpg	3.093256891	3.3393159	a brain with eyeballs peaking out between the folds, long-shot, hyper detail
+all/sd1.5_lowstep_253.jpg	2.632073999	2.90942096	a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting
+all/sd1.5_lowstep_255.jpg	2.960099613	3.10450053	magician god holding a divine staff character design, long-shot, HDR lighting
+all/sd1.5_lowstep_260.jpg	3.157062251	2.846322945	mickey mouse head automaton held by a mechanical claw, warm color, top view, anime style
+all/sd1.5_lowstep_261.jpg	3.066652656	3.02250478	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/sd1.5_lowstep_269.jpg	3.106014094	3.187357422	poignant portrait of an older man remembering his youth, warm color, hyper detail, baroque style
+all/sd1.5_lowstep_274.jpg	3.025091285	3.390969755	angled photograph of an abandoned train cart during dusk, cold color, soft lighting, baroque style
+all/sd1.5_lowstep_281.jpg	2.975194143	3.61477839	portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style
+all/sd1.5_lowstep_284.jpg	3.712425524	3.071061023	portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style
+all/sd1.5_lowstep_289.jpg	3.283005153	3.351167422	portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style
+all/sd1.5_normal_004.jpg	2.73141732	3.632145713	red and blue armor
+all/sd1.5_normal_005.jpg	2.61389334	2.445567744	house of the dragon
+all/sd1.5_normal_007.jpg	3.419625599	3.001128296	a cat doing karaoke
+all/sd1.5_normal_011.jpg	2.203182133	2.486100389	the prince of the sun
+all/sd1.5_normal_014.jpg	3.404030758	3.774911662	a small leopard gecko
+all/sd1.5_normal_017.jpg	2.429568642	1.495248703	tragedy of the commons
+all/sd1.5_normal_037.jpg	2.883906185	3.683710828	demon queen with red eyes
+all/sd1.5_normal_040.jpg	3.688435461	3.199772697	an elaborate robot coding
+all/sd1.5_normal_045.jpg	3.008458905	1.995457086	superman punches the pope
+all/sd1.5_normal_046.jpg	2.218274567	1.996643532	the drowned and the saved
+all/sd1.5_normal_050.jpg	2.852156791	3.130750884	logo design of a full moon
+all/sd1.5_normal_052.jpg	2.852156791	2.462224445	concept art of giant ogres
+all/sd1.5_normal_053.jpg	2.817259418	3.315612856	castle from howl's sticker
+all/sd1.5_normal_059.jpg	2.926215464	3.158021435	barak obama as master chief
+all/sd1.5_normal_061.jpg	2.14357511	2.548396068	a yellow rendition of venom, sci-fi style
+all/sd1.5_normal_064.jpg	2.518413241	2.999704571	monsters playing board games, baroque style
+all/sd1.5_normal_069.jpg	3.169097903	1.877263811	synthwave astronaut tabby cat, baroque style
+all/sd1.5_normal_078.jpg	3.707018893	3.522621893	tree of life embroidered scene, abstract style
+all/sd1.5_normal_083.jpg	2.041016527	3.161543067	eiffel tower drenched in blood, abstract style
+all/sd1.5_normal_086.jpg	2.65595515	2.283154863	a very drunk person named aaron, sci-fi style
+all/sd1.5_normal_089.jpg	2.792402589	3.001128296	a crocodile in a new york sewer, baroque style
+all/sd1.5_normal_092.jpg	3.210551263	3.112865772	steampunk walter white portrait , realistic style
+all/sd1.5_normal_104.jpg	2.804002459	3.358399036	a biomechanical cybertronic frog, baroque style
+all/sd1.5_normal_107.jpg	2.85831935	2.835190856	spritesheet game asset vector art, realistic style
+all/sd1.5_normal_109.jpg	3.455854147	3.441138159	photograph of beautiful landscape, baroque style
+all/sd1.5_normal_115.jpg	2.575026067	2.238834935	ocean of canvas that catches fire, anime style
+all/sd1.5_normal_119.jpg	2.090510173	3.075619946	female demon in a medieval dungeon, baroque style
+all/sd1.5_normal_122.jpg	2.996365552	2.70330186	chinese demon god character design, top view
+all/sd1.5_normal_132.jpg	2.090510173	3.038374121	a girl with rainbow in white shirt , top view
+all/sd1.5_normal_140.jpg	2.671047584	3.262068577	cute great old ones sitting in a bar, warm color
+all/sd1.5_normal_143.jpg	2.309898917	1.890135375	portrait of squids swarming the ocean, elevation view
+all/sd1.5_normal_144.jpg	3.428646707	3.770286326	pendant of a silver starfish necklace, close-up
+all/sd1.5_normal_147.jpg	3.131243411	1.787713427	bill gates and jason statham fight m , hyper detail
+all/sd1.5_normal_148.jpg	3.523701266	1.833302852	a portrait painting of a buck in suit, soft lighting
+all/sd1.5_normal_150.jpg	2.613196015	2.864560271	portrait of ciri as a samurai assassin, warm color
+all/sd1.5_normal_151.jpg	3.127756575	3.351167422	photo of a white fashion jewelry store, cold color
+all/sd1.5_normal_167.jpg	2.888789697	3.628776877	two women working in a recording studio, hyper detail
+all/sd1.5_normal_184.jpg	2.85831935	3.302738591	professional studio logo for robot artists, close-up, baroque style
+all/sd1.5_normal_190.jpg	2.912526527	2.963619274	delicious peanut butter donut with glazing , warm color, anime style
+all/sd1.5_normal_191.jpg	3.008458905	3.10133505	cute fluffy golden teddy bear eating bagels, cold color, sci-fi style
+all/sd1.5_normal_195.jpg	2.363781612	2.840103111	unique epic pink space elf knight adventurer, long-shot, anime style
+all/sd1.5_normal_196.jpg	3.018173564	3.047185079	the essence of the chemical element hydrogen, blurred detail, sci-fi style
+all/sd1.5_normal_198.jpg	2.957803829	2.54579025	robots creating new robots in a factory line, soft lighting, abstract style
+all/sd1.5_normal_212.jpg	3.455805152	3.269342324	a glass vase of pink and white dahlia flowers, top view, realistic style
+all/sd1.5_normal_215.jpg	1.827559877	2.851195987	portrait with no signature of aggressive alien, long-shot, anime style
+all/sd1.5_normal_226.jpg	2.722527122	3.169153524	an anatomically correct cybertronic human heart, cold color, close-up
+all/sd1.5_normal_227.jpg	2.269716748	2.66591587	a sketch drawing of a hamster in a fruit basket, cold color, long-shot
+all/sd1.5_normal_233.jpg	3.320012924	1.788774497	a penguin slipping on a banana in the antarctic , warm color, HDR lighting
+all/sd1.5_normal_239.jpg	3.162256259	3.054879367	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/sd1.5_normal_243.jpg	3.231255627	3.5526433	mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail
+all/sd1.5_normal_251.jpg	3.248505469	3.0193248	a brain with eyeballs peaking out between the folds, long-shot, hyper detail
+all/sd1.5_normal_253.jpg	2.546528083	2.828703007	a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting
+all/sd1.5_normal_255.jpg	2.886258786	3.102285456	magician god holding a divine staff character design, long-shot, HDR lighting
+all/sd1.5_normal_260.jpg	3.507430325	2.469404785	mickey mouse head automaton held by a mechanical claw, warm color, top view, anime style
+all/sd1.5_normal_261.jpg	2.941929382	2.917022056	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/sd1.5_normal_269.jpg	3.184190337	3.644083685	poignant portrait of an older man remembering his youth, warm color, hyper detail, baroque style
+all/sd1.5_normal_274.jpg	3.568964411	3.050789396	angled photograph of an abandoned train cart during dusk, cold color, soft lighting, baroque style
+all/sd1.5_normal_281.jpg	2.972896262	2.617418083	portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style
+all/sd1.5_normal_284.jpg	1.927354161	1.94279623	portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style
+all/sd1.5_normal_289.jpg	2.541261946	2.734888268	portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style

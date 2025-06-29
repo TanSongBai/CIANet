@@ -1,0 +1,60 @@
+all/AttnGAN_normal_004.jpg	1.391763291	0.564244714	red and blue armor
+all/AttnGAN_normal_005.jpg	1.106599613	0.70896187	house of the dragon
+all/AttnGAN_normal_007.jpg	0.80654015	0.397771485	a cat doing karaoke
+all/AttnGAN_normal_011.jpg	1.373098268	0.647652682	the prince of the sun
+all/AttnGAN_normal_014.jpg	0.919776796	0.613465793	a small leopard gecko
+all/AttnGAN_normal_017.jpg	1.006207915	0.751353207	tragedy of the commons
+all/AttnGAN_normal_037.jpg	1.134741777	0.803624615	demon queen with red eyes
+all/AttnGAN_normal_040.jpg	0.980694987	0.946101985	an elaborate robot coding
+all/AttnGAN_normal_045.jpg	1.252358797	0.325327435	superman punches the pope
+all/AttnGAN_normal_046.jpg	1.220137663	0.873277939	the drowned and the saved
+all/AttnGAN_normal_050.jpg	2.010516065	0.178657573	logo design of a full moon
+all/AttnGAN_normal_052.jpg	1.168900836	0.845084862	concept art of giant ogres
+all/AttnGAN_normal_053.jpg	1.084556311	0.845084862	castle from howl's sticker
+all/AttnGAN_normal_059.jpg	0.753539821	0.441791736	barak obama as master chief
+all/AttnGAN_normal_061.jpg	0.678182301	0.409963958	a yellow rendition of venom, sci-fi style
+all/AttnGAN_normal_064.jpg	0.935417685	1.184861428	monsters playing board games, baroque style
+all/AttnGAN_normal_069.jpg	1.116526892	0.564086878	synthwave astronaut tabby cat, baroque style
+all/AttnGAN_normal_078.jpg	0.970469084	0.393920539	tree of life embroidered scene, abstract style
+all/AttnGAN_normal_083.jpg	0.763087515	0.560448775	eiffel tower drenched in blood, abstract style
+all/AttnGAN_normal_086.jpg	1.161274584	0.767535581	a very drunk person named aaron, sci-fi style
+all/AttnGAN_normal_089.jpg	0.712802152	0.530848447	a crocodile in a new york sewer, baroque style
+all/AttnGAN_normal_092.jpg	0.845580156	0.54868215	steampunk walter white portrait , realistic style
+all/AttnGAN_normal_104.jpg	0.784493346	0.468583101	a biomechanical cybertronic frog, baroque style
+all/AttnGAN_normal_107.jpg	1.014269206	0.856484966	spritesheet game asset vector art, realistic style
+all/AttnGAN_normal_109.jpg	1.104874015	0.54290384	photograph of beautiful landscape, baroque style
+all/AttnGAN_normal_115.jpg	1.112671152	1.278288824	ocean of canvas that catches fire, anime style
+all/AttnGAN_normal_119.jpg	1.297636099	0.659590655	female demon in a medieval dungeon, baroque style
+all/AttnGAN_normal_122.jpg	1.1267749	0.672723404	chinese demon god character design, top view
+all/AttnGAN_normal_132.jpg	1.29901447	0.158030314	a girl with rainbow in white shirt , top view
+all/AttnGAN_normal_140.jpg	0.780698266	0.809150671	cute great old ones sitting in a bar, warm color
+all/AttnGAN_normal_143.jpg	0.735230234	0.653813422	portrait of squids swarming the ocean, elevation view
+all/AttnGAN_normal_144.jpg	1.16308973	0.739160734	pendant of a silver starfish necklace, close-up
+all/AttnGAN_normal_147.jpg	1.230273953	0.577911226	bill gates and jason statham fight m , hyper detail
+all/AttnGAN_normal_148.jpg	0.749492217	0.641620949	a portrait painting of a buck in suit, soft lighting
+all/AttnGAN_normal_150.jpg	0.862173603	0.931603649	portrait of ciri as a samurai assassin, warm color
+all/AttnGAN_normal_151.jpg	1.147337281	0.786886493	photo of a white fashion jewelry store, cold color
+all/AttnGAN_normal_167.jpg	1.337589887	0.491681629	two women working in a recording studio, hyper detail
+all/AttnGAN_normal_184.jpg	0.712802152	1.321226762	professional studio logo for robot artists, close-up, baroque style
+all/AttnGAN_normal_190.jpg	0.875752826	0.831414849	delicious peanut butter donut with glazing , warm color, anime style
+all/AttnGAN_normal_191.jpg	0.776328629	0.828455166	cute fluffy golden teddy bear eating bagels, cold color, sci-fi style
+all/AttnGAN_normal_195.jpg	1.16308973	0.605043529	unique epic pink space elf knight adventurer, long-shot, anime style
+all/AttnGAN_normal_196.jpg	0.8493261	0.629428475	the essence of the chemical element hydrogen, blurred detail, sci-fi style
+all/AttnGAN_normal_198.jpg	0.84859438	0.976132005	robots creating new robots in a factory line, soft lighting, abstract style
+all/AttnGAN_normal_212.jpg	0.002134902	0.366280482	a glass vase of pink and white dahlia flowers, top view, realistic style
+all/AttnGAN_normal_215.jpg	0.763754201	0.666005895	portrait with no signature of aggressive alien, long-shot, anime style
+all/AttnGAN_normal_226.jpg	1.403283136	1.471372759	an anatomically correct cybertronic human heart, cold color, close-up
+all/AttnGAN_normal_227.jpg	1.337589887	0.970486009	a sketch drawing of a hamster in a fruit basket, cold color, long-shot
+all/AttnGAN_normal_233.jpg	0.269225899	0.38908069	a penguin slipping on a banana in the antarctic , warm color, HDR lighting
+all/AttnGAN_normal_239.jpg	0.937026638	0.874199281	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/AttnGAN_normal_243.jpg	0.980694987	0.826722264	mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail
+all/AttnGAN_normal_251.jpg	1.252358797	0.719280515	a brain with eyeballs peaking out between the folds, long-shot, hyper detail
+all/AttnGAN_normal_253.jpg	1.3374464	1.399151384	a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting
+all/AttnGAN_normal_255.jpg	1.361853219	1.152883399	magician god holding a divine staff character design, long-shot, HDR lighting
+all/AttnGAN_normal_260.jpg	0.747278376	0.660871882	mickey mouse head automaton held by a mechanical claw, warm color, top view, anime style
+all/AttnGAN_normal_261.jpg	0.865931916	0.828455166	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/AttnGAN_normal_269.jpg	0.712802152	0.731226048	poignant portrait of an older man remembering his youth, warm color, hyper detail, baroque style
+all/AttnGAN_normal_274.jpg	0.965602553	0.922226041	angled photograph of an abandoned train cart during dusk, cold color, soft lighting, baroque style
+all/AttnGAN_normal_281.jpg	0.971526322	0.696426448	portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style
+all/AttnGAN_normal_284.jpg	0.471280904	0.838644715	portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style
+all/AttnGAN_normal_289.jpg	0	0.058708113	portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style

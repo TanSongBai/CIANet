@@ -1,0 +1,60 @@
+all/glide_normal_003.jpg	0.72412361	1.662380313	a cosmic universe
+all/glide_normal_006.jpg	1.343816114	3.112865772	a river in a forest
+all/glide_normal_015.jpg	0.563430702	0.60877307	santa claus on drugs
+all/glide_normal_021.jpg	1.960618923	2.877526414	portrait of mecha robot
+all/glide_normal_023.jpg	0.84859438	0.597640981	king kong on fighting
+all/glide_normal_026.jpg	0.746460866	2.579008945	a painting of a eclipse
+all/glide_normal_030.jpg	0.986154364	1.164287781	brand logo fruit company
+all/glide_normal_031.jpg	1.328588457	0.915909549	black mickey mouse skull
+all/glide_normal_043.jpg	1.677868451	0.6789357	a frog wearing police cap
+all/glide_normal_044.jpg	1.834018423	0.92160537	male warrior silver armor
+all/glide_normal_045.jpg	0.929924681	0.423281003	superman punches the pope
+all/glide_normal_050.jpg	1.154843415	1.916694664	logo design of a full moon
+all/glide_normal_054.jpg	2.196265106	2.877106534	beautiful white fluffy cat
+all/glide_normal_062.jpg	2.376428439	1.732152809	a colour portrait of a king, realistic style
+all/glide_normal_064.jpg	1.149675658	1.536125842	monsters playing board games, baroque style
+all/glide_normal_079.jpg	0.247032957	0.43569296	the infernal dark gun magicks , baroque style
+all/glide_normal_086.jpg	1.075025374	0.720129493	a very drunk person named aaron, sci-fi style
+all/glide_normal_087.jpg	1.931518323	1.328117093	a tonalism portrait of a ghost , realistic style
+all/glide_normal_103.jpg	0.45479692	1.721981963	a giant rock floating in the air, abstract style
+all/glide_normal_109.jpg	1.567824332	1.796846618	photograph of beautiful landscape, baroque style
+all/glide_normal_113.jpg	0.298444431	2.41761037	epic colourful scene from a dream, abstract style
+all/glide_normal_115.jpg	0.720968251	0.653813422	ocean of canvas that catches fire, anime style
+all/glide_normal_125.jpg	1.534393779	2.201697271	a upright walking cute giraffe toy, long-shot
+all/glide_normal_132.jpg	1.717163144	1.250574517	a girl with rainbow in white shirt , top view
+all/glide_normal_149.jpg	1.14671176	1.554938564	a plasticine model of a goblin raider, HDR lighting
+all/glide_normal_158.jpg	1.373098268	2.486100389	photograph of a stone cairn in scotland, soft lighting
+all/glide_normal_159.jpg	0.590589147	0.686697692	person walking inside a timeless bubble, HDR lighting
+all/glide_normal_160.jpg	1.377019478	2.409529559	cute soul ghost in infinity mirror room, warm color
+all/glide_normal_168.jpg	0.463704663	0.323474926	the celestial realm of the elven deities, soft lighting
+all/glide_normal_174.jpg	1.373683876	2.66591587	ancient golden chrome finish skateboard , close-up
+all/glide_normal_177.jpg	0.128895573	0.341602936	a huge wooden carving sculpture of a fox, hyper detail
+all/glide_normal_182.jpg	1.255971063	1.354623028	a female warrior in charming phenix armor, top view, realistic style
+all/glide_normal_192.jpg	0.879514179	1.732152809	beautiful ancient temple in a formal garden, top view, realistic style
+all/glide_normal_194.jpg	0.971526322	1.905281713	a cyborg jellyfish swimming in a vast ocean, close-up, baroque style
+all/glide_normal_196.jpg	0.392942638	0.483118797	the essence of the chemical element hydrogen, blurred detail, sci-fi style
+all/glide_normal_197.jpg	0.143533905	0.43569296	storm troopers cosplaying the power rangers , hyper detail, realistic style
+all/glide_normal_201.jpg	1.461647503	2.508900426	a gummy bear performing at woodstock concert, cold color, sci-fi style
+all/glide_normal_214.jpg	0.949159982	1.226859661	render of rivendell dreamy beautiful landscape, close-up, baroque style
+all/glide_normal_216.jpg	1.010879855	1.98470556	elegant oval mirror and toucan with reflection, blurred detail, sci-fi style
+all/glide_normal_217.jpg	2.293266536	0.692100914	a portrait photo of a beautiful female android, hyper detail, realistic style
+all/glide_normal_220.jpg	1.106599613	1.710849874	sparkling heart blue mana tree inside a marble, warm color, top view
+all/glide_normal_221.jpg	0.686725341	0.753963515	goose being zipped - up by man in orange shirt, warm color, elevation view
+all/glide_normal_231.jpg	1.358005834	1.566876536	a dramatic photo of a lion made of cotton candy, cold color, hyper detail
+all/glide_normal_233.jpg	1.558020951	1.502329958	a penguin slipping on a banana in the antarctic , warm color, HDR lighting
+all/glide_normal_234.jpg	0	0.205947714	a mechanical human arm sticking out of the earth, cold color, soft lighting
+all/glide_normal_236.jpg	0.226073291	0.337265407	short - haired short butch tomboy blonde engineer, top view, close-up
+all/glide_normal_237.jpg	0.8493261	0.519696217	portrait of terrified green ball gown young woman, top view, long-shot
+all/glide_normal_239.jpg	0.803407893	1.289688929	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/glide_normal_243.jpg	1.782268897	2.474154779	mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail
+all/glide_normal_245.jpg	1.011545053	0.831414849	fullbody portrait of half - fox woman with fox ears, top view, HDR lighting
+all/glide_normal_248.jpg	0.649658335	0.507503744	a redhair beautiful girl wearing brown olive dress, close-up, blurred detail
+all/glide_normal_250.jpg	1.327820967	1.769822062	a dramatic photo of a mountain made of layered cake, long-shot, blurred detail
+all/glide_normal_259.jpg	1.038703499	1.844434941	a parade of disconnected images : a tragic supernova, hyper detail, HDR lighting
+all/glide_normal_261.jpg	0.929411321	1.113387757	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/glide_normal_263.jpg	0	0.021462288	cute animal character sleeping in the space station, cold color, elevation view, abstract style
+all/glide_normal_272.jpg	1.575270793	1.016417548	frontal portrait of female adult twins in the apocalypse, warm color, soft lighting, realistic style
+all/glide_normal_277.jpg	1.385522531	1.075675159	plasticine sculptures of two lovers walking through paris, top view, long-shot, realistic style
+all/glide_normal_279.jpg	1.433419401	1.474049467	table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style
+all/glide_normal_286.jpg	0.264116095	0.244483642	an epic artistic colourful natural scene on an alien planet, elevation view, soft lighting, sci-fi style
+all/glide_normal_296.jpg	0.979308463	0.428796637	bloodborne werewolf howling in yharnam with full moon in background, blurred detail, soft lighting, sci-fi style

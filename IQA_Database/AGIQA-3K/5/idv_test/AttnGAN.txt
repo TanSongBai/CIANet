@@ -1,0 +1,60 @@
+all/AttnGAN_normal_002.jpg	0.195283431	0.506802093	man lost in space
+all/AttnGAN_normal_012.jpg	1.337589887	0.936285696	life bar and mana bar
+all/AttnGAN_normal_016.jpg	1.174495727	0.541980536	very sad rabbit crying
+all/AttnGAN_normal_019.jpg	0.821435934	1.02066036	big boss eating dinner
+all/AttnGAN_normal_022.jpg	1.428382741	0.784257411	panda chef in a kitchen
+all/AttnGAN_normal_028.jpg	1.527555519	0.686697692	maroon to black gradient
+all/AttnGAN_normal_039.jpg	1.247523795	0.945308415	beautiful topaz girl dark
+all/AttnGAN_normal_044.jpg	1.106599613	0.553112625	male warrior silver armor
+all/AttnGAN_normal_051.jpg	1.062470367	0.981735619	hanging gardens of babylon
+all/AttnGAN_normal_059.jpg	0.753539821	0.441791736	barak obama as master chief
+all/AttnGAN_normal_061.jpg	0.678182301	0.409963958	a yellow rendition of venom, sci-fi style
+all/AttnGAN_normal_064.jpg	0.935417685	1.184861428	monsters playing board games, baroque style
+all/AttnGAN_normal_067.jpg	1.042384048	0.457481316	a woman in newspaper clothes, realistic style
+all/AttnGAN_normal_069.jpg	1.116526892	0.564086878	synthwave astronaut tabby cat, baroque style
+all/AttnGAN_normal_074.jpg	0.850998035	0.49324274	legionary of the roman empire, baroque style
+all/AttnGAN_normal_077.jpg	1.119807896	0.257352514	a anthropomorphic cat warrior, realistic style
+all/AttnGAN_normal_080.jpg	0.812984657	0.481457492	painted portrait of goblin man, anime style
+all/AttnGAN_normal_081.jpg	0.955535203	0.406335814	large purple lovecraftian void, sci-fi style
+all/AttnGAN_normal_084.jpg	0.875752826	0.541980536	sheep that looks like broccoli, baroque style
+all/AttnGAN_normal_086.jpg	1.161274584	0.767535581	a very drunk person named aaron, sci-fi style
+all/AttnGAN_normal_088.jpg	1.22513052	1.02748653	a space shuttle flying in space, abstract style
+all/AttnGAN_normal_100.jpg	1.178897031	1.02123126	a small garden buzzing with bees, anime style
+all/AttnGAN_normal_101.jpg	0.829617037	0.994900832	a man playing an invisible cello, sci-fi style
+all/AttnGAN_normal_104.jpg	0.784493346	0.468583101	a biomechanical cybertronic frog, baroque style
+all/AttnGAN_normal_107.jpg	1.014269206	0.856484966	spritesheet game asset vector art, realistic style
+all/AttnGAN_normal_110.jpg	0.779719895	0.231318429	painted portrait of intense woman, anime style
+all/AttnGAN_normal_113.jpg	0.879514179	0.731596555	epic colourful scene from a dream, abstract style
+all/AttnGAN_normal_114.jpg	1.038703499	0.631037248	donut glazed with white chocolate, baroque style
+all/AttnGAN_normal_119.jpg	1.297636099	0.659590655	female demon in a medieval dungeon, baroque style
+all/AttnGAN_normal_131.jpg	0.971526322	0.471247526	cute fluffy baby panda lion hybrid , cold color
+all/AttnGAN_normal_142.jpg	0.807856712	0.842546938	a biomechanical passion fruit flower, top view
+all/AttnGAN_normal_146.jpg	0.79126251	0.431166364	cute fluffy lion cheetah hybrid mixed, blurred detail
+all/AttnGAN_normal_149.jpg	0.792278167	1.56824891	a plasticine model of a goblin raider, HDR lighting
+all/AttnGAN_normal_156.jpg	1.977251303	1.310865965	an adventure party resting in a tavern, blurred detail
+all/AttnGAN_normal_161.jpg	0.780698266	0.486320092	cute fluffy baby lop eared bunny rabbit, cold color
+all/AttnGAN_normal_162.jpg	0.747278376	0.767535581	an industrial geometric temple lab room, top view
+all/AttnGAN_normal_172.jpg	0.940601322	1.101591216	art of a mimic from dungeons and dragons, top view
+all/AttnGAN_normal_177.jpg	0.86802727	0.566059704	a huge wooden carving sculpture of a fox, hyper detail
+all/AttnGAN_normal_179.jpg	1.063255848	0.641620949	underwater photography of the rough ocean, HDR lighting
+all/AttnGAN_normal_188.jpg	1.252358797	1.137109539	portrait painting of a west hightland white, soft lighting, abstract style
+all/AttnGAN_normal_196.jpg	0.8493261	0.629428475	the essence of the chemical element hydrogen, blurred detail, sci-fi style
+all/AttnGAN_normal_204.jpg	0.821435934	0.853679026	2 friends partying and are facing the camera, close-up, baroque style
+all/AttnGAN_normal_219.jpg	0.829617037	0.863248694	a brand logo of henry cavill as a catholic nun, HDR lighting, baroque style
+all/AttnGAN_normal_226.jpg	1.403283136	1.471372759	an anatomically correct cybertronic human heart, cold color, close-up
+all/AttnGAN_normal_229.jpg	0.799027902	0.696426448	a heavily bloodied horrified pretty young woman, warm color, hyper detail
+all/AttnGAN_normal_230.jpg	1.248661629	0.702583315	a fantast beauty detailed elf with mermaid tail, cold color, blurred detail
+all/AttnGAN_normal_235.jpg	1.391763291	0.964999916	steampunk squid inside a glass jar buried in sand, cold color, HDR lighting
+all/AttnGAN_normal_237.jpg	0.678279008	0.566059704	portrait of terrified green ball gown young woman, top view, long-shot
+all/AttnGAN_normal_245.jpg	1.126728573	0.913485487	fullbody portrait of half - fox woman with fox ears, top view, HDR lighting
+all/AttnGAN_normal_246.jpg	0.463704663	0.27081407	alphonse eric from full metal alchemist brotherhood, elevation view, soft lighting
+all/AttnGAN_normal_247.jpg	1.077517831	0.726968261	a saint noble high priestess pray for god in church, elevation view, HDR lighting
+all/AttnGAN_normal_252.jpg	0.749492217	0.909855359	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/AttnGAN_normal_270.jpg	0.875752826	0.864811115	european woodcut of a wooden sailing vessel on a stormy, cold color, blurred detail, anime style
+all/AttnGAN_normal_273.jpg	0.731526985	1.759600793	exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style
+all/AttnGAN_normal_279.jpg	0.807856712	0.686697692	table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style
+all/AttnGAN_normal_281.jpg	0.971526322	0.696426448	portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style
+all/AttnGAN_normal_283.jpg	0.850777428	0.957159937	steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style
+all/AttnGAN_normal_289.jpg	0	0.058708113	portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style
+all/AttnGAN_normal_290.jpg	0.799027902	0.933456892	a portrait of girl chronomancer glass jewelry padlocks fantasy, long-shot, blurred detail, anime style
+all/AttnGAN_normal_294.jpg	1.284080589	0.940192641	anthropomorphic thresher shark in knight armor dropping his sword, long-shot, soft lighting, baroque style

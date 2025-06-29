@@ -1,0 +1,60 @@
+all/DALLE2_normal_004.jpg	2.790423236	3.569908726	red and blue armor
+all/DALLE2_normal_007.jpg	1.910721781	3.167161119	a cat doing karaoke
+all/DALLE2_normal_012.jpg	2.792237956	2.69321342	life bar and mana bar
+all/DALLE2_normal_020.jpg	3.501131449	3.978346905	a overgrown old house
+all/DALLE2_normal_029.jpg	3.127756575	1.846024102	legendary river of slugs
+all/DALLE2_normal_036.jpg	2.506762262	1.62084518	gnome warfare at walmart
+all/DALLE2_normal_041.jpg	2.532418004	3.491984103	a raspberry made of metal
+all/DALLE2_normal_042.jpg	3.231077294	2.958190852	a man jumping off a cliff
+all/DALLE2_normal_045.jpg	2.209149982	3.809111975	superman punches the pope
+all/DALLE2_normal_051.jpg	2.927618961	2.139899198	hanging gardens of babylon
+all/DALLE2_normal_060.jpg	2.817259418	1.715657358	artwork with only triangles, anime style
+all/DALLE2_normal_090.jpg	2.254782866	2.740407521	little girl with a mushroom hat, anime style
+all/DALLE2_normal_091.jpg	3.369254363	2.723036745	ufo ignoring the laws of phyics, sci-fi style
+all/DALLE2_normal_092.jpg	2.974361596	2.433914506	steampunk walter white portrait , realistic style
+all/DALLE2_normal_110.jpg	2.251322245	2.805902798	painted portrait of intense woman, anime style
+all/DALLE2_normal_117.jpg	2.176839871	2.443074357	portrait of a cloaked female devil, realistic style
+all/DALLE2_normal_118.jpg	1.747030906	3.274264347	foxes judging a cheese competition, abstract style
+all/DALLE2_normal_120.jpg	2.261262436	3.348349994	die cut sticker of a pair of lips , warm color
+all/DALLE2_normal_121.jpg	2.657997659	3.001128296	cute green tabby cat made of leaves, cold color
+all/DALLE2_normal_123.jpg	2.060413207	1.692657167	anthropomorphic pine marten animal, elevation view
+all/DALLE2_normal_138.jpg	2.39306082	3.140830692	render of dreamy beautiful landscape, soft lighting
+all/DALLE2_normal_142.jpg	2.14357511	2.443074357	a biomechanical passion fruit flower, top view
+all/DALLE2_normal_152.jpg	2.80733647	1.933414643	grumpy the elder gods sitting in a bar, top view
+all/DALLE2_normal_153.jpg	2.960099613	3.336157521	grumpy king in yellow sitting in a bar, elevation view
+all/DALLE2_normal_154.jpg	3.576252467	3.090433934	cute fluffy baby poodle giraffe hybrid, close-up
+all/DALLE2_normal_157.jpg	2.432406235	2.958190852	spaceship flying over a strange planet, hyper detail
+all/DALLE2_normal_158.jpg	3.207226865	3.3417077	photograph of a stone cairn in scotland, soft lighting
+all/DALLE2_normal_160.jpg	2.391896453	3.227706657	cute soul ghost in infinity mirror room, warm color
+all/DALLE2_normal_164.jpg	3.403754047	3.635603955	a pig sitting in a chair smoking a pipe, close-up
+all/DALLE2_normal_166.jpg	1.903017791	3.137840023	a cybertronic metallic green tree frog , blurred detail
+all/DALLE2_normal_172.jpg	3.359435142	1.763328481	art of a mimic from dungeons and dragons, top view
+all/DALLE2_normal_173.jpg	3.034849246	3.191417702	ancient japanese fantasy garden at night, elevation view
+all/DALLE2_normal_176.jpg	2.093677968	2.824865559	a painting of pink panther as a vampire , blurred detail
+all/DALLE2_normal_182.jpg	2.939794687	3.035568457	a female warrior in charming phenix armor, top view, realistic style
+all/DALLE2_normal_187.jpg	2.657997659	1.672693868	softboy aesthetic in ancient greek clothing, hyper detail, realistic style
+all/DALLE2_normal_194.jpg	2.493724965	3.050789396	a cyborg jellyfish swimming in a vast ocean, close-up, baroque style
+all/DALLE2_normal_196.jpg	1.956105243	1.498880017	the essence of the chemical element hydrogen, blurred detail, sci-fi style
+all/DALLE2_normal_204.jpg	3.576593619	3.453076131	2 friends partying and are facing the camera, close-up, baroque style
+all/DALLE2_normal_207.jpg	2.899057018	3.536512459	painting of a man farmer at work in the field, hyper detail, realistic style
+all/DALLE2_normal_211.jpg	3.304929808	3.059123051	a woman in a trench coat looking out a window, cold color, sci-fi style
+all/DALLE2_normal_214.jpg	3.088457462	3.17765537	render of rivendell dreamy beautiful landscape, close-up, baroque style
+all/DALLE2_normal_233.jpg	2.196265106	3.031176323	a penguin slipping on a banana in the antarctic , warm color, HDR lighting
+all/DALLE2_normal_239.jpg	3.43455948	2.045152119	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/DALLE2_normal_240.jpg	2.000906886	2.504517295	photoreal portrait of a futuristic intricate robot, top view, blurred detail
+all/DALLE2_normal_244.jpg	2.058266369	2.85340349	man at a royal banquet wearing an asymmetrical gown, top view, soft lighting
+all/DALLE2_normal_252.jpg	2.462183558	2.452499565	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/DALLE2_normal_259.jpg	1.178524426	1.656399747	a parade of disconnected images : a tragic supernova, hyper detail, HDR lighting
+all/DALLE2_normal_261.jpg	2.803217798	3.092308057	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/DALLE2_normal_263.jpg	2.11262753	2.999433191	cute animal character sleeping in the space station, cold color, elevation view, abstract style
+all/DALLE2_normal_266.jpg	2.630872609	3.056705093	scottish stone cairn inside a glass jar buried in sand, cold color, close-up, sci-fi style
+all/DALLE2_normal_268.jpg	1.351025623	1.811038675	spaceport on a vast desert planet with ships taking off, warm color, blurred detail, abstract style
+all/DALLE2_normal_271.jpg	2.980532355	3.291606502	the gold skull coming out from open cracked marble head, cold color, hyper detail, sci-fi style
+all/DALLE2_normal_274.jpg	3.419625599	2.951467196	angled photograph of an abandoned train cart during dusk, cold color, soft lighting, baroque style
+all/DALLE2_normal_278.jpg	2.03716536	2.963619274	dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style
+all/DALLE2_normal_281.jpg	3.576252467	3.078582412	portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style
+all/DALLE2_normal_282.jpg	2.616815188	2.452499565	strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style
+all/DALLE2_normal_289.jpg	3.075586915	3.491984103	portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style
+all/DALLE2_normal_292.jpg	2.505259558	3.180285613	a translucent bioluminescent ctenophore floating deep in the sea, close-up, soft lighting, realistic style
+all/DALLE2_normal_294.jpg	2.806879489	2.557728222	anthropomorphic thresher shark in knight armor dropping his sword, long-shot, soft lighting, baroque style
+all/DALLE2_normal_297.jpg	3.016410807	3.001128296	cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style

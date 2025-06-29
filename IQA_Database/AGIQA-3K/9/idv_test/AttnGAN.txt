@@ -1,0 +1,60 @@
+all/AttnGAN_normal_002.jpg	0.195283431	0.506802093	man lost in space
+all/AttnGAN_normal_003.jpg	1.075006252	0.207691414	a cosmic universe
+all/AttnGAN_normal_005.jpg	1.106599613	0.70896187	house of the dragon
+all/AttnGAN_normal_016.jpg	1.174495727	0.541980536	very sad rabbit crying
+all/AttnGAN_normal_028.jpg	1.527555519	0.686697692	maroon to black gradient
+all/AttnGAN_normal_034.jpg	1.508930173	0.385017296	rat portrait as a warrior
+all/AttnGAN_normal_039.jpg	1.247523795	0.945308415	beautiful topaz girl dark
+all/AttnGAN_normal_042.jpg	1.253245361	1.004686321	a man jumping off a cliff
+all/AttnGAN_normal_051.jpg	1.062470367	0.981735619	hanging gardens of babylon
+all/AttnGAN_normal_052.jpg	1.168900836	0.845084862	concept art of giant ogres
+all/AttnGAN_normal_055.jpg	1.161804194	0.504397017	a small ocean full of life
+all/AttnGAN_normal_059.jpg	0.753539821	0.441791736	barak obama as master chief
+all/AttnGAN_normal_060.jpg	0.919776796	0.850496237	artwork with only triangles, anime style
+all/AttnGAN_normal_067.jpg	1.042384048	0.457481316	a woman in newspaper clothes, realistic style
+all/AttnGAN_normal_068.jpg	0.685643707	0.497452181	yog sothoth chef in a kitchen, abstract style
+all/AttnGAN_normal_072.jpg	1.086342024	0.623776738	painted portrait of snake man, realistic style
+all/AttnGAN_normal_077.jpg	1.119807896	0.257352514	a anthropomorphic cat warrior, realistic style
+all/AttnGAN_normal_079.jpg	1.402772373	1.004566026	the infernal dark gun magicks , baroque style
+all/AttnGAN_normal_084.jpg	0.875752826	0.541980536	sheep that looks like broccoli, baroque style
+all/AttnGAN_normal_088.jpg	1.22513052	1.02748653	a space shuttle flying in space, abstract style
+all/AttnGAN_normal_093.jpg	1.478164096	0.696883506	photo of tony danza eating chili, abstract style
+all/AttnGAN_normal_100.jpg	1.178897031	1.02123126	a small garden buzzing with bees, anime style
+all/AttnGAN_normal_103.jpg	0.929924681	0.78808434	a giant rock floating in the air, abstract style
+all/AttnGAN_normal_104.jpg	0.784493346	0.468583101	a biomechanical cybertronic frog, baroque style
+all/AttnGAN_normal_113.jpg	0.879514179	0.731596555	epic colourful scene from a dream, abstract style
+all/AttnGAN_normal_114.jpg	1.038703499	0.631037248	donut glazed with white chocolate, baroque style
+all/AttnGAN_normal_115.jpg	1.112671152	1.278288824	ocean of canvas that catches fire, anime style
+all/AttnGAN_normal_127.jpg	0.663293231	0.283979284	robots building robots in a factory, hyper detail
+all/AttnGAN_normal_132.jpg	1.29901447	0.158030314	a girl with rainbow in white shirt , top view
+all/AttnGAN_normal_136.jpg	0.778016184	0.617236002	man in his late 40 s wearing a suit, blurred detail
+all/AttnGAN_normal_143.jpg	0.735230234	0.653813422	portrait of squids swarming the ocean, elevation view
+all/AttnGAN_normal_149.jpg	0.792278167	1.56824891	a plasticine model of a goblin raider, HDR lighting
+all/AttnGAN_normal_151.jpg	1.147337281	0.786886493	photo of a white fashion jewelry store, cold color
+all/AttnGAN_normal_152.jpg	0.735230234	0.678198368	grumpy the elder gods sitting in a bar, top view
+all/AttnGAN_normal_158.jpg	0.912778941	0.968570405	photograph of a stone cairn in scotland, soft lighting
+all/AttnGAN_normal_163.jpg	0.929411321	0.968570405	a portrait of girl boxer in a red dress, elevation view
+all/AttnGAN_normal_164.jpg	0.812984657	0.362970567	a pig sitting in a chair smoking a pipe, close-up
+all/AttnGAN_normal_165.jpg	1.197015678	0.685483402	a female hand holding a red fresh apple, long-shot
+all/AttnGAN_normal_166.jpg	1.284080589	0.74154824	a cybertronic metallic green tree frog , blurred detail
+all/AttnGAN_normal_190.jpg	0.875752826	0.831414849	delicious peanut butter donut with glazing , warm color, anime style
+all/AttnGAN_normal_203.jpg	1.168900836	0.810884549	a beautiful brutalist concrete forest temple, elevation view, abstract style
+all/AttnGAN_normal_204.jpg	0.821435934	0.853679026	2 friends partying and are facing the camera, close-up, baroque style
+all/AttnGAN_normal_205.jpg	1.575270793	0.850496237	the fate of all fools and divine intervention, long-shot, anime style
+all/AttnGAN_normal_209.jpg	0.995787421	0.552148905	an uprising of disneyland costumed characters, HDR lighting, baroque style
+all/AttnGAN_normal_217.jpg	1.191989061	0.552148905	a portrait photo of a beautiful female android, hyper detail, realistic style
+all/AttnGAN_normal_224.jpg	0.633569007	0.778970376	lovers being pulled apart across space and time, warm color, close-up
+all/AttnGAN_normal_226.jpg	1.403283136	1.471372759	an anatomically correct cybertronic human heart, cold color, close-up
+all/AttnGAN_normal_230.jpg	1.248661629	0.702583315	a fantast beauty detailed elf with mermaid tail, cold color, blurred detail
+all/AttnGAN_normal_234.jpg	1.075025374	0.755684059	a mechanical human arm sticking out of the earth, cold color, soft lighting
+all/AttnGAN_normal_236.jpg	0.935417685	0.361141351	short - haired short butch tomboy blonde engineer, top view, close-up
+all/AttnGAN_normal_238.jpg	0.705005947	0.560082254	many bodies floating in an infinite lake of blood, elevation view, close-up
+all/AttnGAN_normal_244.jpg	0.549851479	0.39726338	man at a royal banquet wearing an asymmetrical gown, top view, soft lighting
+all/AttnGAN_normal_254.jpg	1.179543421	0.369089989	portrait of beautiful woman with magical nebula hair, long-shot, soft lighting
+all/AttnGAN_normal_261.jpg	0.865931916	0.828455166	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/AttnGAN_normal_266.jpg	1.056441469	0.822284653	scottish stone cairn inside a glass jar buried in sand, cold color, close-up, sci-fi style
+all/AttnGAN_normal_267.jpg	1.112367509	0.902744335	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/AttnGAN_normal_273.jpg	0.731526985	1.759600793	exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style
+all/AttnGAN_normal_284.jpg	0.471280904	0.838644715	portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style
+all/AttnGAN_normal_285.jpg	0.701659223	0.282183064	portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style
+all/AttnGAN_normal_296.jpg	0.902911271	0.976132005	bloodborne werewolf howling in yharnam with full moon in background, blurred detail, soft lighting, sci-fi style

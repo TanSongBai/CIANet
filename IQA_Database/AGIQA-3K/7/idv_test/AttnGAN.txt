@@ -1,0 +1,60 @@
+all/AttnGAN_normal_003.jpg	1.075006252	0.207691414	a cosmic universe
+all/AttnGAN_normal_006.jpg	1.062470367	0.626274844	a river in a forest
+all/AttnGAN_normal_015.jpg	0.91586726	0.571482359	santa claus on drugs
+all/AttnGAN_normal_021.jpg	1.448560438	0.444707156	portrait of mecha robot
+all/AttnGAN_normal_023.jpg	0.949159982	0.422156431	king kong on fighting
+all/AttnGAN_normal_026.jpg	1.023275848	0.613465793	a painting of a eclipse
+all/AttnGAN_normal_030.jpg	1.014269206	0.605682672	brand logo fruit company
+all/AttnGAN_normal_031.jpg	0.821435934	0.742358137	black mickey mouse skull
+all/AttnGAN_normal_043.jpg	1.23918794	0.605682672	a frog wearing police cap
+all/AttnGAN_normal_044.jpg	1.106599613	0.553112625	male warrior silver armor
+all/AttnGAN_normal_045.jpg	1.252358797	0.325327435	superman punches the pope
+all/AttnGAN_normal_050.jpg	2.010516065	0.178657573	logo design of a full moon
+all/AttnGAN_normal_054.jpg	1.149675658	0.220106689	beautiful white fluffy cat
+all/AttnGAN_normal_062.jpg	0.901809839	0.833684757	a colour portrait of a king, realistic style
+all/AttnGAN_normal_064.jpg	0.935417685	1.184861428	monsters playing board games, baroque style
+all/AttnGAN_normal_079.jpg	1.402772373	1.004566026	the infernal dark gun magicks , baroque style
+all/AttnGAN_normal_086.jpg	1.161274584	0.767535581	a very drunk person named aaron, sci-fi style
+all/AttnGAN_normal_087.jpg	0.965602553	0.659590655	a tonalism portrait of a ghost , realistic style
+all/AttnGAN_normal_103.jpg	0.929924681	0.78808434	a giant rock floating in the air, abstract style
+all/AttnGAN_normal_109.jpg	1.104874015	0.54290384	photograph of beautiful landscape, baroque style
+all/AttnGAN_normal_113.jpg	0.879514179	0.731596555	epic colourful scene from a dream, abstract style
+all/AttnGAN_normal_115.jpg	1.112671152	1.278288824	ocean of canvas that catches fire, anime style
+all/AttnGAN_normal_125.jpg	0.79126251	0.455996915	a upright walking cute giraffe toy, long-shot
+all/AttnGAN_normal_132.jpg	1.29901447	0.158030314	a girl with rainbow in white shirt , top view
+all/AttnGAN_normal_149.jpg	0.792278167	1.56824891	a plasticine model of a goblin raider, HDR lighting
+all/AttnGAN_normal_158.jpg	0.912778941	0.968570405	photograph of a stone cairn in scotland, soft lighting
+all/AttnGAN_normal_159.jpg	0.733120788	0.765284132	person walking inside a timeless bubble, HDR lighting
+all/AttnGAN_normal_160.jpg	0.754308478	0.683466599	cute soul ghost in infinity mirror room, warm color
+all/AttnGAN_normal_168.jpg	1.012573225	0.876413908	the celestial realm of the elven deities, soft lighting
+all/AttnGAN_normal_174.jpg	1.014269206	0.70828361	ancient golden chrome finish skateboard , close-up
+all/AttnGAN_normal_177.jpg	0.86802727	0.566059704	a huge wooden carving sculpture of a fox, hyper detail
+all/AttnGAN_normal_182.jpg	1.010879855	0.373079324	a female warrior in charming phenix armor, top view, realistic style
+all/AttnGAN_normal_192.jpg	1.144024742	0.957159937	beautiful ancient temple in a formal garden, top view, realistic style
+all/AttnGAN_normal_194.jpg	0.775293051	0.86788507	a cyborg jellyfish swimming in a vast ocean, close-up, baroque style
+all/AttnGAN_normal_196.jpg	0.8493261	0.629428475	the essence of the chemical element hydrogen, blurred detail, sci-fi style
+all/AttnGAN_normal_197.jpg	0.831522735	0.514481837	storm troopers cosplaying the power rangers , hyper detail, realistic style
+all/AttnGAN_normal_201.jpg	0.672064484	0.798018582	a gummy bear performing at woodstock concert, cold color, sci-fi style
+all/AttnGAN_normal_214.jpg	1.403283136	1.459434787	render of rivendell dreamy beautiful landscape, close-up, baroque style
+all/AttnGAN_normal_216.jpg	0.803407893	0.799484444	elegant oval mirror and toucan with reflection, blurred detail, sci-fi style
+all/AttnGAN_normal_217.jpg	1.191989061	0.552148905	a portrait photo of a beautiful female android, hyper detail, realistic style
+all/AttnGAN_normal_220.jpg	0.920636016	0.775738154	sparkling heart blue mana tree inside a marble, warm color, top view
+all/AttnGAN_normal_221.jpg	1.195774268	0.589762748	goose being zipped - up by man in orange shirt, warm color, elevation view
+all/AttnGAN_normal_231.jpg	0.863588083	0.714775788	a dramatic photo of a lion made of cotton candy, cold color, hyper detail
+all/AttnGAN_normal_233.jpg	0.269225899	0.38908069	a penguin slipping on a banana in the antarctic , warm color, HDR lighting
+all/AttnGAN_normal_234.jpg	1.075025374	0.755684059	a mechanical human arm sticking out of the earth, cold color, soft lighting
+all/AttnGAN_normal_236.jpg	0.935417685	0.361141351	short - haired short butch tomboy blonde engineer, top view, close-up
+all/AttnGAN_normal_237.jpg	0.678279008	0.566059704	portrait of terrified green ball gown young woman, top view, long-shot
+all/AttnGAN_normal_239.jpg	0.937026638	0.874199281	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/AttnGAN_normal_243.jpg	0.980694987	0.826722264	mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail
+all/AttnGAN_normal_245.jpg	1.126728573	0.913485487	fullbody portrait of half - fox woman with fox ears, top view, HDR lighting
+all/AttnGAN_normal_248.jpg	1.092275216	0.731981015	a redhair beautiful girl wearing brown olive dress, close-up, blurred detail
+all/AttnGAN_normal_250.jpg	0.719063368	0.753884027	a dramatic photo of a mountain made of layered cake, long-shot, blurred detail
+all/AttnGAN_normal_259.jpg	0.592546579	0.594282567	a parade of disconnected images : a tragic supernova, hyper detail, HDR lighting
+all/AttnGAN_normal_261.jpg	0.865931916	0.828455166	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/AttnGAN_normal_263.jpg	0.729822753	0.652605272	cute animal character sleeping in the space station, cold color, elevation view, abstract style
+all/AttnGAN_normal_272.jpg	0.79958578	0.432769184	frontal portrait of female adult twins in the apocalypse, warm color, soft lighting, realistic style
+all/AttnGAN_normal_277.jpg	0.859637576	0.582882463	plasticine sculptures of two lovers walking through paris, top view, long-shot, realistic style
+all/AttnGAN_normal_279.jpg	0.807856712	0.686697692	table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style
+all/AttnGAN_normal_286.jpg	1.345220838	1.482013745	an epic artistic colourful natural scene on an alien planet, elevation view, soft lighting, sci-fi style
+all/AttnGAN_normal_296.jpg	0.902911271	0.976132005	bloodborne werewolf howling in yharnam with full moon in background, blurred detail, soft lighting, sci-fi style

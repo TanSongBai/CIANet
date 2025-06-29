@@ -1,0 +1,58 @@
+all/DALLE2_normal_002.jpg	2.855791343	2.908503737	man lost in space
+all/DALLE2_normal_004.jpg	2.790423236	3.569908726	red and blue armor
+all/DALLE2_normal_015.jpg	2.505030811	3.345634382	santa claus on drugs
+all/DALLE2_normal_018.jpg	2.476222723	2.903856842	man hating his printer
+all/DALLE2_normal_020.jpg	3.501131449	3.978346905	a overgrown old house
+all/DALLE2_normal_025.jpg	3.089166137	2.545756544	a still of breaking bad
+all/DALLE2_normal_030.jpg	3.034849246	3.180285613	brand logo fruit company
+all/DALLE2_normal_031.jpg	1.977251303	2.495735212	black mickey mouse skull
+all/DALLE2_normal_038.jpg	2.520123245	2.927805358	christmas at kelly family
+all/DALLE2_normal_039.jpg	2.674859949	2.568031711	beautiful topaz girl dark
+all/DALLE2_normal_049.jpg	2.625914149	3.483126252	portrait of evil alchemist
+all/DALLE2_normal_051.jpg	2.927618961	2.139899198	hanging gardens of babylon
+all/DALLE2_normal_055.jpg	3.001476926	2.963882471	a small ocean full of life
+all/DALLE2_normal_062.jpg	3.401488261	3.547644548	a colour portrait of a king, realistic style
+all/DALLE2_normal_063.jpg	0.997965831	1.677453607	overwatch small hut building, abstract style
+all/DALLE2_normal_064.jpg	2.545997226	3.169153524	monsters playing board games, baroque style
+all/DALLE2_normal_065.jpg	1.791832549	2.864560271	an environmental concept art, anime style
+all/DALLE2_normal_068.jpg	2.293736737	1.793698006	yog sothoth chef in a kitchen, abstract style
+all/DALLE2_normal_073.jpg	2.899057018	3.124625168	otter making a disgusted face, abstract style
+all/DALLE2_normal_080.jpg	1.881435837	3.895028099	painted portrait of goblin man, anime style
+all/DALLE2_normal_087.jpg	1.834018423	2.414897168	a tonalism portrait of a ghost , realistic style
+all/DALLE2_normal_096.jpg	1.956105243	2.36794927	meme about making peanut butter , sci-fi style
+all/DALLE2_normal_107.jpg	2.713760366	2.971918712	spritesheet game asset vector art, realistic style
+all/DALLE2_normal_113.jpg	0.889332048	1.44367974	epic colourful scene from a dream, abstract style
+all/DALLE2_normal_117.jpg	2.176839871	2.443074357	portrait of a cloaked female devil, realistic style
+all/DALLE2_normal_122.jpg	1.961760789	2.092525257	chinese demon god character design, top view
+all/DALLE2_normal_132.jpg	3.402221092	3.64096935	a girl with rainbow in white shirt , top view
+all/DALLE2_normal_134.jpg	0.902911271	1.276698406	a biomechanical orchid heart fusion, close-up
+all/DALLE2_normal_136.jpg	3.108728168	3.154626828	man in his late 40 s wearing a suit, blurred detail
+all/DALLE2_normal_138.jpg	2.39306082	3.140830692	render of dreamy beautiful landscape, soft lighting
+all/DALLE2_normal_140.jpg	3.319686232	2.86290332	cute great old ones sitting in a bar, warm color
+all/DALLE2_normal_141.jpg	2.058266369	2.474154779	a portrait of girl bard in red dress, cold color
+all/DALLE2_normal_145.jpg	3.048358432	1.972767588	kraken is using large sponge for bath, long-shot
+all/DALLE2_normal_161.jpg	2.956675282	3.708798973	cute fluffy baby lop eared bunny rabbit, cold color
+all/DALLE2_normal_166.jpg	1.903017791	3.137840023	a cybertronic metallic green tree frog , blurred detail
+all/DALLE2_normal_175.jpg	1.445015122	1.297700751	a portrait of the mri brain damage demon, long-shot
+all/DALLE2_normal_177.jpg	2.524012104	3.244503722	a huge wooden carving sculpture of a fox, hyper detail
+all/DALLE2_normal_182.jpg	2.939794687	3.035568457	a female warrior in charming phenix armor, top view, realistic style
+all/DALLE2_normal_189.jpg	2.660597966	2.494876872	lobster human hybrid in fashion photography, HDR lighting, baroque style
+all/DALLE2_normal_190.jpg	2.67293154	3.485324022	delicious peanut butter donut with glazing , warm color, anime style
+all/DALLE2_normal_195.jpg	2.4902984	2.988304467	unique epic pink space elf knight adventurer, long-shot, anime style
+all/DALLE2_normal_198.jpg	2.478101113	2.935379657	robots creating new robots in a factory line, soft lighting, abstract style
+all/DALLE2_normal_215.jpg	2.344386154	2.54176312	portrait with no signature of aggressive alien, long-shot, anime style
+all/DALLE2_normal_218.jpg	2.908664621	2.416743929	a masonic illuminati waiting room with a couch, soft lighting, abstract style
+all/DALLE2_normal_220.jpg	2.505259558	2.946511745	sparkling heart blue mana tree inside a marble, warm color, top view
+all/DALLE2_normal_233.jpg	2.196265106	3.031176323	a penguin slipping on a banana in the antarctic , warm color, HDR lighting
+all/DALLE2_normal_234.jpg	3.197799919	2.456699832	a mechanical human arm sticking out of the earth, cold color, soft lighting
+all/DALLE2_normal_235.jpg	2.874527714	3.043538165	steampunk squid inside a glass jar buried in sand, cold color, HDR lighting
+all/DALLE2_normal_236.jpg	3.715984722	3.897011287	short - haired short butch tomboy blonde engineer, top view, close-up
+all/DALLE2_normal_240.jpg	2.000906886	2.504517295	photoreal portrait of a futuristic intricate robot, top view, blurred detail
+all/DALLE2_normal_247.jpg	1.493154926	2.218965969	a saint noble high priestess pray for god in church, elevation view, HDR lighting
+all/DALLE2_normal_251.jpg	2.74826005	3.161543067	a brain with eyeballs peaking out between the folds, long-shot, hyper detail
+all/DALLE2_normal_254.jpg	3.387959109	3.397119887	portrait of beautiful woman with magical nebula hair, long-shot, soft lighting
+all/DALLE2_normal_255.jpg	2.260001775	2.706378634	magician god holding a divine staff character design, long-shot, HDR lighting
+all/DALLE2_normal_261.jpg	2.803217798	3.092308057	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/DALLE2_normal_274.jpg	3.419625599	2.951467196	angled photograph of an abandoned train cart during dusk, cold color, soft lighting, baroque style
+all/DALLE2_normal_297.jpg	3.016410807	3.001128296	cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style
+all/DALLE2_normal_299.jpg	2.450942667	2.824058767	beautiful fluffy baby giraffe cheetah hybrid mixed creature character concept, hyper detail, HDR lighting, baroque style

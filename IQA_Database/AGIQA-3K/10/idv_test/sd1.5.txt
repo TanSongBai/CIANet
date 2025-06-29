@@ -1,0 +1,240 @@
+all/sd1.5_highcorr_000.jpg	3.283005153	3.185246111	statue of a man
+all/sd1.5_highcorr_012.jpg	3.093256891	2.059351502	life bar and mana bar
+all/sd1.5_highcorr_018.jpg	2.674859949	2.311989774	man hating his printer
+all/sd1.5_highcorr_021.jpg	2.960099613	3.348349994	portrait of mecha robot
+all/sd1.5_highcorr_038.jpg	2.65898745	2.452499565	christmas at kelly family
+all/sd1.5_highcorr_040.jpg	2.671047584	3.357572354	an elaborate robot coding
+all/sd1.5_highcorr_041.jpg	2.489938377	2.199589058	a raspberry made of metal
+all/sd1.5_highcorr_045.jpg	3.235341707	2.509500087	superman punches the pope
+all/sd1.5_highcorr_046.jpg	2.491680335	2.568020722	the drowned and the saved
+all/sd1.5_highcorr_050.jpg	2.632073999	1.775520954	logo design of a full moon
+all/sd1.5_highcorr_075.jpg	0.291846246	0.731226048	concept art of octopus attack, anime style
+all/sd1.5_highcorr_076.jpg	2.176839871	2.982848125	a biomechanical dahlia flower, sci-fi style
+all/sd1.5_highcorr_077.jpg	3.017147546	3.433697306	a anthropomorphic cat warrior, realistic style
+all/sd1.5_highcorr_079.jpg	2.418144251	1.946215579	the infernal dark gun magicks , baroque style
+all/sd1.5_highcorr_081.jpg	2.23076479	2.474154779	large purple lovecraftian void, sci-fi style
+all/sd1.5_highcorr_088.jpg	3.016410807	2.752822796	a space shuttle flying in space, abstract style
+all/sd1.5_highcorr_090.jpg	3.906607461	3.720100101	little girl with a mushroom hat, anime style
+all/sd1.5_highcorr_091.jpg	3.43455948	3.609476773	ufo ignoring the laws of phyics, sci-fi style
+all/sd1.5_highcorr_092.jpg	3.460260441	3.18210624	steampunk walter white portrait , realistic style
+all/sd1.5_highcorr_093.jpg	2.986543045	2.355533995	photo of tony danza eating chili, abstract style
+all/sd1.5_highcorr_097.jpg	2.432406235	2.848458594	donald trump playing in the rain, realistic style
+all/sd1.5_highcorr_107.jpg	2.701232452	2.54579025	spritesheet game asset vector art, realistic style
+all/sd1.5_highcorr_111.jpg	2.722527122	1.621793163	grand canyon full of potato salad, sci-fi style
+all/sd1.5_highcorr_116.jpg	3.801556621	3.64096935	portrait of beautiful armored girl, sci-fi style
+all/sd1.5_highcorr_117.jpg	3.438253731	3.054879367	portrait of a cloaked female devil, realistic style
+all/sd1.5_highcorr_118.jpg	2.111462098	2.679341611	foxes judging a cheese competition, abstract style
+all/sd1.5_highcorr_123.jpg	1.928001564	2.213097376	anthropomorphic pine marten animal, elevation view
+all/sd1.5_highcorr_124.jpg	3.017147546	3.067923111	action shot of woman pole vaulting, close-up
+all/sd1.5_highcorr_127.jpg	2.671047584	2.486100389	robots building robots in a factory, hyper detail
+all/sd1.5_highcorr_130.jpg	3.359890074	3.795705898	photography of a happy blonde girl , warm color
+all/sd1.5_highcorr_131.jpg	3.208047473	2.890691628	cute fluffy baby panda lion hybrid , cold color
+all/sd1.5_highcorr_137.jpg	2.518838781	2.957643834	white fur furry mothman movie scene , hyper detail
+all/sd1.5_highcorr_147.jpg	2.771446817	3.079505301	bill gates and jason statham fight m , hyper detail
+all/sd1.5_highcorr_151.jpg	3.018173564	3.703773546	photo of a white fashion jewelry store, cold color
+all/sd1.5_highcorr_154.jpg	3.673754131	3.562117535	cute fluffy baby poodle giraffe hybrid, close-up
+all/sd1.5_highcorr_160.jpg	2.110015896	2.509709346	cute soul ghost in infinity mirror room, warm color
+all/sd1.5_highcorr_166.jpg	2.925297001	2.996013339	a cybertronic metallic green tree frog , blurred detail
+all/sd1.5_highcorr_167.jpg	2.782759734	3.291909811	two women working in a recording studio, hyper detail
+all/sd1.5_highcorr_168.jpg	2.806879489	3.548579908	the celestial realm of the elven deities, soft lighting
+all/sd1.5_highcorr_170.jpg	2.532240117	3.031345691	portrait of butterflies swarming flowers, warm color
+all/sd1.5_highcorr_178.jpg	2.788955814	2.251027408	a car crawling with human hands and feet, soft lighting
+all/sd1.5_highcorr_187.jpg	3.590592228	2.232430935	softboy aesthetic in ancient greek clothing, hyper detail, realistic style
+all/sd1.5_highcorr_192.jpg	3.116981428	3.543429565	beautiful ancient temple in a formal garden, top view, realistic style
+all/sd1.5_highcorr_195.jpg	2.632073999	2.87284354	unique epic pink space elf knight adventurer, long-shot, anime style
+all/sd1.5_highcorr_200.jpg	3.410576846	3.691835574	alien planet landscape made out of mushrooms, warm color, anime style
+all/sd1.5_highcorr_213.jpg	2.702799302	2.405195095	a biomechanical hibiscus flower made of metal, elevation view, abstract style
+all/sd1.5_highcorr_214.jpg	3.92415533	3.752111454	render of rivendell dreamy beautiful landscape, close-up, baroque style
+all/sd1.5_highcorr_219.jpg	2.602757767	2.600700921	a brand logo of henry cavill as a catholic nun, HDR lighting, baroque style
+all/sd1.5_highcorr_220.jpg	2.503716151	2.10471773	sparkling heart blue mana tree inside a marble, warm color, top view
+all/sd1.5_highcorr_238.jpg	2.14357511	2.469404785	many bodies floating in an infinite lake of blood, elevation view, close-up
+all/sd1.5_highcorr_239.jpg	3.289837374	2.77261172	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/sd1.5_highcorr_242.jpg	3.150815738	2.839729721	a living room with a black and white chevron floor, elevation view, blurred detail
+all/sd1.5_highcorr_245.jpg	2.746509754	2.665169971	fullbody portrait of half - fox woman with fox ears, top view, HDR lighting
+all/sd1.5_highcorr_253.jpg	3.44620302	3.239106761	a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting
+all/sd1.5_highcorr_261.jpg	2.746169865	2.677763969	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/sd1.5_highcorr_262.jpg	3.428646707	3.436323658	edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style
+all/sd1.5_highcorr_264.jpg	3.159767378	2.860651067	a hyper intricate oil portrait red cathedral interior, warm color, close-up, baroque style
+all/sd1.5_highcorr_280.jpg	2.689121932	2.129102676	rats in tuxedos drinking champagne in bubbles in the space, top view, blurred detail, anime style
+all/sd1.5_highcorr_283.jpg	3.541752783	2.557115434	steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style
+all/sd1.5_highcorr_290.jpg	1.962090647	2.723869967	a portrait of girl chronomancer glass jewelry padlocks fantasy, long-shot, blurred detail, anime style
+all/sd1.5_lowcorr_000.jpg	3.263456549	3.831912184	statue of a man
+all/sd1.5_lowcorr_012.jpg	2.627511156	1.454923869	life bar and mana bar
+all/sd1.5_lowcorr_018.jpg	2.776844014	1.944623742	man hating his printer
+all/sd1.5_lowcorr_021.jpg	2.974361596	2.677763969	portrait of mecha robot
+all/sd1.5_lowcorr_038.jpg	3.727351438	3.695110932	christmas at kelly family
+all/sd1.5_lowcorr_040.jpg	3.69733309	3.847029211	an elaborate robot coding
+all/sd1.5_lowcorr_041.jpg	2.874527714	2.177872569	a raspberry made of metal
+all/sd1.5_lowcorr_045.jpg	2.520123245	2.31896878	superman punches the pope
+all/sd1.5_lowcorr_046.jpg	2.550308113	3.238192633	the drowned and the saved
+all/sd1.5_lowcorr_050.jpg	3.482963598	4.004060194	logo design of a full moon
+all/sd1.5_lowcorr_075.jpg	2.886258786	3.007473278	concept art of octopus attack, anime style
+all/sd1.5_lowcorr_076.jpg	0	0.400138393	a biomechanical dahlia flower, sci-fi style
+all/sd1.5_lowcorr_077.jpg	2.966953132	3.436323658	a anthropomorphic cat warrior, realistic style
+all/sd1.5_lowcorr_079.jpg	2.233367001	2.187651086	the infernal dark gun magicks , baroque style
+all/sd1.5_lowcorr_081.jpg	2.455012736	2.308233468	large purple lovecraftian void, sci-fi style
+all/sd1.5_lowcorr_088.jpg	2.545997226	2.556888633	a space shuttle flying in space, abstract style
+all/sd1.5_lowcorr_090.jpg	3.145006417	3.683010044	little girl with a mushroom hat, anime style
+all/sd1.5_lowcorr_091.jpg	1.946610757	2.760673748	ufo ignoring the laws of phyics, sci-fi style
+all/sd1.5_lowcorr_092.jpg	3.263456549	2.988304467	steampunk walter white portrait , realistic style
+all/sd1.5_lowcorr_093.jpg	3.150815738	2.330703444	photo of tony danza eating chili, abstract style
+all/sd1.5_lowcorr_097.jpg	2.351513684	2.794145879	donald trump playing in the rain, realistic style
+all/sd1.5_lowcorr_107.jpg	2.377839033	2.885703528	spritesheet game asset vector art, realistic style
+all/sd1.5_lowcorr_111.jpg	2.713760366	1.526033003	grand canyon full of potato salad, sci-fi style
+all/sd1.5_lowcorr_116.jpg	2.610677849	3.035247107	portrait of beautiful armored girl, sci-fi style
+all/sd1.5_lowcorr_117.jpg	3.576593619	3.094936968	portrait of a cloaked female devil, realistic style
+all/sd1.5_lowcorr_118.jpg	2.687102292	2.737502173	foxes judging a cheese competition, abstract style
+all/sd1.5_lowcorr_123.jpg	2.673044871	2.06489602	anthropomorphic pine marten animal, elevation view
+all/sd1.5_lowcorr_124.jpg	2.960099613	3.067923111	action shot of woman pole vaulting, close-up
+all/sd1.5_lowcorr_127.jpg	3.501131449	3.608269769	robots building robots in a factory, hyper detail
+all/sd1.5_lowcorr_130.jpg	1.747769213	2.331936513	photography of a happy blonde girl , warm color
+all/sd1.5_lowcorr_131.jpg	2.980532355	2.723869967	cute fluffy baby panda lion hybrid , cold color
+all/sd1.5_lowcorr_137.jpg	1.446080182	2.178397609	white fur furry mothman movie scene , hyper detail
+all/sd1.5_lowcorr_147.jpg	2.478791084	1.548541117	bill gates and jason statham fight m , hyper detail
+all/sd1.5_lowcorr_151.jpg	2.911873639	3.510154573	photo of a white fashion jewelry store, cold color
+all/sd1.5_lowcorr_154.jpg	3.024257523	2.805997401	cute fluffy baby poodle giraffe hybrid, close-up
+all/sd1.5_lowcorr_160.jpg	1.720224248	1.244551289	cute soul ghost in infinity mirror room, warm color
+all/sd1.5_lowcorr_166.jpg	3.010422973	2.885703528	a cybertronic metallic green tree frog , blurred detail
+all/sd1.5_lowcorr_167.jpg	1.866501955	2.926636646	two women working in a recording studio, hyper detail
+all/sd1.5_lowcorr_168.jpg	3.058356047	3.535787107	the celestial realm of the elven deities, soft lighting
+all/sd1.5_lowcorr_170.jpg	3.403754047	3.5526433	portrait of butterflies swarming flowers, warm color
+all/sd1.5_lowcorr_178.jpg	2.326531297	1.297700751	a car crawling with human hands and feet, soft lighting
+all/sd1.5_lowcorr_187.jpg	2.375358302	2.592416657	softboy aesthetic in ancient greek clothing, hyper detail, realistic style
+all/sd1.5_lowcorr_192.jpg	2.689121932	3.299580101	beautiful ancient temple in a formal garden, top view, realistic style
+all/sd1.5_lowcorr_195.jpg	3.347801074	3.113705614	unique epic pink space elf knight adventurer, long-shot, anime style
+all/sd1.5_lowcorr_200.jpg	2.674859949	2.824073647	alien planet landscape made out of mushrooms, warm color, anime style
+all/sd1.5_lowcorr_213.jpg	2.940135868	2.976904363	a biomechanical hibiscus flower made of metal, elevation view, abstract style
+all/sd1.5_lowcorr_214.jpg	3.544604966	3.398708221	render of rivendell dreamy beautiful landscape, close-up, baroque style
+all/sd1.5_lowcorr_219.jpg	3.507253099	2.817848923	a brand logo of henry cavill as a catholic nun, HDR lighting, baroque style
+all/sd1.5_lowcorr_220.jpg	2.565400547	3.1665648	sparkling heart blue mana tree inside a marble, warm color, top view
+all/sd1.5_lowcorr_238.jpg	2.000906886	2.380364545	many bodies floating in an infinite lake of blood, elevation view, close-up
+all/sd1.5_lowcorr_239.jpg	3.541752783	2.900809578	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/sd1.5_lowcorr_242.jpg	3.723651273	3.022343767	a living room with a black and white chevron floor, elevation view, blurred detail
+all/sd1.5_lowcorr_245.jpg	2.047332688	1.958408052	fullbody portrait of half - fox woman with fox ears, top view, HDR lighting
+all/sd1.5_lowcorr_253.jpg	3.12288234	2.805902798	a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting
+all/sd1.5_lowcorr_261.jpg	3.048428469	2.857455034	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/sd1.5_lowcorr_262.jpg	3.283005153	3.3393159	edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style
+all/sd1.5_lowcorr_264.jpg	1.946610757	2.832301581	a hyper intricate oil portrait red cathedral interior, warm color, close-up, baroque style
+all/sd1.5_lowcorr_280.jpg	2.610677849	1.662380313	rats in tuxedos drinking champagne in bubbles in the space, top view, blurred detail, anime style
+all/sd1.5_lowcorr_283.jpg	2.888789697	3.153270423	steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style
+all/sd1.5_lowcorr_290.jpg	2.558511788	2.213421291	a portrait of girl chronomancer glass jewelry padlocks fantasy, long-shot, blurred detail, anime style
+all/sd1.5_lowstep_000.jpg	3.389757837	4.180579424	statue of a man
+all/sd1.5_lowstep_012.jpg	2.093677968	1.758483236	life bar and mana bar
+all/sd1.5_lowstep_018.jpg	3.062007692	2.189529698	man hating his printer
+all/sd1.5_lowstep_021.jpg	2.982308131	3.831912184	portrait of mecha robot
+all/sd1.5_lowstep_038.jpg	3.524162768	3.386001822	christmas at kelly family
+all/sd1.5_lowstep_040.jpg	3.636963354	3.345634382	an elaborate robot coding
+all/sd1.5_lowstep_041.jpg	2.804002459	2.456699832	a raspberry made of metal
+all/sd1.5_lowstep_045.jpg	2.418144251	2.787496228	superman punches the pope
+all/sd1.5_lowstep_046.jpg	2.532240117	1.653596222	the drowned and the saved
+all/sd1.5_lowstep_050.jpg	2.580492981	2.963619274	logo design of a full moon
+all/sd1.5_lowstep_075.jpg	2.695368677	3.146889346	concept art of octopus attack, anime style
+all/sd1.5_lowstep_076.jpg	3.240419025	2.66591587	a biomechanical dahlia flower, sci-fi style
+all/sd1.5_lowstep_077.jpg	2.46452189	2.7906625	a anthropomorphic cat warrior, realistic style
+all/sd1.5_lowstep_079.jpg	2.817259418	2.071203024	the infernal dark gun magicks , baroque style
+all/sd1.5_lowstep_081.jpg	1.642493738	3.398417097	large purple lovecraftian void, sci-fi style
+all/sd1.5_lowstep_088.jpg	2.188089699	2.987495218	a space shuttle flying in space, abstract style
+all/sd1.5_lowstep_090.jpg	1.575270793	2.474154779	little girl with a mushroom hat, anime style
+all/sd1.5_lowstep_091.jpg	2.852156791	3.33369641	ufo ignoring the laws of phyics, sci-fi style
+all/sd1.5_lowstep_092.jpg	2.991826524	3.075004622	steampunk walter white portrait , realistic style
+all/sd1.5_lowstep_093.jpg	2.351513684	2.154163679	photo of tony danza eating chili, abstract style
+all/sd1.5_lowstep_097.jpg	3.207226865	2.395499044	donald trump playing in the rain, realistic style
+all/sd1.5_lowstep_107.jpg	2.957803829	2.891991441	spritesheet game asset vector art, realistic style
+all/sd1.5_lowstep_111.jpg	2.523592728	1.511295292	grand canyon full of potato salad, sci-fi style
+all/sd1.5_lowstep_116.jpg	2.791787056	3.381448298	portrait of beautiful armored girl, sci-fi style
+all/sd1.5_lowstep_117.jpg	3.438253731	3.398573511	portrait of a cloaked female devil, realistic style
+all/sd1.5_lowstep_118.jpg	2.632073999	2.982575799	foxes judging a cheese competition, abstract style
+all/sd1.5_lowstep_123.jpg	1.827559877	2.377248288	anthropomorphic pine marten animal, elevation view
+all/sd1.5_lowstep_124.jpg	2.760431848	2.945998379	action shot of woman pole vaulting, close-up
+all/sd1.5_lowstep_127.jpg	2.989757839	3.102285456	robots building robots in a factory, hyper detail
+all/sd1.5_lowstep_130.jpg	3.108253189	3.562117535	photography of a happy blonde girl , warm color
+all/sd1.5_lowstep_131.jpg	3.252116811	3.10236099	cute fluffy baby panda lion hybrid , cold color
+all/sd1.5_lowstep_137.jpg	2.896939758	3.050789396	white fur furry mothman movie scene , hyper detail
+all/sd1.5_lowstep_147.jpg	2.478101113	1.432547651	bill gates and jason statham fight m , hyper detail
+all/sd1.5_lowstep_151.jpg	3.369254363	3.386721989	photo of a white fashion jewelry store, cold color
+all/sd1.5_lowstep_154.jpg	3.39100366	3.311978472	cute fluffy baby poodle giraffe hybrid, close-up
+all/sd1.5_lowstep_160.jpg	2.844740127	2.367643121	cute soul ghost in infinity mirror room, warm color
+all/sd1.5_lowstep_166.jpg	2.610677849	2.689045915	a cybertronic metallic green tree frog , blurred detail
+all/sd1.5_lowstep_167.jpg	2.532418004	2.568020722	two women working in a recording studio, hyper detail
+all/sd1.5_lowstep_168.jpg	3.359435142	3.482467199	the celestial realm of the elven deities, soft lighting
+all/sd1.5_lowstep_170.jpg	3.018173564	2.748735776	portrait of butterflies swarming flowers, warm color
+all/sd1.5_lowstep_178.jpg	2.289786403	1.165897295	a car crawling with human hands and feet, soft lighting
+all/sd1.5_lowstep_187.jpg	0.739960598	1.009528271	softboy aesthetic in ancient greek clothing, hyper detail, realistic style
+all/sd1.5_lowstep_192.jpg	2.883906185	3.296107282	beautiful ancient temple in a formal garden, top view, realistic style
+all/sd1.5_lowstep_195.jpg	2.03716536	2.903929414	unique epic pink space elf knight adventurer, long-shot, anime style
+all/sd1.5_lowstep_200.jpg	3.288125226	3.531237092	alien planet landscape made out of mushrooms, warm color, anime style
+all/sd1.5_lowstep_213.jpg	3.288125226	3.080115584	a biomechanical hibiscus flower made of metal, elevation view, abstract style
+all/sd1.5_lowstep_214.jpg	4.04445907	3.417262215	render of rivendell dreamy beautiful landscape, close-up, baroque style
+all/sd1.5_lowstep_219.jpg	2.912021026	2.726102068	a brand logo of henry cavill as a catholic nun, HDR lighting, baroque style
+all/sd1.5_lowstep_220.jpg	2.90305168	3.214232789	sparkling heart blue mana tree inside a marble, warm color, top view
+all/sd1.5_lowstep_238.jpg	2.206516657	2.16726552	many bodies floating in an infinite lake of blood, elevation view, close-up
+all/sd1.5_lowstep_239.jpg	3.741408859	2.646301338	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/sd1.5_lowstep_242.jpg	3.671121754	2.988304467	a living room with a black and white chevron floor, elevation view, blurred detail
+all/sd1.5_lowstep_245.jpg	0.690948526	1.141487573	fullbody portrait of half - fox woman with fox ears, top view, HDR lighting
+all/sd1.5_lowstep_253.jpg	2.632073999	2.90942096	a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting
+all/sd1.5_lowstep_261.jpg	3.066652656	3.02250478	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/sd1.5_lowstep_262.jpg	2.613196015	3.150111597	edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style
+all/sd1.5_lowstep_264.jpg	3.822444167	3.31387068	a hyper intricate oil portrait red cathedral interior, warm color, close-up, baroque style
+all/sd1.5_lowstep_280.jpg	2.377839033	1.836893934	rats in tuxedos drinking champagne in bubbles in the space, top view, blurred detail, anime style
+all/sd1.5_lowstep_283.jpg	3.958236395	3.158021435	steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style
+all/sd1.5_lowstep_290.jpg	2.161765422	2.225272813	a portrait of girl chronomancer glass jewelry padlocks fantasy, long-shot, blurred detail, anime style
+all/sd1.5_normal_000.jpg	0.44999057	0.678198368	statue of a man
+all/sd1.5_normal_012.jpg	2.989757839	2.142312157	life bar and mana bar
+all/sd1.5_normal_018.jpg	3.718303223	3.597061498	man hating his printer
+all/sd1.5_normal_021.jpg	3.29157139	3.763511558	portrait of mecha robot
+all/sd1.5_normal_038.jpg	2.523592728	3.696383698	christmas at kelly family
+all/sd1.5_normal_040.jpg	3.688435461	3.199772697	an elaborate robot coding
+all/sd1.5_normal_041.jpg	3.274744941	1.9250157	a raspberry made of metal
+all/sd1.5_normal_045.jpg	3.008458905	1.995457086	superman punches the pope
+all/sd1.5_normal_046.jpg	2.218274567	1.996643532	the drowned and the saved
+all/sd1.5_normal_050.jpg	2.852156791	3.130750884	logo design of a full moon
+all/sd1.5_normal_075.jpg	2.462183558	2.94270405	concept art of octopus attack, anime style
+all/sd1.5_normal_076.jpg	3.048358432	2.700983887	a biomechanical dahlia flower, sci-fi style
+all/sd1.5_normal_077.jpg	2.560585504	2.840103111	a anthropomorphic cat warrior, realistic style
+all/sd1.5_normal_079.jpg	2.942711395	3.33369641	the infernal dark gun magicks , baroque style
+all/sd1.5_normal_081.jpg	1.237266363	2.629356055	large purple lovecraftian void, sci-fi style
+all/sd1.5_normal_088.jpg	1.933236823	2.092525257	a space shuttle flying in space, abstract style
+all/sd1.5_normal_090.jpg	3.162256259	3.268206767	little girl with a mushroom hat, anime style
+all/sd1.5_normal_091.jpg	2.423784221	2.968775923	ufo ignoring the laws of phyics, sci-fi style
+all/sd1.5_normal_092.jpg	3.210551263	3.112865772	steampunk walter white portrait , realistic style
+all/sd1.5_normal_093.jpg	2.776844014	2.7906625	photo of tony danza eating chili, abstract style
+all/sd1.5_normal_097.jpg	2.646335983	2.458299452	donald trump playing in the rain, realistic style
+all/sd1.5_normal_107.jpg	2.85831935	2.835190856	spritesheet game asset vector art, realistic style
+all/sd1.5_normal_111.jpg	3.138913035	1.829511923	grand canyon full of potato salad, sci-fi style
+all/sd1.5_normal_116.jpg	2.939794687	3.269342324	portrait of beautiful armored girl, sci-fi style
+all/sd1.5_normal_117.jpg	2.391896453	2.78310259	portrait of a cloaked female devil, realistic style
+all/sd1.5_normal_118.jpg	2.254782866	1.920999368	foxes judging a cheese competition, abstract style
+all/sd1.5_normal_123.jpg	2.74826005	1.857875624	anthropomorphic pine marten animal, elevation view
+all/sd1.5_normal_124.jpg	2.689121932	2.592416657	action shot of woman pole vaulting, close-up
+all/sd1.5_normal_127.jpg	3.320022242	3.345634382	robots building robots in a factory, hyper detail
+all/sd1.5_normal_130.jpg	3.360750593	3.480852014	photography of a happy blonde girl , warm color
+all/sd1.5_normal_131.jpg	3.718303223	1.933414643	cute fluffy baby panda lion hybrid , cold color
+all/sd1.5_normal_137.jpg	2.363781612	2.794502694	white fur furry mothman movie scene , hyper detail
+all/sd1.5_normal_147.jpg	3.131243411	1.787713427	bill gates and jason statham fight m , hyper detail
+all/sd1.5_normal_151.jpg	3.127756575	3.351167422	photo of a white fashion jewelry store, cold color
+all/sd1.5_normal_154.jpg	3.438253731	2.960067189	cute fluffy baby poodle giraffe hybrid, close-up
+all/sd1.5_normal_160.jpg	2.409693201	1.876970161	cute soul ghost in infinity mirror room, warm color
+all/sd1.5_normal_166.jpg	3.966327593	3.113705614	a cybertronic metallic green tree frog , blurred detail
+all/sd1.5_normal_167.jpg	2.888789697	3.628776877	two women working in a recording studio, hyper detail
+all/sd1.5_normal_168.jpg	3.154005469	3.584393825	the celestial realm of the elven deities, soft lighting
+all/sd1.5_normal_170.jpg	3.573959847	2.772204703	portrait of butterflies swarming flowers, warm color
+all/sd1.5_normal_178.jpg	2.018808722	1.848675793	a car crawling with human hands and feet, soft lighting
+all/sd1.5_normal_187.jpg	3.131243411	2.531454291	softboy aesthetic in ancient greek clothing, hyper detail, realistic style
+all/sd1.5_normal_192.jpg	3.127756575	3.517088733	beautiful ancient temple in a formal garden, top view, realistic style
+all/sd1.5_normal_195.jpg	2.363781612	2.840103111	unique epic pink space elf knight adventurer, long-shot, anime style
+all/sd1.5_normal_200.jpg	2.414476208	3.620207741	alien planet landscape made out of mushrooms, warm color, anime style
+all/sd1.5_normal_213.jpg	3.062007692	3.080096813	a biomechanical hibiscus flower made of metal, elevation view, abstract style
+all/sd1.5_normal_214.jpg	3.897509797	3.696383698	render of rivendell dreamy beautiful landscape, close-up, baroque style
+all/sd1.5_normal_219.jpg	3.440761714	2.856177525	a brand logo of henry cavill as a catholic nun, HDR lighting, baroque style
+all/sd1.5_normal_220.jpg	2.363781612	2.395499044	sparkling heart blue mana tree inside a marble, warm color, top view
+all/sd1.5_normal_238.jpg	2.329452272	2.889390821	many bodies floating in an infinite lake of blood, elevation view, close-up
+all/sd1.5_normal_239.jpg	3.162256259	3.054879367	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/sd1.5_normal_242.jpg	3.769523701	2.395499044	a living room with a black and white chevron floor, elevation view, blurred detail
+all/sd1.5_normal_245.jpg	2.867071995	2.268627069	fullbody portrait of half - fox woman with fox ears, top view, HDR lighting
+all/sd1.5_normal_253.jpg	2.546528083	2.828703007	a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting
+all/sd1.5_normal_261.jpg	2.941929382	2.917022056	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/sd1.5_normal_262.jpg	2.538526609	3.150111597	edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style
+all/sd1.5_normal_264.jpg	1.765019055	2.272678902	a hyper intricate oil portrait red cathedral interior, warm color, close-up, baroque style
+all/sd1.5_normal_280.jpg	2.598262134	1.697524418	rats in tuxedos drinking champagne in bubbles in the space, top view, blurred detail, anime style
+all/sd1.5_normal_283.jpg	3.333743653	2.62350113	steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style
+all/sd1.5_normal_290.jpg	2.321609349	2.30429821	a portrait of girl chronomancer glass jewelry padlocks fantasy, long-shot, blurred detail, anime style

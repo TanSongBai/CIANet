@@ -1,0 +1,118 @@
+all/midjourney_lowstep_003.jpg	1.112671152	2.976904363	a cosmic universe
+all/midjourney_lowstep_006.jpg	1.445015122	1.837474519	a river in a forest
+all/midjourney_lowstep_015.jpg	2.630872609	2.851503215	santa claus on drugs
+all/midjourney_lowstep_021.jpg	1.844192258	2.903856842	portrait of mecha robot
+all/midjourney_lowstep_023.jpg	2.077045587	3.232987189	king kong on fighting
+all/midjourney_lowstep_026.jpg	2.703383915	3.397119887	a painting of a eclipse
+all/midjourney_lowstep_030.jpg	1.834018423	2.616373046	brand logo fruit company
+all/midjourney_lowstep_031.jpg	3.389757837	2.951467196	black mickey mouse skull
+all/midjourney_lowstep_043.jpg	3.231255627	3.256355245	a frog wearing police cap
+all/midjourney_lowstep_044.jpg	2.132904587	3.055730638	male warrior silver armor
+all/midjourney_lowstep_050.jpg	1.901333455	2.068271365	logo design of a full moon
+all/midjourney_lowstep_054.jpg	3.516223883	4.085788654	beautiful white fluffy cat
+all/midjourney_lowstep_062.jpg	2.55346049	2.740407521	a colour portrait of a king, realistic style
+all/midjourney_lowstep_064.jpg	1.972017159	3.066730889	monsters playing board games, baroque style
+all/midjourney_lowstep_079.jpg	1.954767317	2.118609113	the infernal dark gun magicks , baroque style
+all/midjourney_lowstep_086.jpg	2.955258155	2.841551967	a very drunk person named aaron, sci-fi style
+all/midjourney_lowstep_087.jpg	3.75546628	2.258697793	a tonalism portrait of a ghost , realistic style
+all/midjourney_lowstep_103.jpg	1.48681785	3.158021435	a giant rock floating in the air, abstract style
+all/midjourney_lowstep_109.jpg	3.001476926	3.174942147	photograph of beautiful landscape, baroque style
+all/midjourney_lowstep_113.jpg	0.977683949	2.568031711	epic colourful scene from a dream, abstract style
+all/midjourney_lowstep_115.jpg	1.644270161	1.952687802	ocean of canvas that catches fire, anime style
+all/midjourney_lowstep_125.jpg	3.046278569	2.926636646	a upright walking cute giraffe toy, long-shot
+all/midjourney_lowstep_132.jpg	2.442957962	2.838030773	a girl with rainbow in white shirt , top view
+all/midjourney_lowstep_149.jpg	2.791787056	3.190440744	a plasticine model of a goblin raider, HDR lighting
+all/midjourney_lowstep_158.jpg	1.627559856	3.112865772	photograph of a stone cairn in scotland, soft lighting
+all/midjourney_lowstep_159.jpg	1.83340294	2.994768272	person walking inside a timeless bubble, HDR lighting
+all/midjourney_lowstep_160.jpg	2.293736737	3.56051788	cute soul ghost in infinity mirror room, warm color
+all/midjourney_lowstep_168.jpg	0.641923698	1.709939693	the celestial realm of the elven deities, soft lighting
+all/midjourney_lowstep_174.jpg	2.503716151	2.897228486	ancient golden chrome finish skateboard , close-up
+all/midjourney_lowstep_177.jpg	2.193472252	3.075004622	a huge wooden carving sculpture of a fox, hyper detail
+all/midjourney_lowstep_182.jpg	2.374253916	2.51693257	a female warrior in charming phenix armor, top view, realistic style
+all/midjourney_lowstep_192.jpg	1.597692094	3.137696322	beautiful ancient temple in a formal garden, top view, realistic style
+all/midjourney_lowstep_194.jpg	2.674859949	2.87284354	a cyborg jellyfish swimming in a vast ocean, close-up, baroque style
+all/midjourney_lowstep_196.jpg	2.213514948	2.497857823	the essence of the chemical element hydrogen, blurred detail, sci-fi style
+all/midjourney_lowstep_197.jpg	3.386504205	3.244503722	storm troopers cosplaying the power rangers , hyper detail, realistic style
+all/midjourney_lowstep_201.jpg	2.460930201	2.897228486	a gummy bear performing at woodstock concert, cold color, sci-fi style
+all/midjourney_lowstep_214.jpg	2.304048386	2.799688701	render of rivendell dreamy beautiful landscape, close-up, baroque style
+all/midjourney_lowstep_216.jpg	3.306433702	3.057832635	elegant oval mirror and toucan with reflection, blurred detail, sci-fi style
+all/midjourney_lowstep_217.jpg	2.851759102	3.268206767	a portrait photo of a beautiful female android, hyper detail, realistic style
+all/midjourney_lowstep_220.jpg	2.478101113	3.024436368	sparkling heart blue mana tree inside a marble, warm color, top view
+all/midjourney_lowstep_221.jpg	2.276634155	2.443074357	goose being zipped - up by man in orange shirt, warm color, elevation view
+all/midjourney_lowstep_231.jpg	2.478791084	2.51693257	a dramatic photo of a lion made of cotton candy, cold color, hyper detail
+all/midjourney_lowstep_233.jpg	3.088457462	2.677763969	a penguin slipping on a banana in the antarctic , warm color, HDR lighting
+all/midjourney_lowstep_234.jpg	2.791787056	2.736797804	a mechanical human arm sticking out of the earth, cold color, soft lighting
+all/midjourney_lowstep_236.jpg	3.457533183	2.943352484	short - haired short butch tomboy blonde engineer, top view, close-up
+all/midjourney_lowstep_237.jpg	3.324474137	3.351474113	portrait of terrified green ball gown young woman, top view, long-shot
+all/midjourney_lowstep_239.jpg	0.940601322	1.945829918	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/midjourney_lowstep_243.jpg	1.337589887	1.90529456	mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail
+all/midjourney_lowstep_245.jpg	3.14151795	3.022343767	fullbody portrait of half - fox woman with fox ears, top view, HDR lighting
+all/midjourney_lowstep_248.jpg	3.002885562	3.421504833	a redhair beautiful girl wearing brown olive dress, close-up, blurred detail
+all/midjourney_lowstep_250.jpg	1.904712856	2.87284354	a dramatic photo of a mountain made of layered cake, long-shot, blurred detail
+all/midjourney_lowstep_259.jpg	0.64666085	1.126552971	a parade of disconnected images : a tragic supernova, hyper detail, HDR lighting
+all/midjourney_lowstep_261.jpg	1.776898668	2.727992245	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/midjourney_lowstep_263.jpg	2.616815188	2.86290332	cute animal character sleeping in the space station, cold color, elevation view, abstract style
+all/midjourney_lowstep_272.jpg	3.320012924	3.503116192	frontal portrait of female adult twins in the apocalypse, warm color, soft lighting, realistic style
+all/midjourney_lowstep_277.jpg	2.532240117	2.689956442	plasticine sculptures of two lovers walking through paris, top view, long-shot, realistic style
+all/midjourney_lowstep_279.jpg	2.015840767	2.243796519	table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style
+all/midjourney_lowstep_286.jpg	1.780593984	2.402534584	an epic artistic colourful natural scene on an alien planet, elevation view, soft lighting, sci-fi style
+all/midjourney_lowstep_296.jpg	1.744823083	2.90198339	bloodborne werewolf howling in yharnam with full moon in background, blurred detail, soft lighting, sci-fi style
+all/midjourney_normal_003.jpg	2.788955814	3.543429565	a cosmic universe
+all/midjourney_normal_006.jpg	3.756916035	3.930743523	a river in a forest
+all/midjourney_normal_015.jpg	3.657064334	2.931303945	santa claus on drugs
+all/midjourney_normal_021.jpg	3.887128521	3.921396233	portrait of mecha robot
+all/midjourney_normal_023.jpg	3.822840391	4.093672499	king kong on fighting
+all/midjourney_normal_026.jpg	3.628699936	2.56659367	a painting of a eclipse
+all/midjourney_normal_030.jpg	2.433989441	2.988713021	brand logo fruit company
+all/midjourney_normal_031.jpg	4.37231412	3.825421812	black mickey mouse skull
+all/midjourney_normal_043.jpg	3.699236596	3.923113018	a frog wearing police cap
+all/midjourney_normal_044.jpg	3.590592228	3.891247881	male warrior silver armor
+all/midjourney_normal_050.jpg	3.058356047	2.548396068	logo design of a full moon
+all/midjourney_normal_054.jpg	3.300254995	3.943743533	beautiful white fluffy cat
+all/midjourney_normal_062.jpg	3.839810805	3.524109368	a colour portrait of a king, realistic style
+all/midjourney_normal_064.jpg	3.938212751	3.729311245	monsters playing board games, baroque style
+all/midjourney_normal_079.jpg	3.700231162	2.401039388	the infernal dark gun magicks , baroque style
+all/midjourney_normal_086.jpg	3.9689969	3.715711518	a very drunk person named aaron, sci-fi style
+all/midjourney_normal_087.jpg	2.758973195	2.75903949	a tonalism portrait of a ghost , realistic style
+all/midjourney_normal_103.jpg	2.821971923	3.548579908	a giant rock floating in the air, abstract style
+all/midjourney_normal_109.jpg	3.561501185	3.536641936	photograph of beautiful landscape, baroque style
+all/midjourney_normal_113.jpg	3.401488261	3.73689006	epic colourful scene from a dream, abstract style
+all/midjourney_normal_115.jpg	4.472108404	3.167161119	ocean of canvas that catches fire, anime style
+all/midjourney_normal_125.jpg	3.806813177	3.641108818	a upright walking cute giraffe toy, long-shot
+all/midjourney_normal_132.jpg	3.896040489	3.900312809	a girl with rainbow in white shirt , top view
+all/midjourney_normal_149.jpg	3.502432704	3.410108325	a plasticine model of a goblin raider, HDR lighting
+all/midjourney_normal_158.jpg	3.643633817	3.919858649	photograph of a stone cairn in scotland, soft lighting
+all/midjourney_normal_159.jpg	3.445007041	3.189847843	person walking inside a timeless bubble, HDR lighting
+all/midjourney_normal_160.jpg	3.14151795	3.167161119	cute soul ghost in infinity mirror room, warm color
+all/midjourney_normal_168.jpg	4.039666506	3.641108818	the celestial realm of the elven deities, soft lighting
+all/midjourney_normal_174.jpg	3.576593619	3.811215295	ancient golden chrome finish skateboard , close-up
+all/midjourney_normal_177.jpg	3.701722739	3.836048921	a huge wooden carving sculpture of a fox, hyper detail
+all/midjourney_normal_182.jpg	3.541752783	3.066730889	a female warrior in charming phenix armor, top view, realistic style
+all/midjourney_normal_192.jpg	3.806813177	3.917578309	beautiful ancient temple in a formal garden, top view, realistic style
+all/midjourney_normal_194.jpg	3.438253731	3.434128078	a cyborg jellyfish swimming in a vast ocean, close-up, baroque style
+all/midjourney_normal_196.jpg	3.038537814	2.931303945	the essence of the chemical element hydrogen, blurred detail, sci-fi style
+all/midjourney_normal_197.jpg	4.012553286	3.458587836	storm troopers cosplaying the power rangers , hyper detail, realistic style
+all/midjourney_normal_201.jpg	3.863181835	3.592172903	a gummy bear performing at woodstock concert, cold color, sci-fi style
+all/midjourney_normal_214.jpg	4.464997282	3.646722598	render of rivendell dreamy beautiful landscape, close-up, baroque style
+all/midjourney_normal_216.jpg	3.733237104	3.199772697	elegant oval mirror and toucan with reflection, blurred detail, sci-fi style
+all/midjourney_normal_217.jpg	3.605176603	2.133869253	a portrait photo of a beautiful female android, hyper detail, realistic style
+all/midjourney_normal_220.jpg	3.800500414	3.102285456	sparkling heart blue mana tree inside a marble, warm color, top view
+all/midjourney_normal_221.jpg	3.319686232	3.10230551	goose being zipped - up by man in orange shirt, warm color, elevation view
+all/midjourney_normal_231.jpg	3.742610392	1.507186675	a dramatic photo of a lion made of cotton candy, cold color, hyper detail
+all/midjourney_normal_233.jpg	3.509228886	2.529347845	a penguin slipping on a banana in the antarctic , warm color, HDR lighting
+all/midjourney_normal_234.jpg	3.999181768	3.453076131	a mechanical human arm sticking out of the earth, cold color, soft lighting
+all/midjourney_normal_236.jpg	4.044010336	3.445889779	short - haired short butch tomboy blonde engineer, top view, close-up
+all/midjourney_normal_237.jpg	3.60083465	3.296107282	portrait of terrified green ball gown young woman, top view, long-shot
+all/midjourney_normal_239.jpg	3.062007692	2.824058767	a small grassland nestled in the hollow of a tree, elevation view, long-shot
+all/midjourney_normal_243.jpg	3.523701266	3.091228902	mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail
+all/midjourney_normal_245.jpg	3.643633817	2.740407521	fullbody portrait of half - fox woman with fox ears, top view, HDR lighting
+all/midjourney_normal_248.jpg	3.531316317	3.524703964	a redhair beautiful girl wearing brown olive dress, close-up, blurred detail
+all/midjourney_normal_250.jpg	3.723651273	3.50945668	a dramatic photo of a mountain made of layered cake, long-shot, blurred detail
+all/midjourney_normal_259.jpg	2.293266536	2.956517697	a parade of disconnected images : a tragic supernova, hyper detail, HDR lighting
+all/midjourney_normal_261.jpg	3.757702826	3.297882494	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/midjourney_normal_263.jpg	3.748170985	3.025958846	cute animal character sleeping in the space station, cold color, elevation view, abstract style
+all/midjourney_normal_272.jpg	3.598832173	3.423247647	frontal portrait of female adult twins in the apocalypse, warm color, soft lighting, realistic style
+all/midjourney_normal_277.jpg	3.285220668	2.951467196	plasticine sculptures of two lovers walking through paris, top view, long-shot, realistic style
+all/midjourney_normal_279.jpg	3.636963354	2.247340947	table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style
+all/midjourney_normal_286.jpg	3.245339277	3.348349994	an epic artistic colourful natural scene on an alien planet, elevation view, soft lighting, sci-fi style
+all/midjourney_normal_296.jpg	4.072931267	3.219821975	bloodborne werewolf howling in yharnam with full moon in background, blurred detail, soft lighting, sci-fi style

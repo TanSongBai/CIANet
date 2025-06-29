@@ -1,0 +1,59 @@
+all/DALLE2_normal_003.jpg	3.274576995	3.641108818	a cosmic universe
+all/DALLE2_normal_010.jpg	2.841733922	3.159306031	face shot of a woman
+all/DALLE2_normal_011.jpg	3.430745058	0.983010198	the prince of the sun
+all/DALLE2_normal_012.jpg	2.792237956	2.69321342	life bar and mana bar
+all/DALLE2_normal_019.jpg	2.729274555	3.489909055	big boss eating dinner
+all/DALLE2_normal_020.jpg	3.501131449	3.978346905	a overgrown old house
+all/DALLE2_normal_026.jpg	1.179543421	3.001128296	a painting of a eclipse
+all/DALLE2_normal_031.jpg	1.977251303	2.495735212	black mickey mouse skull
+all/DALLE2_normal_038.jpg	2.520123245	2.927805358	christmas at kelly family
+all/DALLE2_normal_042.jpg	3.231077294	2.958190852	a man jumping off a cliff
+all/DALLE2_normal_043.jpg	2.660597966	3.67754677	a frog wearing police cap
+all/DALLE2_normal_044.jpg	2.459590343	3.44363061	male warrior silver armor
+all/DALLE2_normal_046.jpg	2.917313663	2.080332784	the drowned and the saved
+all/DALLE2_normal_054.jpg	3.915652487	3.90920376	beautiful white fluffy cat
+all/DALLE2_normal_065.jpg	1.791832549	2.864560271	an environmental concept art, anime style
+all/DALLE2_normal_073.jpg	2.899057018	3.124625168	otter making a disgusted face, abstract style
+all/DALLE2_normal_079.jpg	2.491680335	2.90198339	the infernal dark gun magicks , baroque style
+all/DALLE2_normal_080.jpg	1.881435837	3.895028099	painted portrait of goblin man, anime style
+all/DALLE2_normal_087.jpg	1.834018423	2.414897168	a tonalism portrait of a ghost , realistic style
+all/DALLE2_normal_099.jpg	2.657997659	3.274264347	brain floating out of a portrait, baroque style
+all/DALLE2_normal_102.jpg	3.352004521	3.374870467	a grand stag in a fantasy forest, realistic style
+all/DALLE2_normal_113.jpg	0.889332048	1.44367974	epic colourful scene from a dream, abstract style
+all/DALLE2_normal_114.jpg	2.837204233	2.790068621	donut glazed with white chocolate, baroque style
+all/DALLE2_normal_118.jpg	1.747030906	3.274264347	foxes judging a cheese competition, abstract style
+all/DALLE2_normal_120.jpg	2.261262436	3.348349994	die cut sticker of a pair of lips , warm color
+all/DALLE2_normal_121.jpg	2.657997659	3.001128296	cute green tabby cat made of leaves, cold color
+all/DALLE2_normal_123.jpg	2.060413207	1.692657167	anthropomorphic pine marten animal, elevation view
+all/DALLE2_normal_131.jpg	3.387959109	3.153270423	cute fluffy baby panda lion hybrid , cold color
+all/DALLE2_normal_134.jpg	0.902911271	1.276698406	a biomechanical orchid heart fusion, close-up
+all/DALLE2_normal_139.jpg	2.625770283	2.915867386	digital painting of a lake at sunset, HDR lighting
+all/DALLE2_normal_142.jpg	2.14357511	2.443074357	a biomechanical passion fruit flower, top view
+all/DALLE2_normal_148.jpg	2.869848764	3.592509994	a portrait painting of a buck in suit, soft lighting
+all/DALLE2_normal_149.jpg	1.727765593	2.614222137	a plasticine model of a goblin raider, HDR lighting
+all/DALLE2_normal_155.jpg	3.510122043	3.569908726	an auto rickshaw driving through paris, long-shot
+all/DALLE2_normal_160.jpg	2.391896453	3.227706657	cute soul ghost in infinity mirror room, warm color
+all/DALLE2_normal_161.jpg	2.956675282	3.708798973	cute fluffy baby lop eared bunny rabbit, cold color
+all/DALLE2_normal_183.jpg	1.785560751	2.6904737	radioactive alien mushrooms in the forest , elevation view, abstract style
+all/DALLE2_normal_186.jpg	3.59159738	3.480852014	a portrait of girl alchemist in blue dress, blurred detail, sci-fi style
+all/DALLE2_normal_187.jpg	2.657997659	1.672693868	softboy aesthetic in ancient greek clothing, hyper detail, realistic style
+all/DALLE2_normal_192.jpg	3.108728168	3.644083685	beautiful ancient temple in a formal garden, top view, realistic style
+all/DALLE2_normal_197.jpg	3.524062705	3.417300183	storm troopers cosplaying the power rangers , hyper detail, realistic style
+all/DALLE2_normal_199.jpg	3.110506733	2.971918712	full body portrait of cute girl wearing gown, HDR lighting, baroque style
+all/DALLE2_normal_203.jpg	1.868518107	1.597142136	a beautiful brutalist concrete forest temple, elevation view, abstract style
+all/DALLE2_normal_211.jpg	3.304929808	3.059123051	a woman in a trench coat looking out a window, cold color, sci-fi style
+all/DALLE2_normal_215.jpg	2.344386154	2.54176312	portrait with no signature of aggressive alien, long-shot, anime style
+all/DALLE2_normal_220.jpg	2.505259558	2.946511745	sparkling heart blue mana tree inside a marble, warm color, top view
+all/DALLE2_normal_227.jpg	1.851568074	3.299094897	a sketch drawing of a hamster in a fruit basket, cold color, long-shot
+all/DALLE2_normal_234.jpg	3.197799919	2.456699832	a mechanical human arm sticking out of the earth, cold color, soft lighting
+all/DALLE2_normal_236.jpg	3.715984722	3.897011287	short - haired short butch tomboy blonde engineer, top view, close-up
+all/DALLE2_normal_243.jpg	2.446668218	2.958190852	mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail
+all/DALLE2_normal_246.jpg	2.082442662	2.366720668	alphonse eric from full metal alchemist brotherhood, elevation view, soft lighting
+all/DALLE2_normal_256.jpg	2.328729662	2.735002056	full length portrait of a beautiful woman with horns, blurred detail, soft lighting
+all/DALLE2_normal_260.jpg	2.671047584	3.142688856	mickey mouse head automaton held by a mechanical claw, warm color, top view, anime style
+all/DALLE2_normal_261.jpg	2.803217798	3.092308057	epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style
+all/DALLE2_normal_265.jpg	2.831741764	2.885036013	a blue anatomically correct human brain made of metal, warm color, long-shot, anime style
+all/DALLE2_normal_267.jpg	2.912636241	3.358399036	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/DALLE2_normal_271.jpg	2.980532355	3.291606502	the gold skull coming out from open cracked marble head, cold color, hyper detail, sci-fi style
+all/DALLE2_normal_275.jpg	2.233675103	2.211793876	a vibrant emotional key shot of cute australian shepherd, cold color, HDR lighting, anime style
+all/DALLE2_normal_291.jpg	2.628129896	2.36794927	oil painting portrait of anthropomorphic female green fox animal, long-shot, hyper detail, sci-fi style

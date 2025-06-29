@@ -1,0 +1,58 @@
+all/DALLE2_normal_000.jpg	3.058757207	3.481534167	statue of a man
+all/DALLE2_normal_002.jpg	2.855791343	2.908503737	man lost in space
+all/DALLE2_normal_006.jpg	3.330022312	3.944689199	a river in a forest
+all/DALLE2_normal_007.jpg	1.910721781	3.167161119	a cat doing karaoke
+all/DALLE2_normal_012.jpg	2.792237956	2.69321342	life bar and mana bar
+all/DALLE2_normal_014.jpg	2.954193289	3.752111454	a small leopard gecko
+all/DALLE2_normal_021.jpg	2.147166571	3.080115584	portrait of mecha robot
+all/DALLE2_normal_022.jpg	2.568394371	4.118503049	panda chef in a kitchen
+all/DALLE2_normal_026.jpg	1.179543421	3.001128296	a painting of a eclipse
+all/DALLE2_normal_032.jpg	2.478791084	2.777653346	an emo portrait painting
+all/DALLE2_normal_033.jpg	2.742340814	2.574726496	the pope had a rock band
+all/DALLE2_normal_036.jpg	2.506762262	1.62084518	gnome warfare at walmart
+all/DALLE2_normal_037.jpg	3.645914271	3.658965437	demon queen with red eyes
+all/DALLE2_normal_038.jpg	2.520123245	2.927805358	christmas at kelly family
+all/DALLE2_normal_042.jpg	3.231077294	2.958190852	a man jumping off a cliff
+all/DALLE2_normal_044.jpg	2.459590343	3.44363061	male warrior silver armor
+all/DALLE2_normal_053.jpg	2.405953874	2.919903841	castle from howl's sticker
+all/DALLE2_normal_060.jpg	2.817259418	1.715657358	artwork with only triangles, anime style
+all/DALLE2_normal_061.jpg	1.815542197	2.486699878	a yellow rendition of venom, sci-fi style
+all/DALLE2_normal_069.jpg	3.259652507	3.465014103	synthwave astronaut tabby cat, baroque style
+all/DALLE2_normal_071.jpg	3.0785433	3.082998995	smart sri lanka buddhist monk, sci-fi style
+all/DALLE2_normal_074.jpg	2.012346089	2.691901755	legionary of the roman empire, baroque style
+all/DALLE2_normal_078.jpg	2.247254325	3.124625168	tree of life embroidered scene, abstract style
+all/DALLE2_normal_081.jpg	1.523022688	2.951467196	large purple lovecraftian void, sci-fi style
+all/DALLE2_normal_088.jpg	3.334754679	3.517088733	a space shuttle flying in space, abstract style
+all/DALLE2_normal_090.jpg	2.254782866	2.740407521	little girl with a mushroom hat, anime style
+all/DALLE2_normal_091.jpg	3.369254363	2.723036745	ufo ignoring the laws of phyics, sci-fi style
+all/DALLE2_normal_093.jpg	2.476240979	3.227706657	photo of tony danza eating chili, abstract style
+all/DALLE2_normal_106.jpg	2.339014038	2.390596612	vaporware yosemite amusement park, sci-fi style
+all/DALLE2_normal_111.jpg	2.580492981	1.316179121	grand canyon full of potato salad, sci-fi style
+all/DALLE2_normal_112.jpg	2.64254653	2.93018727	gorgeous young scandanavian woman, realistic style
+all/DALLE2_normal_128.jpg	2.931575646	2.958190852	portrait of a tang dynasty empress , soft lighting
+all/DALLE2_normal_131.jpg	3.387959109	3.153270423	cute fluffy baby panda lion hybrid , cold color
+all/DALLE2_normal_133.jpg	1.106041797	2.470491925	a blue abyss underwater concept art, elevation view
+all/DALLE2_normal_136.jpg	3.108728168	3.154626828	man in his late 40 s wearing a suit, blurred detail
+all/DALLE2_normal_154.jpg	3.576252467	3.090433934	cute fluffy baby poodle giraffe hybrid, close-up
+all/DALLE2_normal_155.jpg	3.510122043	3.569908726	an auto rickshaw driving through paris, long-shot
+all/DALLE2_normal_165.jpg	2.837204233	2.864560271	a female hand holding a red fresh apple, long-shot
+all/DALLE2_normal_169.jpg	3.002885562	2.750918808	profile face portrait of a tin toy robot, HDR lighting
+all/DALLE2_normal_180.jpg	2.627511156	3.197097634	muscular cyborg girl with prosthetic arms, warm color, anime style
+all/DALLE2_normal_189.jpg	2.660597966	2.494876872	lobster human hybrid in fashion photography, HDR lighting, baroque style
+all/DALLE2_normal_218.jpg	2.908664621	2.416743929	a masonic illuminati waiting room with a couch, soft lighting, abstract style
+all/DALLE2_normal_223.jpg	2.40326321	2.900809578	small group of nomads staying at ancient ruins, cold color, elevation view
+all/DALLE2_normal_226.jpg	2.825502717	3.153995905	an anatomically correct cybertronic human heart, cold color, close-up
+all/DALLE2_normal_232.jpg	2.687102292	3.410108325	steampunk owl inside a glass jar buried in sand, warm color, soft lighting
+all/DALLE2_normal_235.jpg	2.874527714	3.043538165	steampunk squid inside a glass jar buried in sand, cold color, HDR lighting
+all/DALLE2_normal_237.jpg	3.316649193	3.348349994	portrait of terrified green ball gown young woman, top view, long-shot
+all/DALLE2_normal_240.jpg	2.000906886	2.504517295	photoreal portrait of a futuristic intricate robot, top view, blurred detail
+all/DALLE2_normal_246.jpg	2.082442662	2.366720668	alphonse eric from full metal alchemist brotherhood, elevation view, soft lighting
+all/DALLE2_normal_252.jpg	2.462183558	2.452499565	a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting
+all/DALLE2_normal_255.jpg	2.260001775	2.706378634	magician god holding a divine staff character design, long-shot, HDR lighting
+all/DALLE2_normal_266.jpg	2.630872609	3.056705093	scottish stone cairn inside a glass jar buried in sand, cold color, close-up, sci-fi style
+all/DALLE2_normal_267.jpg	2.912636241	3.358399036	beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style
+all/DALLE2_normal_268.jpg	1.351025623	1.811038675	spaceport on a vast desert planet with ships taking off, warm color, blurred detail, abstract style
+all/DALLE2_normal_278.jpg	2.03716536	2.963619274	dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style
+all/DALLE2_normal_279.jpg	3.380391978	3.250130605	table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style
+all/DALLE2_normal_281.jpg	3.576252467	3.078582412	portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style
+all/DALLE2_normal_297.jpg	3.016410807	3.001128296	cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style
